@@ -1,19 +1,18 @@
 <tutorialfile>
-
 	<!-- list o'triggers
-  
-  "fliplever" - a lever is pulled (any lever will do; each leve can only be flipped once)
-  "killmonster" - kill a monster
-  "eatfood" - food is eaten/booze is drunk
-  "drinkpotion" - a potion is drunk
-  "wands" - a wand is drunk  
-  "equipability" - an ability is equipped
-  "useability" - an ability is used        
-  -->
+  		"fliplever" - a lever is pulled (any lever will do; each leve can only be flipped once)
+		"killmonster" - kill a monster
+		"eatfood" - food is eaten/booze is drunk
+		"drinkpotion" - a potion is drunk
+		"wands" - a wand is drunk  
+		"equipability" - an ability is equipped
+		"useability" - an ability is used        
+	-->
 
 	<tutorial>
 		<info name="Movement" description="Aprenda como mover seu personagem pelo cenário." icon="skills/stat_chr64.png"/>
 		<room name="Tutorial Chamber: Movement" playerStartX="4" playerStartY="3"/>
+
 		<script text="Bem-vindo ao Dungeons of Dredmor! Temos muito para cobrir hoje, então vamos começar logo."/>
 		<script text="O objetivo em Dungeons of Dredmor não é necessariamente zerar o jogo. Na verdade, vencer o jogo é algo muito, muito, muito difícil. Ao invés disso, entre no jogo com a intenção de melhorar um pouco a cada vez. Com o tempo, você conseguirá vencer!"/>
 		<script text="No entanto, o Conselho de Certificação dos Heróis exige que ensinemos como jogar, para que você possa morrer adequadamente nas mãos dos seus inimigos. Vamos começar aprendendo a mover o herói."/>
@@ -35,12 +34,13 @@
 		<skill id="1"/>
 		<skill id="2"/>
 		<skill id="3"/>
+
 		<script text="Cada vez que você se move ou realiza uma ação em Dungeons of Dredmor, você e os monstros alternam suas jogadas. Você se move, depois eles se movem, aí você pode se mover de novo, e assim por diante."/>
 		<script text="Para demonstrar esse princípio, vamos matar alguma coisa. Este carinha aqui é o Diggle de Tutorial, um dos muitos Diggles que você vai encontrar. Vamos acabar com ele rapidinho."/>
 		<script text="Para atacar um monstro, basta se mover até ficar ao lado dele – seja com as teclas WASD ou com o mouse – e clicar nele para atacar." trigger="killmonster" value="Tutorial Diggle"/>
 		<script text="Nossa, você realmente o transformou em uma polpa sangrenta. Parabéns!"/>
 	</tutorial>
-	
+
 	<tutorial>
 		<info name="Combat Skills" description="Aprenda a desvendar o Enigma do Aço com nosso curso prático de estudos em casa." icon="skills/unskilled_dualwield.png" />
 		<room name="Tutorial Chamber: Combat Skills" playerStartX="4" playerStartY="18"/>
@@ -54,7 +54,7 @@
 		<equip name="Wooden Sword"/>
 		<equip name="Leather Cuirass"/>
 		<ability name="Norwegian Axenado"/>
-	
+
 		<script text="Nenhum homem jamais se tornou um grande guerreiro apenas clicando no inimigo. Você deve usar suas habilidades de combate e magia se quiser sobreviver nesta masmorra."/>
 		<script text="Este nível contém quatro poderosos Diggles Guerreiros. Olhe só para eles, sedentos pelo seu sangue. Se você simplesmente correr para cima deles e tentar clicá-los, será massacrado!"/>
 		<script text="Felizmente, existe um jeito mais fácil. No seu cinturão de habilidades, no lado direito da tela, você tem acesso a uma habilidade. As habilidades que você pode usar dependem das escolhas de carreira que fez no início do jogo."/>
@@ -70,7 +70,7 @@
 		<script trigger="killmonster" value="Diggle"/>
 		<script trigger="killmonster" value="Diggle"/>
 		<script text="Isso conclui a seção de Habilidades de Combate do tutorial. As habilidades de combate fazem coisas diferentes – experimente e descubra!"/>
-	</tutorial>	
+	</tutorial>
 
 	<tutorial>
 		<info name="Food" description="Comida, a comida maravilha!" icon="ui/icons/buff_healthy_appetite64.png" />
@@ -84,6 +84,7 @@
 		<skill id="6"/>
 		<equip name="Crude Stone Axe"/>
 		<equip name="Leather Cuirass"/>
+
 		<script text="Vamos começar matando um Diggle. Você já deve estar craque nisso agora." trigger="killmonster" value="Diggle"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Olhe como você está indo bem em matar Diggles! Está sangrando por todo lado, coitadinho de você."/>
@@ -107,6 +108,7 @@
 		<skill id="6"/>
 		<equip name="Crude Stone Axe"/>
 		<equip name="Leather Cuirass"/>
+
 		<script text="Uma das coisas divertidas em Dungeons of Dredmor é que você nunca sabe o que os itens vão fazer. Você é incentivado a aprender pela experimentação, pela morte e pelo recomeço de um novo jogo."/>
 		<script text="Aperte i para abrir seu inventário, ou clique no botão do inventário." trigger="openinventory"/>
 		<script text="Esta é sua mochila. Você pode armazenar itens nela. Clicando no botão do inventário novamente ou apertando i, você a fechará. Você também pode fechá-la apertando o pequeno X dourado."/>
@@ -127,7 +129,7 @@
 		<skill id="5"/>
 		<skill id="6"/>
 		<skill id="7"/>
-	
+
 		<script text="Durante sua jornada pela masmorra, você pode encontrar uma variedade de armas e armaduras. Muitas dessas armas e armaduras são melhores do que o que você começa, e uma chave para o sucesso é atualizar seu equipamento sempre que possível."/>
 		<script text="Ao seu lado está um maça. Pegue-a." trigger="pickupitem" value="Iron Mace"/>
 		<script text="Agora que você tem uma maça, precisamos colocá-la no seu equipamento. Você pode abrir o painel do personagem pressionando C ou clicando no botão de Personagem na parte inferior da tela com o mouse." trigger="opencharactersheet"/>
@@ -170,10 +172,10 @@
 		<script text="O painel do personagem tem um slot para bestas. Pegue a besta do seu inventário clicando nela e, em seguida, coloque-a no slot de equipamento." trigger="equipitem" value="Simple Iron Crossbow"/>
 		<script text="Para disparar os dardos, CLIQUE COM O BOTÃO DIREITO nos dardos para equipá-los. Os dardos aparecerão no quadrado dourado na parte inferior da tela para indicar que são o item ativo." trigger="equipability" value="Wooden Bolt"/>
 		<script text="Agora você pode atirar dardos no Diggle mirando com o mouse e pressionando o botão direito." trigger="killmonster" value="Diggle"/>
-	</tutorial>	
+	</tutorial>
 
 	<tutorial>
-		<info name="Thrown Weapons" description="Bombs! Who doesn't love bombs? You love bombs. They love you too." icon="skills/warrior/thrown2_64.png"/>
+		<info name="Thrown Weapons" description="Bombas! Quem não ama bombas? Você ama bombas. Elas também amam você." icon="skills/warrior/thrown2_64.png"/>
 		<room name="Tutorial Chamber: Thrown Weapons" playerStartX="4" playerStartY="2"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -182,15 +184,16 @@
 		<skill id="4"/>
 		<skill id="5"/>
 		<skill id="6"/>
-		<script text="This Diggle has surrounded himself with a charming moat of lava, and we left our crossbow in the previous tutorial. Fortunately, we have explosives."/>
-		<script text="Find the pile of bombs and put them in your belt." trigger="pickupitem" value="Makeshift Bomb"/>
-		<script text="Thrown weaponry - bombs, softballs, boomerangs, shuriken, and so forth - operate in the same way as crossbow bolts do. The main difference is that you don't need a crossbow to use them."/>
-		<script text="Equip the makeshift bombs by RIGHT-clicking on them in your belt." trigger="equipability" value="Makeshift Bomb"/>
-		<script text="You can tell that the bomb has been activated by looking at the gold box at the bottom of your screen that represents the currently active item. Now right click on the Diggle to blow it to kingdom come." trigger="killmonster" value="Diggle"/>
+
+		<script text="Este Diggle se cercou de um charmoso fosso de lava, e deixamos nossa besta no tutorial anterior. Felizmente, temos explosivos."/>
+		<script text="Encontre a pilha de bombas e coloque-as no seu cinto." trigger="pickupitem" value="Makeshift Bomb"/>
+		<script text="Armas lançadas - bombas, bolas de softball, bumerangues, shurikens e afins - funcionam da mesma maneira que os dardos de besta. A principal diferença é que você não precisa de uma besta para usá-las."/>
+		<script text="Equipe as bombas improvisadas clicando com o botão direito nelas no seu cinto." trigger="equipability" value="Makeshift Bomb"/>
+		<script text="Você pode saber que a bomba foi ativada olhando para o quadrado dourado na parte inferior da sua tela que representa o item atualmente ativo. Agora, clique com o botão direito no Diggle para explodi-lo em mil pedaços." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Resistances" description="Resistance is futile!" icon="skills/spells/celestial_aegis64.png" />
+		<info name="Resistances" description="Resistir é fútil!" icon="skills/spells/celestial_aegis64.png"/>
 		<room name="Tutorial Chamber: Resistances" playerStartX="4" playerStartY="7"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -201,22 +204,23 @@
 		<skill id="6"/>
 		<equip name="Rusty Sword"/>
 		<equip name="Leather Cuirass"/>
-		<script text="The room next to yours contains a Thermoblobby, who will do his best to kill you with his fiery, gooey attacks. Before you go in there and deliver a Heroic Beatdown, you need to find protection."/>
-		<script text="Open the equipment panel by clicking on the Character button, or by pressing C." trigger="opencharactersheet"/>
-		<script text="Various types of monsters and spells do various types of damages. You can find magical equipment and skills that will help you resist these effects. Not surprisingly, these are called resistances."/>
+
+		<script text="A sala ao lado contém um Termobolha, que fará o possível para te matar com seus ataques flamejantes e gosmentos. Antes de entrar e dar uma surra heroica, você precisa encontrar proteção."/>
+		<script text="Abra o painel de equipamentos clicando no botão de Personagem ou pressionando C." trigger="opencharactersheet"/>
+		<script text="Vários tipos de monstros e feitiços causam vários tipos de dano. Você pode encontrar equipamentos mágicos e habilidades que vão te ajudar a resistir a esses efeitos. Não surpreendentemente, essas são chamadas de resistências."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Go pick up the Ring of Ash." trigger="pickupitem" value="Ring of Ash"/>
-		<script text="You will see two slots for rings on the left hand side of the character panel. Equip the Ring of Ash in your equipment screen." trigger="equipitem" value="Ring of Ash"/>
-		<script text="You can see that a small fiery circle has appeared in the Resistances panel of the character sheet. Equipping the ring has given you two points of Conflagratory resistance. This means that you can absorb two points of Conflagratory damage before it starts to affect you."/>
-		<script text="For instance, suppose a monster hits you for two crushing, and two conflagratory damage. With the Ring of Ash equipped, you would only receive the two points of crushing damage. That's a 50 percent savings!"/>
+		<script text="Vá pegar o Anel de Cinzas." trigger="pickupitem" value="Ring of Ash"/>
+		<script text="Você verá dois slots para anéis no lado esquerdo do painel do personagem. Equipe o Anel de Cinzas na tela de equipamentos." trigger="equipitem" value="Ring of Ash"/>
+		<script text="Você pode ver que um pequeno círculo flamejante apareceu no painel de Resistências da ficha do personagem. Equipar o anel te deu dois pontos de resistência ao Conflagração. Isso significa que você pode absorver dois pontos de dano conflagratório antes que isso comece a te afetar."/>
+		<script text="Por exemplo, suponha que um monstro te acerte com dois pontos de dano esmagador e dois de dano conflagratório. Com o Anel de Cinzas equipado, você receberia apenas os dois pontos de dano esmagador. Isso é uma economia de 50 por cento!"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Go kill that Thermoblobby! Show it who's boss." trigger="killmonster" value="Thermoblobby"/>
-		<script text="It is important to understand that normal armour only protects you against crushing, slashing, and blasting damage. Most monsters do one of these three types of damage, but they may have additional special damages on top of that."/>
-		<script text="Managing your resistances - specifically, getting as much of it as you can - is essential to surviving the Dungeon."/>
+		<script text="Vá e mate aquele Termobolha! Mostre quem é que manda." trigger="killmonster" value="Thermoblobby"/>
+		<script text="É importante entender que a armadura normal só te protege contra danos esmagadores, cortantes e explosivos. A maioria dos monstros causa um desses três tipos de dano, mas podem ter danos especiais adicionais além disso."/>
+		<script text="Gerenciar suas resistências - especificamente, obter o máximo que puder - é essencial para sobreviver no Dungeon."/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Potions" description="Tasty beverages, brewed in unclean wizarding stills." icon="skills/rogue/skill_alchemy2_64.png" />
+		<info name="Potions" description="Bebidas saborosas, destiladas em alambiques de magos imundos." icon="skills/rogue/skill_alchemy2_64.png"/>
 		<room name="Tutorial Chamber: Potions" playerStartX="4" playerStartY="7"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -227,31 +231,32 @@
 		<skill id="6"/>
 		<equip name="Wooden Sword"/>
 		<equip name="Leather Cuirass"/>
-		<script text="Ah, potions. Magic liquids, sorcerous fluids, wizard juices, whatever you want to call them, they're powerful items that you can find in the Dungeons of Dredmor and store in your belt or inventory in case of emergency."/>
+
+		<script text="Ah, poções. Líquidos mágicos, fluidos de feiticeiros, sucos de magos, seja lá como você quiser chamá-los, são itens poderosos que você pode encontrar nos Dungeons de Dredmor e guardar em seu cinto ou inventário para emergências."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Various potions do different things. You may already have encountered Aqua Regia in a previous tutorial, but most potions are more useful than that. Let's start by finding the Potion of Invisibility." trigger="pickupitem" value="Potion of Invisibility"/>
-		<script text="The Potion of Invisibility makes you invisible. Place it in your belt, and RIGHT-click to drink it." trigger="drinkpotion" value="Potion of Invisibility"/>
-		<script text="Excellent! You will notice that an icon has appeared in the left hand corner of the screen. This is an example of a Buff - an active ability that makes you stronger or weaker. In this case, it makes you invisible."/>
-		<script text="Note that there is a timer in one corner of the icon. When the timer goes to zero, the effect of the potion wears off. In this case, you will return to visibility."/>
+		<script text="Várias poções fazem coisas diferentes. Você pode já ter encontrado a Aqua Regia em um tutorial anterior, mas a maioria das poções é mais útil que isso. Vamos começar procurando a Poção da Invisibilidade." trigger="pickupitem" value="Potion of Invisibility"/>
+		<script text="A Poção da Invisibilidade te torna invisível. Coloque-a no seu cinto e clique com o botão direito para bebê-la." trigger="drinkpotion" value="Potion of Invisibility"/>
+		<script text="Excelente! Você notará que um ícone apareceu no canto esquerdo da tela. Este é um exemplo de um Buff - uma habilidade ativa que te torna mais forte ou mais fraco. Neste caso, ele te torna invisível."/>
+		<script text="Observe que há um cronômetro em um canto do ícone. Quando o cronômetro chegar a zero, o efeito da poção se esgota. Neste caso, você voltará a ficar visível."/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Proceed to the second room and kill the Diggle." trigger="killmonster" value="Diggle"/>
+		<script text="Prossiga para a segunda sala e mate o Diggle." trigger="killmonster" value="Diggle"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="As you may have noticed, invisibility also wears off when you hit a monster. Proceed to the northern chamber, where you will find a second potion." trigger="pickupitem" value="Voltaic Potion"/>
-		<script text="The Voltaic potion imbues your body with electrical energy, granting you resistance to voltaic attacks and shocking your foes with Deadly Lightning. RIGHT-click it to drink." trigger="drinkpotion" value="Voltaic Potion"/>
+		<script text="Como você pode ter notado, a invisibilidade também se esgota quando você ataca um monstro. Vá para a câmara do norte, onde você encontrará uma segunda poção." trigger="pickupitem" value="Voltaic Potion"/>
+		<script text="A poção Voltaica infunde seu corpo com energia elétrica, concedendo resistência a ataques voltaicos e eletrocutando seus inimigos com Relâmpago Mortal. Clique com o botão direito para bebê-la." trigger="drinkpotion" value="Voltaic Potion"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Excellent. Prooced to the third room, and kill the Electroblobby." trigger="killmonster" value="Electroblobby"/>
+		<script text="Excelente. Prossiga para a terceira sala e mate o Electroblobby." trigger="killmonster" value="Electroblobby"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="You're looking pretty beat up after those battles, hero. Why not enjoy a delicious potion of healing?" trigger="drinkpotion" value="Potion of Healing"/>
+		<script text="Você está parecendo bem machucado após essas batalhas, herói. Que tal desfrutar de uma deliciosa poção de cura?" trigger="drinkpotion" value="Potion of Healing"/>
 	</tutorial>
 
 	<!--
-  <tutorial>
-    <info name="Lockpicks" description="Why not get yourself something nice?" icon="skills/rogue/skill_burglary0_64.png" />
-  </tutorial>
-  -->
+		<tutorial>
+		  <info name="Lockpicks" description="Why not get yourself something nice?" icon="skills/rogue/skill_burglary0_64.png" />
+		</tutorial>
+	-->
 
 	<tutorial>
-		<info name="Magic" description="If you're the Sorceror of Light, why are you casting magic missile?" icon="skills/wizard/magictraining2_64.png"/>
+		<info name="Magic" description="Se você é o Feiticeiro da Luz, por que está lançando projétil mágico?" icon="skills/wizard/magictraining2_64.png"/>
 		<room name="Tutorial Chamber: Magic" playerStartX="2" playerStartY="4"/>
 		<skill id="14"/>
 		<skill id="15"/>
@@ -262,24 +267,25 @@
 		<skill id="20"/>
 		<ability name="Xeuclid's Translation"/>
 		<ability name="Pyrokinesis"/>
-		<script text="Some heroes choose to fight with steel - or, when times are tough, weapons of wood and occasionally spaghetti. Others have chosen the cerebral, sagely art of magic - and this is the subject of today's tutorial."/>
-		<script text="Magic spells are used in the same way as you use combat skills. Magic can summon pets, transport you in and out of danger, and generally make your life better."/>
-		<script text="For instance, consider the giant moat blocking your progress. By using Xeuclid's Translation, you can move to the other side of the moat."/>
-		<script text="First, equip the spell by clicking on it in your skill belt." trigger="equipability" value="Xeuclid's Translation"/>
-		<script text="Now RIGHT-click on the other side of the moat to teleport, and pull the lever to continue the tutorial." trigger="fliplever"/>
+
+		<script text="Alguns heróis escolhem lutar com aço - ou, em tempos difíceis, armas de madeira e ocasionalmente espaguete. Outros optaram pela arte cerebral e sábia da magia - e este é o assunto do tutorial de hoje."/>
+		<script text="Feitiços mágicos são usados da mesma forma que você usa habilidades de combate. A magia pode invocar animais de estimação, te transportar para dentro e fora do perigo e, geralmente, tornar sua vida melhor."/>
+		<script text="Por exemplo, considere a gigantesca vala bloqueando seu progresso. Usando a Tradução de Xeuclid, você pode se mover para o outro lado da vala."/>
+		<script text="Primeiro, equipe o feitiço clicando nele no seu cinto de habilidades." trigger="equipability" value="Xeuclid's Translation"/>
+		<script text="Agora clique com o botão direito do mouse no outro lado da vala para se teletransportar e puxe a alavanca para continuar o tutorial." trigger="fliplever"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Spells consume mana. The amount of mana consumed is highlighted on the blue Mana bar at the bottom of the screen."/>
-		<script text="To regain mana, you can either wait by hitting SPACE, or you can drink booze. Go find the Sewer Brew, then place it in your belt and RIGHT-click to drink it." trigger="eatfood" value="Sewer Brew"/>
-		<script text="Sewer Brew is not a high-quality form of alcohol. However, every turn that you still have booze in your system, you will regain mana at a faster rate than you would normally - specifically, one point of mana every turn."/>
-		<script text="The Fuelled by Booze icon indicates how long you will remain refreshed."/>
-		<script text="The next room contains a Diggle. As a wizard, you are weak and puny, and would not survive a direct confrontation. Instead, blow him up with your magical powers."/>
-		<script text="First, equip the Pyrokinesis spell in your skill belt by clicking on it." trigger="equipability" value="Pyrokinesis"/>
+		<script text="Feitiços consomem mana. A quantidade de mana consumida é destacada na barra azul de Mana na parte inferior da tela."/>
+		<script text="Para recuperar mana, você pode simplesmente esperar pressionando a tecla SPACE ou pode beber bebidas alcoólicas. Vá encontrar o Brew de Esgoto, coloque-o no seu cinto e clique com o botão direito para bebê-lo." trigger="eatfood" value="Sewer Brew"/>
+		<script text="O Brew de Esgoto não é uma forma de álcool de alta qualidade. No entanto, a cada turno que você ainda tiver álcool em seu sistema, você recuperará mana a uma taxa mais rápida do que normalmente - especificamente, um ponto de mana a cada turno."/>
+		<script text="O ícone 'Alimentado por Álcool' indica quanto tempo você permanecerá renovado."/>
+		<script text="A próxima sala contém um Diggle. Como um mago, você é fraco e insignificante, e não sobreviveria a um confronto direto. Em vez disso, exploda-o com seus poderes mágicos."/>
+		<script text="Primeiro, equipe o feitiço Pirocinese em seu cinto de habilidades clicando nele." trigger="equipability" value="Pyrokinesis"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Next, blow up that Diggle by RIGHT-clicking on it with the mouse." trigger="killmonster" value="Diggle"/>
+		<script text="Em seguida, exploda aquele Diggle clicando com o botão direito do mouse nele." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Buffs" description="Let's get powered up." icon="skills/stat_str64.png"/>
+		<info name="Buffs" description="Vamos nos fortalecer." icon="skills/stat_str64.png"/>
 		<room name="Tutorial Chamber: Buffs" playerStartX="4" playerStartY="4"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -288,15 +294,14 @@
 		<skill id="4"/>
 		<skill id="5"/>
 		<skill id="6"/>
-
 		<ability name="Power of Magic Steel"/>
-		<script text="Some heroes choose to combine magic and weaponry for potent effects. These wizards often choose to use spells to make their attacks more powerful. These are called 'Buffs'."/>
-		<script text="For instance, the Power of Magic Steel spell, from the school of Viking Magic, infuses your weapon with potent voltaic energies. Click on the Power of Magic Steel spell in your spell belt." trigger="equipability" value="Power of Magic Steel"/>
-		<script text="Now right-click to cast." trigger="useability" value="Power of Magic Steel"/>
-		<script text="The Power of Magic Steel has now infused your weapon with voltaic energy. This spell stays active for up to five attacks, but it also consumes magic as long as it is in effect. If you run out of mana, the spell will dissolve."/>
-		<script text="You can also cancel the spell at any time by pressing the gold X in the buff icon on the left hand side of the screen."/>
-		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Now that you are full of lightning, why not take it out on the Enraged Diggle in the other room?" trigger="killmonster" value="Enraged Diggle"/>
-	</tutorial>
 
+		<script text="Alguns heróis escolhem combinar magia e armamento para efeitos potentes. Esses magos costumam usar feitiços para tornar seus ataques mais poderosos. Esses feitiços são chamados de 'Buffs'."/>
+		<script text="Por exemplo, o feitiço Poder do Aço Mágico, da escola de Magia Viking, infunde sua arma com energias voltagem potentes. Clique no feitiço Poder do Aço Mágico em seu cinto de feitiços." trigger="equipability" value="Power of Magic Steel"/>
+		<script text="Agora clique com o botão direito do mouse para lançar." trigger="useability" value="Power of Magic Steel"/>
+		<script text="O Poder do Aço Mágico agora infundiu sua arma com energia voltagem. Este feitiço permanece ativo por até cinco ataques, mas também consome magia enquanto estiver em efeito. Se você ficar sem mana, o feitiço se desmanchará."/>
+		<script text="Você também pode cancelar o feitiço a qualquer momento pressionando o X dourado no ícone do buff no lado esquerdo da tela."/>
+		<script action="removeblocker" value="Dungeon Rubble"/>
+		<script text="Agora que você está cheio de eletricidade, por que não descarregá-la no Diggle Enfurecido na sala ao lado?" trigger="killmonster" value="Enraged Diggle"/>
+	</tutorial>
 </tutorialfile>
