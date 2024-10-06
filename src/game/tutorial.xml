@@ -10,7 +10,7 @@
 	-->
 
 	<tutorial>
-		<info name="Movement" description="Aprenda como mover seu personagem pelo cenário." icon="skills/stat_chr64.png"/>
+		<info name="Movemento" description="Aprenda como mover seu personagem pelo cenário." icon="skills/stat_chr64.png"/>
 		<room name="Tutorial Chamber: Movement" playerStartX="4" playerStartY="3"/>
 
 		<script text="Bem-vindo ao Dungeons of Dredmor! Temos muito para cobrir hoje, então vamos começar logo."/>
@@ -19,14 +19,14 @@
 		<script text="Mover-se em Dungeons of Dredmor é simples. As teclas W, A, S e D no teclado movem o seu herói para cima, esquerda, baixo e direita, respectivamente."/>
 		<script text="Tente caminhar até a primeira alavanca e acioná-la. Para interagir com objetos em Dungeons of Dredmor, basta clicar neles." trigger="fliplever"/>
 		<script action="removeblocker" value="Grade Educacional dos Anões"/>
-		<script text="Muito bem — a Grade Educacional dos Anões foi aberta, e agora você pode seguir para a seção do Pequeno Labirinto Aquático do tutorial."/>
+		<script text="Muito bem! A Grade Educacional dos Anões foi aberta, e agora você pode seguir para a seção do Pequeno Labirinto Aquático do tutorial."/>
 		<script text="Se não quiser usar o teclado, você também pode clicar no chão. Seu herói se moverá automaticamente até a posição selecionada."/>
 		<script text="Tente usar o mouse para se mover pelo labirinto aquático abaixo. Lembre-se de que você pode simplesmente clicar em um objeto, como a alavanca, para ir diretamente até ele." trigger="fliplever"/>
 		<script text="Muito bem! Isso conclui o primeiro tutorial."/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Combat" description="Desça a porrada em um Diggle." icon="skills/warrior/macery2_64.png"/>
+		<info name="Combate" description="Desça a porrada em um Diggle." icon="skills/warrior/macery2_64.png"/>
 		<room name="Tutorial Chamber: Combat" playerStartX="7" playerStartY="7"/>
 		<equip name="Wooden Sword"/>
 		<equip name="Leather Cuirass"/>
@@ -36,13 +36,13 @@
 		<skill id="3"/>
 
 		<script text="Cada vez que você se move ou realiza uma ação em Dungeons of Dredmor, você e os monstros alternam suas jogadas. Você se move, depois eles se movem, aí você pode se mover de novo, e assim por diante."/>
-		<script text="Para demonstrar esse princípio, vamos matar alguma coisa. Este carinha aqui é o Diggle de Tutorial, um dos muitos Diggles que você vai encontrar. Vamos acabar com ele rapidinho."/>
-		<script text="Para atacar um monstro, basta se mover até ficar ao lado dele – seja com as teclas WASD ou com o mouse – e clicar nele para atacar." trigger="killmonster" value="Tutorial Diggle"/>
-		<script text="Nossa, você realmente o transformou em uma polpa sangrenta. Parabéns!"/>
+		<script text="Para demonstrar esse princípio, vamos matar alguma coisa. Este carinha aqui é o Diggle desse Tutorial, um dos muitos Diggles que você vai encontrar. Vamos acabar com ele rapidinho."/>
+		<script text="Para atacar um monstro, basta se mover até ficar ao lado dele – seja com as teclas WASD ou com o mouse - e clicar nele para atacar." trigger="killmonster" value="Tutorial Diggle"/>
+		<script text="Nossa, você realmente transformou ele em uma polpa sangrenta. Parabéns!"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Combat Skills" description="Aprenda a desvendar o Enigma do Aço com nosso curso prático de estudos em casa." icon="skills/unskilled_dualwield.png" />
+		<info name="Habilidades de Combate" description="Aprenda a desvendar o Enigma do Aço com nosso curso prático de estudos em casa." icon="skills/unskilled_dualwield.png" />
 		<room name="Tutorial Chamber: Combat Skills" playerStartX="4" playerStartY="18"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -73,7 +73,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Food" description="Comida, a comida maravilha!" icon="ui/icons/buff_healthy_appetite64.png" />
+		<info name="Comida" description="Comida, a comida maravilha!" icon="ui/icons/buff_healthy_appetite64.png" />
 		<room name="Tutorial Chamber: Food" playerStartX="4" playerStartY="8"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -87,17 +87,17 @@
 
 		<script text="Vamos começar matando um Diggle. Você já deve estar craque nisso agora." trigger="killmonster" value="Diggle"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Olhe como você está indo bem em matar Diggles! Está sangrando por todo lado, coitadinho de você."/>
-		<script text="Você deve ter percebido que sua saúde está baixa. A saúde é representada pela barra VERMELHA na parte inferior da tela. Se sua saúde cair a zero, você morrerá. Isso encerrará o jogo."/>
-		<script text="Você pode recuperar saúde de algumas maneiras. Primeiro, pode simplesmente esperar, movendo-se pela masmorra ou apertando a BARRA DE ESPAÇO. Isso faz você esperar um turno. Seu herói recuperará saúde lentamente por conta própria."/>
-		<script text="Se seu herói comer comida, ele recuperará saúde mais rapidamente - um ponto de saúde a cada turno. Deixamos um pouco na masmorra para você - vá pegá-lo e coma."/>
-		<script text="Para comer, pegue a comida e coloque no seu cinturão. Depois, clique com o BOTÃO DIREITO para comer." trigger="eatfood" value="Sanduíche Direto"/>
+		<script text="Olhe como você está indo bem em matar Diggles! Porém, você está sangrando por todo lado, coitadinho..."/>
+		<script text="Você deve ter percebido que sua saúde está um pouco baixa. A saúde é representada pela barra VERMELHA na parte inferior da tela. Se ela chegar a zero, você morrerá e isso encerrará o jogo."/>
+		<script text="Você pode recuperar sua saúde de algumas maneiras: primeiro, você pode simplesmente esperar, movendo-se pela masmorra ou simplesmente apertando a BARRA DE ESPAÇO. Isso fará com que você espere um turno. Seu herói recuperará a saúde lentamente por conta própria."/>
+		<script text="Se seu herói comer alguma comida, ele recuperará a saúde ainda mais rapidamente - pois ela irá conceber um ponto de saúde a cada turno. Deixamos um pouco na masmorra para você - tente pegá-la e depois a coma."/>
+		<script text="Para comer, basta pegar a comida e colocar em seu cinturão. Depois, clique com o BOTÃO DIREITO para come-la." trigger="eatfood" value="Sanduíche Direto"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Agora vá matar o outro Diggle." trigger="killmonster" value="Diggle"/>
+		<script text="Muito bem! Agora vá matar o outro Diggle." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Item Use" description="Vamos soltar um ácido juntos!" icon="skills/rogue/skill_alchemy1_64.png" />
+		<info name="Usar Itens" description="Vamos soltar um ácido juntos!" icon="skills/rogue/skill_alchemy1_64.png" />
 		<room name="Tutorial Chamber: Item Use" playerStartX="4" playerStartY="4"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -119,7 +119,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Equipment Maintenance" description="Não use botas na cabeça. Afinal, onde você colocaria o cone de trânsito?" icon="skills/warrior/armourer1_64.png" />
+		<info name="Manutenção de Equipamentos" description="Não use botas na cabeça. Afinal, onde você colocaria o cone de trânsito?" icon="skills/warrior/armourer1_64.png" />
 		<room name="Tutorial Chamber: Equipment Maintenance" playerStartX="4" playerStartY="17"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -152,7 +152,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Crossbows" description="Atire em si mesmo no pé." icon="skills/warrior/crossbow0_64.png"/>
+		<info name="Bestas" description="Atire em si mesmo no pé." icon="skills/warrior/crossbow0_64.png"/>
 		<room name="Tutorial Chamber: Crossbows" playerStartX="4" playerStartY="17"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -175,7 +175,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Thrown Weapons" description="Bombas! Quem não ama bombas? Você ama bombas. Elas também amam você." icon="skills/warrior/thrown2_64.png"/>
+		<info name="Armas de Arremesso" description="Bombas! Quem não ama bombas? Você ama bombas. Elas também amam você." icon="skills/warrior/thrown2_64.png"/>
 		<room name="Tutorial Chamber: Thrown Weapons" playerStartX="4" playerStartY="2"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -193,7 +193,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Resistances" description="Resistir é fútil!" icon="skills/spells/celestial_aegis64.png"/>
+		<info name="Resistências" description="Resistir é fútil!" icon="skills/spells/celestial_aegis64.png"/>
 		<room name="Tutorial Chamber: Resistances" playerStartX="4" playerStartY="7"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -220,7 +220,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Potions" description="Bebidas saborosas, destiladas em alambiques de magos imundos." icon="skills/rogue/skill_alchemy2_64.png"/>
+		<info name="Poções" description="Bebidas saborosas, destiladas em alambiques de magos imundos." icon="skills/rogue/skill_alchemy2_64.png"/>
 		<room name="Tutorial Chamber: Potions" playerStartX="4" playerStartY="7"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -256,7 +256,7 @@
 	-->
 
 	<tutorial>
-		<info name="Magic" description="Se você é o Feiticeiro da Luz, por que está lançando projétil mágico?" icon="skills/wizard/magictraining2_64.png"/>
+		<info name="Magia" description="Se você é o Feiticeiro da Luz, por que está lançando projétil mágico?" icon="skills/wizard/magictraining2_64.png"/>
 		<room name="Tutorial Chamber: Magic" playerStartX="2" playerStartY="4"/>
 		<skill id="14"/>
 		<skill id="15"/>
