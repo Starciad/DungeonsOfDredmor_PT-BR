@@ -10,19 +10,19 @@
 	-->
 
 	<tutorial>
-		<info name="Movemento" description="Aprenda como mover seu personagem pelo cenário." icon="skills/stat_chr64.png"/>
+		<info name="Movimentação" description="Dê seus primeiros passos aprendendo a como se movimentar pelo cenário." icon="skills/stat_chr64.png"/>
 		<room name="Tutorial Chamber: Movement" playerStartX="4" playerStartY="3"/>
 
-		<script text="Bem-vindo ao Dungeons of Dredmor! Temos muito para cobrir hoje, então vamos começar logo."/>
-		<script text="O objetivo em Dungeons of Dredmor não é necessariamente zerar o jogo. Na verdade, vencer o jogo é algo muito, muito, muito difícil. Ao invés disso, entre no jogo com a intenção de melhorar um pouco a cada vez. Com o tempo, você conseguirá vencer!"/>
-		<script text="No entanto, o Conselho de Certificação dos Heróis exige que ensinemos como jogar, para que você possa morrer adequadamente nas mãos dos seus inimigos. Vamos começar aprendendo a mover o herói."/>
-		<script text="Mover-se em Dungeons of Dredmor é simples. As teclas W, A, S e D no teclado movem o seu herói para cima, esquerda, baixo e direita, respectivamente."/>
-		<script text="Tente caminhar até a primeira alavanca e acioná-la. Para interagir com objetos em Dungeons of Dredmor, basta clicar neles." trigger="fliplever"/>
-		<script action="removeblocker" value="Grade Educacional dos Anões"/>
-		<script text="Muito bem! A Grade Educacional dos Anões foi aberta, e agora você pode seguir para a seção do Pequeno Labirinto Aquático do tutorial."/>
-		<script text="Se não quiser usar o teclado, você também pode clicar no chão. Seu herói se moverá automaticamente até a posição selecionada."/>
-		<script text="Tente usar o mouse para se mover pelo labirinto aquático abaixo. Lembre-se de que você pode simplesmente clicar em um objeto, como a alavanca, para ir diretamente até ele." trigger="fliplever"/>
-		<script text="Muito bem! Isso conclui o primeiro tutorial."/>
+		<script text="Seja muito bem-vindo(a) ao Dungeons of Dredmor! Teremos muito para cobrir hoje, então vamos começar logo!"/>
+		<script text="Seu objetivo em Dungeons of Dredmor não é necessariamente zerar o jogo. Tendo em vista que, vencer o jogo é algo muito, muito, muito difícil... Ao invés disso, entre no jogo com a intenção de melhorar um pouco a cada tentativa. Com o tempo, você certamente conseguirá vencer!"/>
+		<script text="No entanto, o Conselho de Certificação dos Heróis exige que ensinemos como jogar, para você poder morrer adequadamente nas mãos dos seus inimigos. Então, vamos começar aprendendo a como mover o seu personagem."/>
+		<script text="Mover-se em Dungeons of Dredmor é uma tarefa bastante simples; basta utilizar as teclas W, A, S e D presentes em seu teclado para fazer seu herói ir, respectivamente, para cima, para a esquerda, para baixo e por fim, para a direita."/>
+		<script text="Vamos começar com algo simples. Vá até aquela primeira alavanca e depois tente acioná-la. Para interagir com objetos em Dungeons of Dredmor, basta clicar em cima deles utilizando o mouse." trigger="fliplever"/>
+		<script action="removeblocker" value="Dwarven Educational Grate"/>
+		<script text="Bravo! A Grade Educacional dos Anões foi aberta, e agora você pode dar continuidade ao tutorial seguindo para a seção do Pequeno Labirinto Aquático."/>
+		<script text="Caso não queira utilizar o teclado, também é possível clicar no chão utilizando o mouse. Seu herói se movimentará automaticamente até a posição selecionada por você."/>
+		<script text="Tente usar o mouse para ir até o Labirinto Aquático logo abaixo. Lembre-se que você também pode simplesmente clicar em um objeto, como a alavanca, para ir diretamente até lá." trigger="fliplever"/>
+		<script text="Excelente! Isso conclui o nosso primeiro tutorial."/>
 	</tutorial>
 
 	<tutorial>
