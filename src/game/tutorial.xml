@@ -55,21 +55,21 @@
 		<equip name="Leather Cuirass"/>
 		<ability name="Norwegian Axenado"/>
 
-		<script text="Nenhum homem jamais se tornou um grande guerreiro apenas clicando no inimigo. Você deve usar suas habilidades de combate e magia se quiser sobreviver nesta masmorra."/>
-		<script text="Este nível contém quatro poderosos Diggles Guerreiros. Olhe só para eles, sedentos pelo seu sangue. Se você simplesmente correr para cima deles e tentar clicá-los, será massacrado!"/>
-		<script text="Felizmente, existe um jeito mais fácil. No seu cinturão de habilidades, no lado direito da tela, você tem acesso a uma habilidade. As habilidades que você pode usar dependem das escolhas de carreira que fez no início do jogo."/>
-		<script text="Neste caso, você é um poderoso portador de machados, e por isso tem acesso ao poderoso Tornado de Machado Norueguês. Clique no ícone do Tornado para equipá-lo." trigger="equipability" value="Tornado de Machado Norueguês"/>
+		<script text="Nenhum homem jamais se tornou um grande guerreiro apenas clicando nos inimigos. Você deve usar suas habilidades de combate e magia se quiser sobreviver nessas masmorras."/>
+		<script text="Neste nível, você encontrará quatro guerreiros Diggles poderosos. Todos eles estão sedentos pelo seu sangue. Se você simplesmente correr para cima deles e tentar clicá-los, será massacrado!"/>
+		<script text="Felizmente, existe um jeito mais fácil de lidar com isso. No seu cinturão de habilidades (no canto inferior direito da tela), você tem acesso a uma habilidade. As habilidades que você pode usar dependem das escolhas de carreira que foram feitas no início do jogo, durante a criação de seu personagem."/>
+		<script text="Nesse momento, você é um poderoso portador de machados, e por isso tem acesso ao poderoso Tornado de Machado Norueguês. Clique no ícone da habilidade para equipá-la." trigger="equipability" value="Norwegian Axenado"/>
 		<script action="removeblocker" value="Diggle Pen Bars"/>
-		<script text="Excelente. Agora, podemos matar alguns Diggles."/>
-		<script text="Note como o ícone do Tornado de Machado agora aparece na pequena caixa dourada no canto inferior da tela. Isso significa que está ativo e pode ser executado clicando com o BOTÃO DIREITO do mouse em um quadrado."/>
-		<script text="Aproxime-se do Diggle. Segure o BOTÃO DIREITO para ver os quadrados que pode atacar. Solte o BOTÃO DIREITO para lançar o Tornado de Machado. Agora, vá matar aquele Diggle." trigger="killmonster" value="Diggle"/>
+		<script text="Excelente. Agora que a habilidade está equipada, vamos matar alguns Diggles!"/>
+		<script text="Perceba como o ícone do Tornado de Machado agora aparece na pequena caixa dourada no canto inferior direito da tela ao lado do cinturão de habilidades. Isso significa que a habilidade foi equipada e que agora pode ser utilizada."/>
+		<script text="Segure o BOTÃO DIREITO do mouse para ver quais são os quadrados em que sua habilidade terá efeito. Quando decidir atacar, solte o BOTÃO DIREITO para lançar o Tornado de Machado (sua habilidade equipada). Agora vá e aproxime-se do Diggle." trigger="killmonster" value="Diggle"/>
 		<script text="Você honrou seus ancestrais vikings! Note que alguns números apareceram sobre a habilidade, e que ela parece estar desativada. Isso acontece porque sua habilidade tem um tempo de recarga, e você deve esperar antes de usá-la novamente."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Abrimos uma câmara para os Ninhos de Diggle. Você pode apertar a BARRA DE ESPAÇO para passar seu turno, e eles avançarão em sua posição. Espere até estar cercado, e então ataque com seu Tornado de Machado Norueguês!"/>
+		<script text="Abrimos uma câmara que irá levar você ao ninho dos Diggles. Para passar seu turno pressione a BARRA DE ESPAÇO do seu teclado. Isso fará com que os diggles avancem em sua direção. Quando você estiver cercado, ataque-os com sua habilidade."/>
 		<script trigger="killmonster" value="Diggle"/>
 		<script trigger="killmonster" value="Diggle"/>
 		<script trigger="killmonster" value="Diggle"/>
-		<script text="Isso conclui a seção de Habilidades de Combate do tutorial. As habilidades de combate fazem coisas diferentes – experimente e descubra!"/>
+		<script text="Sensacional! Isso conclui a seção de Habilidades de Combate do tutorial. Todas as habilidades fazem coisas diferentes, ou seja, continue experimentando e explorando novos caminhos."/>
 	</tutorial>
 
 	<tutorial>
