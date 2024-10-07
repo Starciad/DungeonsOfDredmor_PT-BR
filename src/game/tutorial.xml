@@ -16,7 +16,7 @@
 		<script text="Seja muito bem-vindo(a) ao Dungeons of Dredmor! Teremos muito para cobrir hoje, então vamos começar logo!"/>
 		<script text="Seu objetivo em Dungeons of Dredmor não é necessariamente zerar o jogo. Tendo em vista que, vencer o jogo é algo muito, muito, muito difícil... Ao invés disso, entre no jogo com a intenção de melhorar um pouco a cada tentativa. Com o tempo, você certamente conseguirá vencer!"/>
 		<script text="No entanto, o Conselho de Certificação dos Heróis exige que ensinemos como jogar, para você poder morrer adequadamente nas mãos dos seus inimigos. Então, vamos começar aprendendo a como mover o seu personagem."/>
-		<script text="Mover-se em Dungeons of Dredmor é uma tarefa bastante simples; basta utilizar as teclas W, A, S e D presentes em seu teclado para fazer seu herói ir, respectivamente, para cima, para a esquerda, para baixo e por fim, para a direita."/>
+		<script text="Mover-se em Dungeons of Dredmor é uma tarefa bastante simples: basta utilizar as teclas W, A, S e D presentes em seu teclado para fazer seu herói ir, respectivamente, para cima, para a esquerda, para baixo e por fim, para a direita."/>
 		<script text="Vamos começar com algo simples. Vá até aquela primeira alavanca e depois tente acioná-la. Para interagir com objetos em Dungeons of Dredmor, basta clicar em cima deles utilizando o mouse." trigger="fliplever"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Bravo! A Grade Educacional dos Anões foi aberta, e agora você pode dar continuidade ao tutorial seguindo para a seção do Pequeno Labirinto Aquático."/>
@@ -35,10 +35,10 @@
 		<skill id="2"/>
 		<skill id="3"/>
 
-		<script text="Cada vez que você se move ou realiza uma ação em Dungeons of Dredmor, você e os monstros alternam suas jogadas. Você se move, depois eles se movem, aí você pode se mover de novo, e assim por diante."/>
-		<script text="Para demonstrar esse princípio, vamos matar alguma coisa. Este carinha aqui é o Diggle desse Tutorial, um dos muitos Diggles que você vai encontrar. Vamos acabar com ele rapidinho."/>
-		<script text="Para atacar um monstro, basta se mover até ficar ao lado dele – seja com as teclas WASD ou com o mouse - e clicar nele para atacar." trigger="killmonster" value="Tutorial Diggle"/>
-		<script text="Nossa, você realmente transformou ele em uma polpa sangrenta. Parabéns!"/>
+		<script text="Cada vez que você se move ou realiza qualquer outra ação em Dungeons of Dredmor, você e os monstros alternam suas jogadas de forma sistemática. Por exemplo: você se move, depois eles se movem, aí você pode se mover de novo e assim por diante."/>
+		<script text="Para demonstrar esse princípio, vamos tentar matar algo. Essa criatura aí na sua frente é um Diggle que separamos exclusivamente para esse Tutorial. Ele é um dos muitos Diggles que você encontrará pela frente em sua jornada. E agora... vamos acabar com ele rapidinho."/>
+		<script text="Para atacar um monstro, seja qual for, basta se movimentar até que o herói fique posicionado ao lado dele - seja com a utilização das teclas W, A, S e D ou com o mouse - e depois, basta clicar em cima dele com o mouse, dessa forma, um ataque será desferido na criatura." trigger="killmonster" value="Tutorial Diggle"/>
+		<script text="Caramba! Você realmente o transformou em uma polpa sangrenta no chão da masmorra... Meus parabéns!"/>
 	</tutorial>
 
 	<tutorial>
