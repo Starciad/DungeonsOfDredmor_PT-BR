@@ -73,7 +73,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Comida" description="Comida, a comida maravilha!" icon="ui/icons/buff_healthy_appetite64.png" />
+		<info name="Alimentação" description="Comida, a maravilha!" icon="ui/icons/buff_healthy_appetite64.png" />
 		<room name="Tutorial Chamber: Food" playerStartX="4" playerStartY="8"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -88,16 +88,16 @@
 		<script text="Vamos começar matando um Diggle. Você já deve estar craque nisso agora." trigger="killmonster" value="Diggle"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Olhe como você está indo bem em matar Diggles! Porém, você está sangrando por todo lado, coitadinho..."/>
-		<script text="Você deve ter percebido que sua saúde está um pouco baixa. A saúde é representada pela barra VERMELHA na parte inferior da tela. Se ela chegar a zero, você morrerá e isso encerrará o jogo."/>
-		<script text="Você pode recuperar sua saúde de algumas maneiras: primeiro, você pode simplesmente esperar, movendo-se pela masmorra ou simplesmente apertando a BARRA DE ESPAÇO. Isso fará com que você espere um turno. Seu herói recuperará a saúde lentamente por conta própria."/>
-		<script text="Se seu herói comer alguma comida, ele recuperará a saúde ainda mais rapidamente - pois ela irá conceber um ponto de saúde a cada turno. Deixamos um pouco na masmorra para você - tente pegá-la e depois a coma."/>
-		<script text="Para comer, basta pegar a comida e colocar em seu cinturão. Depois, clique com o BOTÃO DIREITO para come-la." trigger="eatfood" value="Sanduíche Direto"/>
+		<script text="Você deve ter percebido que sua saúde está um pouco baixa. A saúde é representada pela barra VERMELHA na parte inferior da tela. Se ela chegar a zero, você morrerá e o jogo será encerrado."/>
+		<script text="Você pode recuperar sua saúde de algumas maneiras: primeiro, você pode simplesmente esperar, movendo-se pela masmorra ou simplesmente apertando a BARRA DE ESPAÇO (isso fará com que você espere um turno). Seu herói recuperará a saúde lentamente por conta própria."/>
+		<script text="Se seu herói comer algum alimento, ele recuperará a saúde ainda mais rapidamente - pois irá ser concebido um ponto de saúde a cada turno. Deixamos um pouco de comida na masmorra para você - tente pegá-la e depois come-la."/>
+		<script text="Para comer, basta pegar o alimento e colocar em seu cinturão de itens. Depois, clique com o BOTÃO DIREITO para come-lo." trigger="eatfood" value="Dire Sandwich"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Muito bem! Agora vá matar o outro Diggle." trigger="killmonster" value="Diggle"/>
+		<script text="Muito bem! Agora vá matar outro Diggle." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Usar Itens" description="Vamos soltar um ácido juntos!" icon="skills/rogue/skill_alchemy1_64.png" />
+		<info name="Utilização de Itens" description="Vamos soltar um pouco de ácido juntos!" icon="skills/rogue/skill_alchemy1_64.png" />
 		<room name="Tutorial Chamber: Item Use" playerStartX="4" playerStartY="4"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -109,17 +109,17 @@
 		<equip name="Crude Stone Axe"/>
 		<equip name="Leather Cuirass"/>
 
-		<script text="Uma das coisas divertidas em Dungeons of Dredmor é que você nunca sabe o que os itens vão fazer. Você é incentivado a aprender pela experimentação, pela morte e pelo recomeço de um novo jogo."/>
-		<script text="Aperte i para abrir seu inventário, ou clique no botão do inventário." trigger="openinventory"/>
-		<script text="Esta é sua mochila. Você pode armazenar itens nela. Clicando no botão do inventário novamente ou apertando i, você a fechará. Você também pode fechá-la apertando o pequeno X dourado."/>
-		<script text="Você pode arrastar a mochila clicando na parte de cima e arrastando-a para onde quiser."/>
+		<script text="Uma das coisas divertidas em Dungeons of Dredmor é que você nunca sabe o que os itens irão fazer, e por isso, é sempre incentivado a aprender pela experimentação, morte e novos recomeços."/>
+		<script text="Pressione 'i' no seu teclado para abrir seu inventário, ou clique no botão de inventário." trigger="openinventory"/>
+		<script text="Esta é sua mochila, e é aqui que seus itens estão/serão armazenados. Clicando novamente no botão de inventário ou pressionando 'i', você fechará a mochila. Você também pode fechar esse menu clicando no pequeno X dourado no canto."/>
+		<script text="Você pode mover a janela da mochila clicando e segurando na parte superior e arrastando-a para o local desejado."/>
 		<script text="Tente pegar aquela poção de Aqua Regia e colocá-la no seu inventário." trigger="putitemininventory" value="Aqua Regia"/>
-		<script text="Agora tente clicar com o botão direito na poção para bebê-la." trigger="drinkpotion" value="Aqua Regia"/>
-		<script text="O ácido queima seu corpo, lançando você deste mundo para o próximo tutorial."/>
+		<script text="Agora, tente clicar com o botão direito na poção para bebê-la." trigger="drinkpotion" value="Aqua Regia"/>
+		<script text="O ácido gradualmente queima seu corpo, lançando você deste mundo para o próximo tutorial."/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Manutenção de Equipamentos" description="Não use botas na cabeça. Afinal, onde você colocaria o cone de trânsito?" icon="skills/warrior/armourer1_64.png" />
+		<info name="Gestão de Equipamentos" description="Não use suas botas na cabeça. Afinal, onde você colocaria o cone de trânsito?" icon="skills/warrior/armourer1_64.png" />
 		<room name="Tutorial Chamber: Equipment Maintenance" playerStartX="4" playerStartY="17"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -130,25 +130,25 @@
 		<skill id="6"/>
 		<skill id="7"/>
 
-		<script text="Durante sua jornada pela masmorra, você pode encontrar uma variedade de armas e armaduras. Muitas dessas armas e armaduras são melhores do que o que você começa, e uma chave para o sucesso é atualizar seu equipamento sempre que possível."/>
-		<script text="Ao seu lado está um maça. Pegue-a." trigger="pickupitem" value="Iron Mace"/>
-		<script text="Agora que você tem uma maça, precisamos colocá-la no seu equipamento. Você pode abrir o painel do personagem pressionando C ou clicando no botão de Personagem na parte inferior da tela com o mouse." trigger="opencharactersheet"/>
-		<script text="Este é o painel do personagem, onde você pode ver os atributos do seu personagem e também equipar armas e armaduras. Você pode equipar armas e armaduras depositando-as no slot apropriado."/>
-		<script text="Na parte inferior do painel, você pode ver suas estatísticas. Você tem dois tipos de estatísticas: atributos primários e secundários."/>
-		<script text="Os atributos primários - robustez, sabedoria, malícia, agilidade, teimosia e esperteza - não afetam diretamente seu desempenho. No entanto, eles são usados para calcular suas estatísticas secundárias. Por exemplo, sua porcentagem de contra-ataque é calculada a partir da sua Agilidade e da sua Malícia."/>
-		<script text="Seus atributos secundários incluem... todo tipo de coisa. Passe o cursor do mouse sobre qualquer atributo para ver o que ele faz."/>
-		<script text="Dito isso, você não precisa realmente saber o que tudo faz. Basta entender que números mais altos no painel são números melhores. Você quer que as coisas subam, não que desçam."/>
-		<script text="Agora, equipe essa maça depositando-a em um slot apropriado." trigger="equipitem" value="Iron Mace"/>
-		<script text="Remova a maça de ferro do seu equipamento. Ela cumpriu seu propósito." trigger="deequipitem" value="Iron Mace"/>
+		<script text="Durante sua jornada pelas masmorras, você encontrará uma variedade de armas e armaduras. Muitos desses equipamentos são melhores que os itens iniciais do jogo (os que você começa utilizando). Lembre-se: a chave para o sucesso é sempre manter seu equipamento atualizado."/>
+		<script text="Ao seu lado está uma Maça de Ferro. Pegue-a." trigger="pickupitem" value="Iron Mace"/>
+		<script text="Agora precisamos equipá-la no herói. Você pode abrir o painel de personagem pressionando 'C' ou clicando no botão 'Personagem' na parte inferior da tela." trigger="opencharactersheet"/>
+		<script text="Nesse painel, você pode ver os atributos do seu personagem e também equipar armas e armaduras. Para equipá-las, basta arrastá-las para os slots apropriados."/>
+		<script text="Na parte inferior do painel, você verá suas estatísticas. Existem dois tipos de estatísticas: atributos primários e secundários."/>
+		<script text="Os atributos primários - robustez, sabedoria, malícia, agilidade, teimosia e esperteza - não afetam diretamente o desempenho, mas são usados para calcular suas estatísticas secundárias. Por exemplo, sua porcentagem de contra-ataque é calculada a partir de sua Agilidade e Malícia."/>
+		<script text="Seus atributos secundários incluem... todo tipo de coisa. Passe o cursor sobre qualquer um deles para ver o que fazem."/>
+		<script text="Dito isso, você não precisa realmente saber o que tudo faz. O importante é entender que números maiores no painel são sempre melhores. Você quer que os números subam, não que desçam."/>
+		<script text="Agora, equipe a maça arrastando-a para o slot apropriado." trigger="equipitem" value="Iron Mace"/>
+		<script text="Excelente! Agora, remova a maça e coloque-a de volta no inventário. Ela já cumpriu seu propósito." trigger="deequipitem" value="Iron Mace"/>
 		<script action="removeblocker" value="Wooden Gate"/>
-		<script text="Quando criamos este personagem para você, escolhemos espadas e machados. Vá ver se consegue encontrar algo mais apropriado." trigger="pickupitem" value="Wooden Sword"/>
-		<script text="Excelente! Agora equipe a espada de madeira." trigger="equipitem" value="Wooden Sword"/>
+		<script text="Quando criamos este personagem, selecionamos carreiras focadas em espadas e machados. Veja se consegue encontrar algo mais adequado na masmorra." trigger="pickupitem" value="Wooden Sword"/>
+		<script text="Olha só o que você encontrou, magnífico! Agora equipe a Espada de Madeira." trigger="equipitem" value="Wooden Sword"/>
 		<script action="removeblocker" value="Wooden Gate"/>
-		<script text="Agora você só precisa de alguma armadura. Vá encontrar algo apropriado." trigger="pickupitem" value="Cone de Trânsito"/>
-		<script text="Este é um cone de trânsito. É um capacete muito ruim, mas gastamos todo nosso dinheiro para este tutorial naquela Maça de Ferro que você não pode usar... então vai ter que servir. Equipe-o na sua cabeça." trigger="equipitem" value="Traffic Cone"/>
+		<script text="Para finalizar, só falta uma armadura. Tente encontrar algo por aí." trigger="pickupitem" value="Cone de Trânsito"/>
+		<script text="Parabéns, você encontrou um cone de trânsito. Bem, é um capacete terrível, mas gastamos todo o nosso dinheiro para este tutorial naquela Maça de Ferro que você não pode usar... então terá que servir. Equipe-o na cabeça." trigger="equipitem" value="Traffic Cone"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Você está pronto para ir. Agora vá matar aquele monstro." trigger="killmonster" value="Diggle"/>
-		<script text="Outro Diggle morto, outro tutorial completo. Você está lidando com eles com facilidade - bem feito!"/>
+		<script text="Agora você está pronto. Vá em frente e derrote aquele monstro." trigger="killmonster" value="Diggle"/>
+		<script text="Mais um Diggle derrotado, mais um tutorial completo. Você está lidando com eles com facilidade agora - muito bem feito!"/>
 	</tutorial>
 
 	<tutorial>
