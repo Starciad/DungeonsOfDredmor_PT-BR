@@ -152,7 +152,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Bestas" description="Atire em si mesmo no pé." icon="skills/warrior/crossbow0_64.png"/>
+		<info name="Bestas" description="Não atire em si mesmo no pé, tome cuidado!" icon="skills/warrior/crossbow0_64.png"/>
 		<room name="Tutorial Chamber: Crossbows" playerStartX="4" playerStartY="17"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -168,14 +168,14 @@
 		<script text="As bestas podem ser usadas para atirar em monstros a uma longa distância. Você precisa de duas coisas para usar uma besta: uma besta e alguns dardos. Primeiro, vamos procurar por alguns dardos." trigger="pickupitem" value="Wooden Bolts"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Agora que temos alguns dardos, precisamos encontrar uma besta." trigger="pickupitem" value="Simple Iron Crossbow"/>
-		<script text="Excelente. Agora abra o painel do seu personagem pressionando C ou clicando no botão de Personagem. Vamos colocar essa besta em algum lugar." trigger="opencharactersheet"/>
-		<script text="O painel do personagem tem um slot para bestas. Pegue a besta do seu inventário clicando nela e, em seguida, coloque-a no slot de equipamento." trigger="equipitem" value="Simple Iron Crossbow"/>
+		<script text="Excelente. Agora abra o painel do seu personagem pressionando 'C' ou clicando no botão de 'Personagem'. Vamos colocar essa besta em algum lugar." trigger="opencharactersheet"/>
+		<script text="O painel do personagem tem um slot dedicado para bestas. Pegue a besta do seu inventário clicando nela e, em seguida, coloque-a no slot de equipamento." trigger="equipitem" value="Simple Iron Crossbow"/>
 		<script text="Para disparar os dardos, CLIQUE COM O BOTÃO DIREITO nos dardos para equipá-los. Os dardos aparecerão no quadrado dourado na parte inferior da tela para indicar que são o item ativo." trigger="equipability" value="Wooden Bolt"/>
 		<script text="Agora você pode atirar dardos no Diggle mirando com o mouse e pressionando o botão direito." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Armas de Arremesso" description="Bombas! Quem não ama bombas? Você ama bombas. Elas também amam você." icon="skills/warrior/thrown2_64.png"/>
+		<info name="Armas Arremessáveis" description="Bombas! Quem não ama bombas? Você ama bombas. Elas também amam você." icon="skills/warrior/thrown2_64.png"/>
 		<room name="Tutorial Chamber: Thrown Weapons" playerStartX="4" playerStartY="2"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -185,15 +185,15 @@
 		<skill id="5"/>
 		<skill id="6"/>
 
-		<script text="Este Diggle se cercou de um charmoso fosso de lava, e deixamos nossa besta no tutorial anterior. Felizmente, temos explosivos."/>
-		<script text="Encontre a pilha de bombas e coloque-as no seu cinto." trigger="pickupitem" value="Makeshift Bomb"/>
-		<script text="Armas lançadas - bombas, bolas de softball, bumerangues, shurikens e afins - funcionam da mesma maneira que os dardos de besta. A principal diferença é que você não precisa de uma besta para usá-las."/>
+		<script text="Este Diggle se cercou de um belo fosso de lava, e infelizmente deixamos nossa besta no tutorial anterior. Não fique triste... temos explosivos ao menos!"/>
+		<script text="Pegue a pilha de bombas e coloque-as no seu cinturão de itens." trigger="pickupitem" value="Makeshift Bomb"/>
+		<script text="Armas arremessáveis - bombas, bolas de softball, bumerangues, shurikens e afins - funcionam da mesma maneira que os dardos de besta. A principal diferença é que você não precisa de uma besta para usá-las."/>
 		<script text="Equipe as bombas improvisadas clicando com o botão direito nelas no seu cinto." trigger="equipability" value="Makeshift Bomb"/>
-		<script text="Você pode saber que a bomba foi ativada olhando para o quadrado dourado na parte inferior da sua tela que representa o item atualmente ativo. Agora, clique com o botão direito no Diggle para explodi-lo em mil pedaços." trigger="killmonster" value="Diggle"/>
+		<script text="Você pode saber que a bomba foi ativada olhando para o quadrado dourado na parte inferior da sua tela que representa o item atualmente ativo. Agora, clique com o botão direito no Diggle para explodi-lo em mil pedacinhos." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
-		<info name="Resistências" description="Resistir é fútil!" icon="skills/spells/celestial_aegis64.png"/>
+		<info name="Resistências" description="Resistir por aqui é fútil, nem tente!" icon="skills/spells/celestial_aegis64.png"/>
 		<room name="Tutorial Chamber: Resistances" playerStartX="4" playerStartY="7"/>
 		<skill id="0"/>
 		<skill id="1"/>
@@ -205,8 +205,8 @@
 		<equip name="Rusty Sword"/>
 		<equip name="Leather Cuirass"/>
 
-		<script text="A sala ao lado contém um Termobolha, que fará o possível para te matar com seus ataques flamejantes e gosmentos. Antes de entrar e dar uma surra heroica, você precisa encontrar proteção."/>
-		<script text="Abra o painel de equipamentos clicando no botão de Personagem ou pressionando C." trigger="opencharactersheet"/>
+		<script text="A sala ao lado contém um 'Termobolha' que fará o possível para te matar com seus ataques flamejantes e gosmentos. Antes de entrar e dar uma surra heroica, você precisa encontrar proteção."/>
+		<script text="Abra o painel de equipamentos clicando no botão de 'Personagem' ou pressionando 'C'." trigger="opencharactersheet"/>
 		<script text="Vários tipos de monstros e feitiços causam vários tipos de dano. Você pode encontrar equipamentos mágicos e habilidades que vão te ajudar a resistir a esses efeitos. Não surpreendentemente, essas são chamadas de resistências."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Vá pegar o Anel de Cinzas." trigger="pickupitem" value="Ring of Ash"/>
