@@ -91,11 +91,11 @@
 	<tooltip panel="equip" x="220" y="464" w="40" h="16" name="Mana Regeneration Bonus" text="Atenção, isso é complicado: Este número é seu bônus de regeneração de mana. Ele é subtraído da taxa base de regeneração de mana para determinar quantos passos você leva para regenerar um ponto de mana. Um número mais alto é melhor."/>
 
 	<!-- Char Panel question block tooltip hotspots -->
-	<questionblock panel="equip" x="25" y="331" text="These are your primary statistics. Each one represents a certain primariness."/>
-	<questionblock panel="equip" x="35" y="271" text="To the right are the number of skills you've learned in the category of each Heroic Archetype. For every skill learned, you gain a corresponding Archetype level."/>
+	<questionblock panel="equip" x="25" y="331" text="Estas são suas estatísticas primárias. Cada uma representa um certo nível de primariedade."/>
+	<questionblock panel="equip" x="35" y="271" text="À direita estão o número de habilidades que você aprendeu na categoria de cada Arquétipo Heroico. Para cada habilidade aprendida, você ganha um nível correspondente de Arquétipo."/>
 
 	<!-- Toolkit tooltips -->
-	<questionblock panel="lutefisk" name="Horadric Lutefisk Cube" x="111" y="25" w="16" h="16" text="Before the Lutefisk God, all is fisk to the lut. Place your inedible items into the cube to transform them into possibly even less edible Lutefisk. SHIFT+ALT click them to do so automagically. Skol!"/>
+	<questionblock panel="lutefisk" name="Horadric Lutefisk Cube" x="111" y="25" w="16" h="16" text="Antes do Deus Lutefisk, tudo é fisk para o lut. Coloque seus itens não comestíveis no cubo para transformá-los em Lutefisk, que pode ser ainda menos comestível. Clique com SHIFT+ALT para fazer isso automaticamente. Skol!"/>
 
 	<!-- and now here are the actually funny strings you were looking for -->
 	<quality text="aristocratic"/>
