@@ -10,43 +10,42 @@ dead - monsters are dying
 
 -->
 <speeches>
-
 	<profile name="default">
-		<speech type="idle" text="i am so bored right now"/>
-		<speech type="idle" text="this isn't as good as their first album"/>
-		<speech type="idle" text="i don't understand magnets"/>
+		<speech type="idle" text="Estou tão entediado agora."/>
+		<speech type="idle" text="Isso não é tão bom quanto o primeiro álbum deles"/>
+		<speech type="idle" text="Eu realmente não entendo como ímãs funcionam."/>
 
-		<speech type="search" text="i'm looking for you..."/>
-		<speech type="search" text="i know where you live..."/>
+		<speech type="search" text="Estou procurando por você..."/>
+		<speech type="search" text="Eu sei onde você mora..."/>
 
-		<speech type="insult" text="you dress funny"/>
-		<speech type="insult" text="your mother was a radish"/>
-		<speech type="insult" text="your father was a quivering lump of man-beef"/>
-		<speech type="insult" text="you have a terrible disease"/>
-		<speech type="insult" text="you are a hateful little sneak and a murderer"/>
-		<speech type="insult" text="you have killed so many of us"/>
-		<speech type="insult" text="you are a quivering pile of spew"/>
-		<speech type="insult" text="you are a tiny, tiny potato"/>
-		<speech type="insult" text="we will hack you into tiny pieces"/>
+		<speech type="insult" text="Você se veste de uma forma tão engraçada."/>
+		<speech type="insult" text="Sua mãe era uma couve-rábano."/>
+		<speech type="insult" text="Seu pai era um medroso."/>
+		<speech type="insult" text="Você tem uma doença horrível."/>
+		<speech type="insult" text="Você é tão detestável, além de ser um assassino."/>
+		<speech type="insult" text="Você já matou tantos de nós..."/>
+		<speech type="insult" text="Você é uma pilha de gosma nojenta."/>
+		<speech type="insult" text="Você é uma batatinha insignificante."/>
+		<speech type="insult" text="Vamos te picar em milhões pedacinhos."/>
 
-		<speech type="injured" text="that hurt"/>
-		<speech type="injured" text="oww, my head"/>
-		<speech type="injured" text="i can't believe you hit me"/>
+		<speech type="injured" text="Ai, isso doeu!"/>
+		<speech type="injured" text="Ai, minha cabeça!"/>
+		<speech type="injured" text="Não acredito que você me acertou!"/>
 
-		<speech type="dead" text="i see the colors"/>
-		<speech type="dead" text="i go now to a better place"/>
-		<speech type="dead" text="my dead relatives are beckoning"/>
+		<speech type="dead" text="Estou... estou vendo a luz..."/>
+		<speech type="dead" text="Vou... para um lugar melhor agora..."/>
+		<speech type="dead" text="Meus parentes mortos... estão me chamando..."/>
 	</profile>
 
 	<profile name="blobby">
-		<speech type="insult" text="*squelch*"/>
-		<speech type="insult" text="*slrrp*"/>
-		<speech type="insult" text="*ooze*"/>
-		<speech type="insult" text="*slime*"/>
-
-		<speech type="injured" text="*squish*"/>
-		<speech type="injured" text="*sblrrp*"/>
-
-		<speech type="dead" text="*slllllssssh*"/>
+		<speech type="insult" text="*schlop*"/>
+		<speech type="insult" text="*chlap*"/>
+		<speech type="insult" text="*gosssh*"/>
+		<speech type="insult" text="*limalima*"/>
+	
+		<speech type="injured" text="*pleft*"/>
+		<speech type="injured" text="*blorp*"/>
+	
+		<speech type="dead" text="*schhhhhhhh*"/>
 	</profile>
 </speeches>
