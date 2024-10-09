@@ -85,10 +85,10 @@
 	<tooltip panel="equip" x="242" y="418" w="40" h="16" name="Tinkerer Level" text="Esta é uma classificação de quão bom você é em engenhocas."/>
 
 	<!-- Life and Mana -->
-	<tooltip panel="equip" x="82" y="446" w="68" h="16" name="Life Points" text="This number shows how not-dead you are. When it hits zero you cease to live. Try not to let this happen."/>
-	<tooltip panel="equip" x="194" y="446" w="68" h="16" name="Mana Points" text="This number shows your capacity to cast magic spells, all of which cost mana to some degree or other."/>
-	<tooltip panel="equip" x="108" y="464" w="40" h="16" name="Health Regeneration Bonus" text="Listen up, this one is tricky: This number is your health regeneration bonus. It is subtracted from the base health regeneration rate to determine the number of steps it takes for you to regenerate one point of health. A higher number is better." />
-	<tooltip panel="equip" x="220" y="464" w="40" h="16" name="Mana Regeneration Bonus" text="Listen up, this one is tricky: This number is your mana regeneration bonus. It is subtracted from the base mana regeneration rate to determine the number of steps it takes for you to regenerate one point of mana. A higher number is better." />
+	<tooltip panel="equip" x="82" y="446" w="68" h="16" name="Life Points" text="Este número mostra quão vivo você ainda está. Quando ele chegar a zero, você deixa de existir. Tente não deixar isso acontecer."/>
+	<tooltip panel="equip" x="194" y="446" w="68" h="16" name="Mana Points" text="Este número mostra sua capacidade de lançar feitiços mágicos, todos os quais custam mana em algum grau."/>
+	<tooltip panel="equip" x="108" y="464" w="40" h="16" name="Health Regeneration Bonus" text="Atenção, isso é complicado: Este número é seu bônus de regeneração de saúde. Ele é subtraído da taxa base de regeneração de saúde para determinar quantos passos você leva para regenerar um ponto de saúde. Um número mais alto é melhor."/>
+	<tooltip panel="equip" x="220" y="464" w="40" h="16" name="Mana Regeneration Bonus" text="Atenção, isso é complicado: Este número é seu bônus de regeneração de mana. Ele é subtraído da taxa base de regeneração de mana para determinar quantos passos você leva para regenerar um ponto de mana. Um número mais alto é melhor."/>
 
 	<!-- Char Panel question block tooltip hotspots -->
 	<questionblock panel="equip" x="25" y="331" text="These are your primary statistics. Each one represents a certain primariness."/>
