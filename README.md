@@ -1,4 +1,8 @@
-# Dungeons of Dredmor: Tradução para Português Brasileiro (pt-BR)
+# Dungeons of Dredmor - Tradução para Português Brasileiro (pt-BR)
+
+<div align="center">
+   <img src="./.github/ASSETS/graphics/banner.png">
+</div>
 
 ## Introdução
 
