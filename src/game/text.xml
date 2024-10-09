@@ -53,12 +53,12 @@
 	<tooltip panel="resistances" name="existential" text="Resistência existencial: você pensa, logo resiste."/>
 
 	<!-- Primary Stats -->
-	<tooltip panel="equip" x="101" y="331" w="40" h="16" name="Burliness" text="Burliness is the primary attribute of the Warrior and pertains to getting into trouble, hitting one's head on other people, and getting hit by large objects/limbs/pseudopods. It affects life points, melee power, and block chance."/>
-	<tooltip panel="equip" x="101" y="349" w="40" h="16" name="Sagacity" text="Sagacity is the primary attribute of the Wizard, and is mostly about being a know-it-all. It affects mana points and magic power."/>
-	<tooltip panel="equip" x="101" y="367" w="40" h="16" name="Nimbleness" text="Nimbleness is the primary attribute of the Rogue and is the quality of swiftness, grace, and not getting hit by things. It affects dodge chance, sneakiness, enemy dodge reduction, and counter-attack chance. Nimbleness is pretty great."/>
-	<tooltip panel="equip" x="101" y="385" w="40" h="16" name="Caddishness" text="Caddishness is the primary attribute of the Pirate and revolves around not caring about the feelings of others. It affects critical hit and counter-attack chance."/>
-	<tooltip panel="equip" x="101" y="403" w="40" h="16" name="Savvy" text="Savvy is the primary attribute of the Bard and involves being clever while avoiding trouble. It affects magical haywire chance and sneakiness."/>
-	<tooltip panel="equip" x="101" y="421" w="40" h="16" name="Stubbornness" text="Stubbornness is the primary attribute of the Monk and enhances self-righteousness and the ability to ignore mean things other people say about you. It affects magical resistance and block chance."/>
+	<tooltip panel="equip" x="101" y="331" w="40" h="16" name="Burliness" text="Robustez é o atributo primário do Guerreiro e diz respeito a se meter em encrenca, dar cabeçadas em outras pessoas e ser atingido por grandes objetos/membros/pseudópodes. Afeta os pontos de vida, poder de combate corpo a corpo e a chance de bloquear ataques."/>
+	<tooltip panel="equip" x="101" y="349" w="40" h="16" name="Sagacity" text="Sagacidade é o atributo primário do Mago, e é basicamente sobre ser um sabe-tudo. Afeta os pontos de mana e o poder mágico."/>
+	<tooltip panel="equip" x="101" y="367" w="40" h="16" name="Nimbleness" text="Agilidade é o atributo primário do Ladrão e representa a rapidez, a graça e a habilidade de não ser atingido por coisas. Afeta a chance de esquiva, furtividade, redução da esquiva dos inimigos e a chance de contra-ataque. Agilidade é bem legal."/>
+	<tooltip panel="equip" x="101" y="385" w="40" h="16" name="Caddishness" text="Malícia é o atributo primário do Pirata e gira em torno de não se importar com os sentimentos dos outros. Afeta a chance de acerto crítico e contra-ataque."/>
+	<tooltip panel="equip" x="101" y="403" w="40" h="16" name="Savvy" text="Esperteza é o atributo primário do Bardo e envolve ser inteligente enquanto evita problemas. Afeta a chance de falha mágica caótica e a furtividade."/>
+	<tooltip panel="equip" x="101" y="421" w="40" h="16" name="Stubbornness" text="Teimosia é o atributo primário do Monge e aprimora a justiça própria e a capacidade de ignorar as coisas maldosas que outras pessoas dizem sobre você. Afeta a resistência mágica e a chance de bloquear ataques."/>
 
 	<!-- Secondary Stats, col 1 -->
 	<tooltip panel="equip" x="150" y="328" w="40" h="16" name="Melee Power" text="Melee Power affects how hard you hit with your weapons (or feet, if you don't have any). It's also how hard you throw stuff, but not how hard you shoot your crossbow bolts because that wouldn't make sense."/>
