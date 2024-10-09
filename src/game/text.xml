@@ -77,12 +77,12 @@
 	<tooltip panel="equip" x="196" y="418" w="40" h="16" name="Visual Sight Radius" text="Raio de Visão Visual é o quão longe você pode enxergar na sombria masmorra."/>
 
 	<!-- Secondary Stats, col 3 -->
-	<tooltip panel="equip" x="242" y="328" w="40" h="16" name="Trap Sight Radius" text="Trap Sight Radius determines the distance at which you can spot and identify traps."/>
-	<tooltip panel="equip" x="242" y="346" w="40" h="16" name="Trap Affinity" text="Trap Affinity is a rating of your ability to avoid and disarm traps."/>
-	<tooltip panel="equip" x="242" y="364" w="40" h="16" name="Wandcrafting Level" text="This is a rating of how good you are at wandcraft."/>
-	<tooltip panel="equip" x="242" y="382" w="40" h="16" name="Smithing Level" text="This is a rating of how good you are at smithery."/>
-	<tooltip panel="equip" x="242" y="400" w="40" h="16" name="Alchemy Level" text="This is a rating of how good you are at alchemizing."/>
-	<tooltip panel="equip" x="242" y="418" w="40" h="16" name="Tinkerer Level" text="This is a rating of how good you are at tinkering."/>
+	<tooltip panel="equip" x="242" y="328" w="40" h="16" name="Trap Sight Radius" text="Raio de Visão de Armadilhas determina a distância na qual você pode detectar e identificar armadilhas."/>
+	<tooltip panel="equip" x="242" y="346" w="40" h="16" name="Trap Affinity" text="Afinidade com Armadilhas é uma classificação da sua habilidade em evitar e desarmar armadilhas."/>
+	<tooltip panel="equip" x="242" y="364" w="40" h="16" name="Wandcrafting Level" text="Esta é uma classificação de quão bom você é em fabricar varinhas."/>
+	<tooltip panel="equip" x="242" y="382" w="40" h="16" name="Smithing Level" text="Esta é uma classificação de quão bom você é em ferreiro."/>
+	<tooltip panel="equip" x="242" y="400" w="40" h="16" name="Alchemy Level" text="Esta é uma classificação de quão bom você é em alquimia."/>
+	<tooltip panel="equip" x="242" y="418" w="40" h="16" name="Tinkerer Level" text="Esta é uma classificação de quão bom você é em engenhocas."/>
 
 	<!-- Life and Mana -->
 	<tooltip panel="equip" x="82" y="446" w="68" h="16" name="Life Points" text="This number shows how not-dead you are. When it hits zero you cease to live. Try not to let this happen."/>
