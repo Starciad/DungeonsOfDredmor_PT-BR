@@ -382,198 +382,198 @@
 	<phoneme text="zuk"/>
 
 	<noun text="Altar" plural="Altars" statue="dungeon/pedestal_empty.spr" />
-	<noun text="Anvils" plural="Anvils" statue="dungeon/statue_anvil.spr" />
-	<noun text="Block" plural="Blocks" statue="dungeon/pile_of_stones.spr" />
-	<noun text="Blood" plural="Blood" floor="dungeon/blood.spr" />
-	<noun text="Books" plural="Books" statue="dungeon/statue_book.spr"/>
-	<noun text="Cake" plural="Cakes" statue="dungeon/statue_cake.spr" painting="dungeon/painting_cake.spr"/>
-	<noun text="Clockwork" plural="Clockworks" statue="dungeon/statue_gears.spr" />
-	<noun text="Cod" plural="Codfishes" painting="dungeon/painting_fish.spr" />
-	<noun text="Coffee" plural="Coffees" statue="dungeon/statue_coffee.spr" />
-	<noun text="Death" plural="Deaths" statue="dungeon/skull_pile.spr" />
-	<noun text="Engine" plural="Engines" statue="dungeon/statue_gears.spr" />
-	<noun text="Fork" plural="Forks" statue="dungeon/statue_fork.spr" />
-	<noun text="Fruit" plural="Fruits" statue="dungeon/statue_fruit.spr" />
-	<noun text="Gaslamp" plural="Gaslamps" statue="dungeon/gaslamp.spr" />
-	<noun text="Gear" plural="Gears" statue="dungeon/statue_gears.spr" />
-	<noun text="Hammer" plural="Hammers" statue="dungeon/statue_hammer.spr" />
+	<noun text="Bigornas" plural="Anvils" statue="dungeon/statue_anvil.spr" />
+	<noun text="Bloco" plural="Blocks" statue="dungeon/pile_of_stones.spr" />
+	<noun text="Sangue" plural="Blood" floor="dungeon/blood.spr" />
+	<noun text="Livros" plural="Books" statue="dungeon/statue_book.spr"/>
+	<noun text="Bolo" plural="Cakes" statue="dungeon/statue_cake.spr" painting="dungeon/painting_cake.spr"/>
+	<noun text="Mecanismo" plural="Clockworks" statue="dungeon/statue_gears.spr" />
+	<noun text="Bacalhau" plural="Codfishes" painting="dungeon/painting_fish.spr" />
+	<noun text="Café" plural="Coffees" statue="dungeon/statue_coffee.spr" />
+	<noun text="Morte" plural="Deaths" statue="dungeon/skull_pile.spr" />
+	<noun text="Motor" plural="Engines" statue="dungeon/statue_gears.spr" />
+	<noun text="Garfo" plural="Forks" statue="dungeon/statue_fork.spr" />
+	<noun text="Fruta" plural="Fruits" statue="dungeon/statue_fruit.spr" />
+	<noun text="Lâmpada a Gás" plural="Gaslamps" statue="dungeon/gaslamp.spr" />
+	<noun text="Engrenagem" plural="Gears" statue="dungeon/statue_gears.spr" />
+	<noun text="Martelo" plural="Hammers" statue="dungeon/statue_hammer.spr" />
 	<noun text="Lava" plural="Lava" floor="dungeon/grate_lava.spr" />
 	<noun text="Lutefisk" plural="Lutefisk" painting="dungeon/painting_fish.spr" />
 	<noun text="Magma" plural="Magma" floor="dungeon/grate_lava.spr" />
-	<noun text="Mandrill" plural="Mandrills" statue="dungeon/statue_mandrill.spr" />
-	<noun text="Mechanism" plural="Mechanisms" statue="dungeon/statue_gears.spr" />
-	<noun text="Moon" plural="Moons" painting="dungeon/tapestry_moon.spr" />
-	<noun text="Ore" plural="Ores" statue="dungeon/pile_of_stones.spr" />
-	<noun text="Penguin" plural="Penguins" statue="dungeon/statue_penguin.spr" />
-	<noun text="Pillar" plural="Pillars" statue="dungeon/basic_pillar.spr" />
-	<noun text="Plinth" plural="Plinths" statue="dungeon/pedestal_empty.spr" />
+	<noun text="Mandril" plural="Mandrills" statue="dungeon/statue_mandrill.spr" />
+	<noun text="Mecanismo" plural="Mechanisms" statue="dungeon/statue_gears.spr" />
+	<noun text="Lua" plural="Moons" painting="dungeon/tapestry_moon.spr" />
+	<noun text="Minério" plural="Ores" statue="dungeon/pile_of_stones.spr" />
+	<noun text="Pinguim" plural="Penguins" statue="dungeon/statue_penguin.spr" />
+	<noun text="Pilar" plural="Pillars" statue="dungeon/basic_pillar.spr" />
+	<noun text="Pedestal" plural="Plinths" statue="dungeon/pedestal_empty.spr" />
 	<noun text="Portal" plural="Portals" statue="dungeon/portal1_broken.spr" />
-	<noun text="Queen" plural="Queens" painting="dungeon/painting1.spr" />
-	<noun text="Shock" plural="Shocks" painting="dungeon/tapestry_lightningbolt.spr" />
-	<noun text="Skull" plural="Skulls" statue="dungeon/skull_pile.spr" />
-	<noun text="Spike" plural="Spikes" statue="dungeon/spike_cluster.spr" />
-	<noun text="Storm" plural="Storms" painting="dungeon/tapestry_lightningbolt.spr" />
-	<noun text="Tapestry" plural="Tapestries" painting="dungeon/tapestry_blank.spr" />
-	<noun text="Tome" plural="Tomes" statue="dungeon/statue_book.spr"/>
+	<noun text="Rainha" plural="Queens" painting="dungeon/painting1.spr" />
+	<noun text="Choque" plural="Shocks" painting="dungeon/tapestry_lightningbolt.spr" />
+	<noun text="Crânio" plural="Skulls" statue="dungeon/skull_pile.spr" />
+	<noun text="Espinho" plural="Spikes" statue="dungeon/spike_cluster.spr" />
+	<noun text="Tempestade" plural="Storms" painting="dungeon/tapestry_lightningbolt.spr" />
+	<noun text="Tapeçaria" plural="Tapestries" painting="dungeon/tapestry_blank.spr" />
+	<noun text="Tomos" plural="Tomes" statue="dungeon/statue_book.spr"/>
 
 	<noun text="Aardvark" plural="Aardvarks"/>
-	<noun text="Aether" plural="Aether"/>
-	<noun text="Aethership" plural="Aetherships" />
-	<noun text="Ale" plural="Ales"/>
-	<noun text="Apology" plural="Apologies"/>
-	<noun text="Armadillo" plural="Armadillos"/>
-	<noun text="Armoire" plural="Armoires"/>
-	<noun text="Bane" plural="Bane"/>
-	<noun text="Baron" plural="Barons"/>
-	<noun text="Beating" plural="Beatings"/>
-	<noun text="Bee" plural="Bees"/>
-	<noun text="Beginning" plural="Beginnings"/>
-	<noun text="Birth" plural="Births"/>
-	<noun text="Bolting" plural="Bolting"/>
-	<noun text="Bookshelf" plural="Bookshelves"/>
-	<noun text="Booze" plural="Boozes"/>
-	<noun text="Breadfruit" plural="Breadfruits"/>
-	<noun text="Breakfast Cereal" plural="Breakfast Cereals"/>
-	<noun text="Cabinet" plural="Cabinets"/>
-	<noun text="Calendar" plural="Calendars"/>
-	<noun text="Canadian" plural="Canadians"/>
-	<noun text="Caribou" plural="Caribou"/>
-	<noun text="Carving" plural="Carvings"/>
-	<noun text="Cave" plural="Caves" />
-	<noun text="Cheese" plural="Cheeses"/>
-	<noun text="Cinderblock" plural="Cinderblocks"/>
+	<noun text="Éter" plural="Aether"/>
+	<noun text="Nave Éter" plural="Aetherships" />
+	<noun text="Cerveja" plural="Ales"/>
+	<noun text="Desculpa" plural="Apologies"/>
+	<noun text="Tatu" plural="Armadillos"/>
+	<noun text="Armário" plural="Armoires"/>
+	<noun text="Perdição" plural="Bane"/>
+	<noun text="Barão" plural="Barons"/>
+	<noun text="Bateção" plural="Beatings"/>
+	<noun text="Abelha" plural="Bees"/>
+	<noun text="Início" plural="Beginnings"/>
+	<noun text="Nascimento" plural="Births"/>
+	<noun text="Fuga" plural="Bolting"/>
+	<noun text="Estante" plural="Bookshelves"/>
+	<noun text="Bebida Alcoólica" plural="Boozes"/>
+	<noun text="Pinha" plural="Breadfruits"/>
+	<noun text="Cereal Matinal" plural="Breakfast Cereals"/>
+	<noun text="Cabine" plural="Cabinets"/>
+	<noun text="Calendário" plural="Calendars"/>
+	<noun text="Canadense" plural="Canadians"/>
+	<noun text="Caribu" plural="Caribou"/>
+	<noun text="Escultura" plural="Carvings"/>
+	<noun text="Caverna" plural="Caves" />
+	<noun text="Queijo" plural="Cheeses"/>
+	<noun text="Bloco de Cimento" plural="Cinderblocks"/>
 	<noun text="Codpiece" plural="Codpieces"/>
-	<noun text="Communism" plural="Communism"/>
-	<noun text="Constitution" plural="Constitutions"/>
-	<noun text="Corn" plural="Corn"/>
-	<noun text="Crowbar" plural="Crowbars"/>
-	<noun text="Defenestration" plural="Defenestrations"/>
-	<noun text="Despair" plural="Despairs"/>
-	<noun text="Disease" plural="Diseases"/>
-	<noun text="Divinity" plural="Divinities"/>
+	<noun text="Comunismo" plural="Communism"/>
+	<noun text="Constituição" plural="Constitutions"/>
+	<noun text="Milho" plural="Corn"/>
+	<noun text="Pé de Cabra" plural="Crowbars"/>
+	<noun text="Defenestração" plural="Defenestrations"/>
+	<noun text="Desespero" plural="Despairs"/>
+	<noun text="Doença" plural="Diseases"/>
+	<noun text="Divindade" plural="Divinities"/>
 	<noun text="Doom" plural="Doom"/>
-	<noun text="Dragon" plural="Dragons"/>
-	<noun text="Drill" plural="Drills" />
-	<noun text="Duke" plural="Dukes"/>
-	<noun text="Dwarf" plural="Dwarves"/>
-	<noun text="Ear" plural="Ears"/>
-	<noun text="Earthquake" plural="Earthquakes"/>
-	<noun text="Egg" plural="Eggs"/>
-	<noun text="Eggplant" plural="Eggplants"/>
-	<noun text="Elder Sign" plural="Elder Signs" />
-	<noun text="Elephant" plural="Elephants"/>
-	<noun text="Elf" plural="Elves"/>
-	<noun text="Elk" plural="Elk"/>
-	<noun text="Ending" plural="Endings"/>
-	<noun text="Envy" plural="Envies"/>
-	<noun text="Eye" plural="Eyes"/>
-	<noun text="Fate" plural="Fates"/>
-	<noun text="Feast" plural="Feasts"/>
-	<noun text="Fibre Art" plural="Fibre Arts" />
-	<noun text="Fiend" plural="Fiends"/>
-	<noun text="Fishmonger" plural="Fishmongers"/>
+	<noun text="Dragão" plural="Dragons"/>
+	<noun text="Broca" plural="Drills" />
+	<noun text="Duque" plural="Dukes"/>
+	<noun text="Anão" plural="Dwarves"/>
+	<noun text="Orelha" plural="Ears"/>
+	<noun text="Terremoto" plural="Earthquakes"/>
+	<noun text="Ovo" plural="Eggs"/>
+	<noun text="Berinjela" plural="Eggplants"/>
+	<noun text="Sinal do Ancião" plural="Elder Signs" />
+	<noun text="Elefante" plural="Elephants"/>
+	<noun text="Elfo" plural="Elves"/>
+	<noun text="Alce" plural="Elk"/>
+	<noun text="Final" plural="Endings"/>
+	<noun text="Inveja" plural="Envies"/>
+	<noun text="Olho" plural="Eyes"/>
+	<noun text="Destino" plural="Fates"/>
+	<noun text="Festa" plural="Feasts"/>
+	<noun text="Arte em Fibras" plural="Fibre Arts" />
+	<noun text="Demônio" plural="Fiends"/>
+	<noun text="Peixeiro" plural="Fishmongers"/>
 	<noun text="Fjord" plural="Fjords"/>
-	<noun text="Foe" plural="Foes"/>
-	<noun text="Fort" plural="Forts"/>
-	<noun text="Friend" plural="Friends"/>
-	<noun text="Galaxy" plural="Galaxies"/>
-	<noun text="Gemstone" plural="Gemstones"/>
-	<noun text="Giraffe" plural="Giraffes"/>
-	<noun text="Grammar" plural="Grammars" />
-	<noun text="Greed" plural="Greed"/>
-	<noun text="Grimoire" plural="Grimoires" />
-	<noun text="Grinding" plural="Grindings"/>
+	<noun text="Inimigo" plural="Foes"/>
+	<noun text="Fortaleza" plural="Forts"/>
+	<noun text="Amigo" plural="Friends"/>
+	<noun text="Galáxia" plural="Galaxies"/>
+	<noun text="Pedra Preciosa" plural="Gemstones"/>
+	<noun text="Girafa" plural="Giraffes"/>
+	<noun text="Gramática" plural="Grammars" />
+	<noun text="Ganância" plural="Greed"/>
+	<noun text="Grimório" plural="Grimoires" />
+	<noun text="Moagem" plural="Grindings"/>
 	<noun text="Guacamole" plural="Guacamole"/>
-	<noun text="Hawk" plural="Hawks"/>
-	<noun text="Heresy" plural="Heresies"/>
-	<noun text="Holiday" plural="Holidays"/>
+	<noun text="Falcão" plural="Hawks"/>
+	<noun text="Heresia" plural="Heresies"/>
+	<noun text="Feriado" plural="Holidays"/>
 	<noun text="Inferno" plural="Infernos"/>
-	<noun text="King" plural="Kings"/>
+	<noun text="Rei" plural="Kings"/>
 	<noun text="Kumquat" plural="Kumquats"/>
 	<noun text="Latinum" plural="Latinum"/>
-	<noun text="Leaf" plural="Leaves"/>
-	<noun text="Leather" plural="Leathers"/>
-	<noun text="Leg" plural="Legs"/>
-	<noun text="Lever" plural="Levers"/>
-	<noun text="Loan" plural="Loans"/>
-	<noun text="Loathing" plural="Loathing"/>
-	<noun text="Lobster" plural="Lobsters"/>
-	<noun text="Loin" plural="Loins"/>
-	<noun text="Lord" plural="Lords"/>
-	<noun text="Lotus" plural="Lotuses"/>
-	<noun text="Lust" plural="Lusts"/>
-	<noun text="Lychee" plural="Lychee"/>
-	<noun text="Mafipulation" plural="Mafipulation"/>
-	<noun text="Manuscript" plural="Manuscripts" />
-	<noun text="Marriage" plural="Marriages" />
-	<noun text="Mouth" plural="Mouths"/>
+	<noun text="Folha" plural="Leaves"/>
+	<noun text="Couro" plural="Leathers"/>
+	<noun text="Perna" plural="Legs"/>
+	<noun text="Alavanca" plural="Levers"/>
+	<noun text="Empréstimo" plural="Loans"/>
+	<noun text="Desprezo" plural="Loathing"/>
+	<noun text="Lagosta" plural="Lobsters"/>
+	<noun text="Lombo" plural="Loins"/>
+	<noun text="Lorde" plural="Lords"/>
+	<noun text="Lótus" plural="Lotuses"/>
+	<noun text="Luxúria" plural="Lusts"/>
+	<noun text="Lichia" plural="Lychee"/>
+	<noun text="Manipulação" plural="Mafipulation"/>
+	<noun text="Manuscrito" plural="Manuscripts" />
+	<noun text="Casamento" plural="Marriages" />
+	<noun text="Boca" plural="Mouths"/>
 	<noun text="Muffin" plural="Muffins" />
-	<noun text="Nail" plural="Nails"/>
-	<noun text="Nature" plural="Natures"/>
-	<noun text="News" plural="News"/>
-	<noun text="Newt" plural="Newts"/>
-	<noun text="Noise" plural="Noises"/>
-	<noun text="Offering" plural="Offerings"/>
-	<noun text="Ooze" plural="Ooze"/>
-	<noun text="Ostrich" plural="Ostriches"/>
-	<noun text="Owl" plural="Owls"/>
-	<noun text="Party" plural="Parties" />
-	<noun text="Philosophy" plural="Philosophies"/>
-	<noun text="Poison" plural="Poisons"/>
+	<noun text="Unha" plural="Nails"/>
+	<noun text="Natureza" plural="Natures"/>
+	<noun text="Notícias" plural="News"/>
+	<noun text="Salamandra" plural="Newts"/>
+	<noun text="Ruído" plural="Noises"/>
+	<noun text="Oferta" plural="Offerings"/>
+	<noun text="Lama" plural="Ooze"/>
+	<noun text="Avestruz" plural="Ostriches"/>
+	<noun text="Coruja" plural="Owls"/>
+	<noun text="Festa" plural="Parties" />
+	<noun text="Filosofia" plural="Philosophies"/>
+	<noun text="Veneno" plural="Poisons"/>
 	<noun text="Poodle" plural="Poodles"/>
-	<noun text="Pork" plural="Pork"/>
-	<noun text="Porpoise" plural="Porpoises"/>
-	<noun text="Portent" plural="Portents"/>
-	<noun text="Pride" plural="Pride"/>
-	<noun text="Prongs" plural="Prongs"/>
-	<noun text="Pruning" plural="Prunings"/>
-	<noun text="Radish" plural="Radishes"/>
-	<noun text="Razor" plural="Razors"/>
-	<noun text="Remittance" plural="Remittances"/>
-	<noun text="Revelation" plural="Revelations"/>
-	<noun text="Rhinestone" plural="Rhinestones"/>
-	<noun text="River" plural="Rivers"/>
-	<noun text="Root Vegetable" plural="Root Vegetables"/>
-	<noun text="Sacrifice" plural="Sacrifices"/>
-	<noun text="Sausage Roll" plural="Sausage Rolls"/>
-	<noun text="Sausage" plural="Sausages"/>
-	<noun text="Shaving" plural="Shavings"/>
+	<noun text="Porco" plural="Pork"/>
+	<noun text="Focenídeo" plural="Porpoises"/>
+	<noun text="Presságio" plural="Portents"/>
+	<noun text="Orgulho" plural="Pride"/>
+	<noun text="Garras" plural="Prongs"/>
+	<noun text="Poda" plural="Prunings"/>
+	<noun text="Rabanete" plural="Radishes"/>
+	<noun text="Lâmina" plural="Razors"/>
+	<noun text="Remessa" plural="Remittances"/>
+	<noun text="Revelação" plural="Revelations"/>
+	<noun text="Pedra Brilhante" plural="Rhinestones"/>
+	<noun text="Rio" plural="Rivers"/>
+	<noun text="Vegetal Raiz" plural="Root Vegetables"/>
+	<noun text="Sacrifício" plural="Sacrifices"/>
+	<noun text="Enroladinho de Salsicha" plural="Sausage Rolls"/>
+	<noun text="Salsicha" plural="Sausages"/>
+	<noun text="Barbear" plural="Shavings"/>
 	<noun text="Shibboleth" plural="Shibboleth" />
 	<noun text="Shoggoth" plural="Shoggoths"/>
-	<noun text="Sin" plural="Sins"/>
-	<noun text="Sneeze" plural="Sneezes"/>
-	<noun text="Sock" plural="Socks"/>
-	<noun text="Soiree" plural="Soiree" />
-	<noun text="Star" plural="Stars"/>
-	<noun text="Statue" plural="Statues"/>
-	<noun text="Strength" plural="Strength"/>
-	<noun text="Sun" plural="Suns"/>
-	<noun text="Synechdoche" plural="Synechdoches" />
-	<noun text="Tavern" plural="Taverns"/>
-	<noun text="Tentacle" plural="Tentacles" />
-	<noun text="Testament" plural="Testaments"/>
-	<noun text="Throne" plural="Thrones"/>
-	<noun text="Tongue" plural="Tongues"/>
-	<noun text="Tonic" plural="Tonics"/>
-	<noun text="Torrent" plural="Torrents" />
-	<noun text="Torso" plural="Torsos"/>
-	<noun text="Trousers" plural="Trousers"/>
-	<noun text="Trunk" plural="Trunks"/>
-	<noun text="Turnip" plural="Turnips"/>
-	<noun text="Tweezer" plural="Tweezers"/>
-	<noun text="Usurper" plural="Usurpers"/>
-	<noun text="Vainglory" plural="Vainglories"/>
-	<noun text="Vein" plural="Veins"/>
-	<noun text="Vessel" plural="Vessels"/>
-	<noun text="Vomit" plural="Vomit"/>
+	<noun text="Pecado" plural="Sins"/>
+	<noun text="Espirro" plural="Sneezes"/>
+	<noun text="Meia" plural="Socks"/>
+	<noun text="Soirée" plural="Soiree" />
+	<noun text="Estrela" plural="Stars"/>
+	<noun text="Estátua" plural="Statues"/>
+	<noun text="Força" plural="Strength"/>
+	<noun text="Sol" plural="Suns"/>
+	<noun text="Sinédoque" plural="Synechdoches" />
+	<noun text="Taverna" plural="Taverns"/>
+	<noun text="Tentáculo" plural="Tentacles" />
+	<noun text="Testamento" plural="Testaments"/>
+	<noun text="Trono" plural="Thrones"/>
+	<noun text="Língua" plural="Tongues"/>
+	<noun text="Tônico" plural="Tonics"/>
+	<noun text="Torrente" plural="Torrents" />
+	<noun text="Tronco" plural="Torsos"/>
+	<noun text="Calças" plural="Trousers"/>
+	<noun text="Tromba" plural="Trunks"/>
+	<noun text="Nabo" plural="Turnips"/>
+	<noun text="Pinça" plural="Tweezers"/>
+	<noun text="Usurpador" plural="Usurpers"/>
+	<noun text="Vaidade" plural="Vainglories"/>
+	<noun text="Veia" plural="Veins"/>
+	<noun text="Vaso" plural="Vessels"/>
+	<noun text="Vômito" plural="Vomit"/>
 	<noun text="Waffle" plural="Waffles"/>
-	<noun text="Warlock" plural="Warlocks"/>
-	<noun text="Whale" plural="Whales"/>
-	<noun text="Wheel" plural="Wheels"/>
-	<noun text="Will" plural="Wills"/>
-	<noun text="Wisdom" plural="Wisdom"/>
-	<noun text="Worm" plural="Worms"/>
-	<noun text="Wrath" plural="Wrath"/>
+	<noun text="Feiticeiro" plural="Warlocks"/>
+	<noun text="Baleia" plural="Whales"/>
+	<noun text="Roda" plural="Wheels"/>
+	<noun text="Vontade" plural="Wills"/>
+	<noun text="Sabedoria" plural="Wisdom"/>
+	<noun text="Verme" plural="Worms"/>
+	<noun text="Ira" plural="Wrath"/>
 
 	<adjective text="Abhuman"/>
 	<adjective text="Abnormal" />
