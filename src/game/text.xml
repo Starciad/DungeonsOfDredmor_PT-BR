@@ -69,12 +69,12 @@
 	<tooltip panel="equip" x="150" y="418" w="40" h="16" name="Magic Resistance" text="A Resistência Mágica afeta sua habilidade intuitiva de (quase sempre) anular um ataque mágico contra você."/>
 
 	<!-- Secondary Stats, col 2 -->
-	<tooltip panel="equip" x="196" y="328" w="40" h="16" name="Armour Absorption" text="Armour Absorption is how good your armor is at standing between you and inevitability. Each point of Armour Absorption removes one point of mundane damage types (eg. crushing, slashing, and blasting)."/>
-	<tooltip panel="equip" x="196" y="346" w="40" h="16" name="Block Chance" text="Block Chance affects how likely you are to (mostly) block what you deserve, at least so far as physical attacks go."/>
-	<tooltip panel="equip" x="196" y="364" w="40" h="16" name="Dodge Chance" text="Dodge Chance affects how likely you are to avoid the consequences of your actions and physical attacks."/>
-	<tooltip panel="equip" x="196" y="382" w="40" h="16" name="Enemy Dodge Reduction" text="Enemy Dodge Reduction affects how likely an enemy is to not dodge your attacks. Because heroes never miss - but sometimes their attacks are dodged."/>
-	<tooltip panel="equip" x="196" y="400" w="40" h="16" name="Sneakiness" text="Sneakiness is how good you are at tip-toeing around your problems rather than facing them. Helps with sneaking by enemies, not waking sleeping enemies, and with avoiding traps."/>
-	<tooltip panel="equip" x="196" y="418" w="40" h="16" name="Visual Sight Radius" text="Visual Sight Radius is how far you can see in the dark dungeon."/>
+	<tooltip panel="equip" x="196" y="328" w="40" h="16" name="Armour Absorption" text="Absorção de Armadura indica o quão boa sua armadura é para te proteger da inevitabilidade. Cada ponto de Absorção de Armadura remove um ponto de dano mundano (ex.: esmagamento, corte e explosão)."/>
+	<tooltip panel="equip" x="196" y="346" w="40" h="16" name="Block Chance" text="Chance de Bloqueio afeta o quão provável é que você (na maior parte) bloqueie o que merece, pelo menos no que se refere a ataques físicos."/>
+	<tooltip panel="equip" x="196" y="364" w="40" h="16" name="Dodge Chance" text="Chance de Esquiva afeta o quão provável é que você evite as consequências de suas ações e dos ataques físicos."/>
+	<tooltip panel="equip" x="196" y="382" w="40" h="16" name="Enemy Dodge Reduction" text="Redução da Esquiva Inimiga afeta a probabilidade de um inimigo não conseguir esquivar dos seus ataques. Porque heróis nunca erram – mas às vezes seus ataques são esquivados."/>
+	<tooltip panel="equip" x="196" y="400" w="40" h="16" name="Sneakiness" text="Furtividade indica o quão bom você é em contornar seus problemas sem enfrentá-los. Ajuda a passar despercebido por inimigos, a não acordar inimigos dormindo e a evitar armadilhas."/>
+	<tooltip panel="equip" x="196" y="418" w="40" h="16" name="Visual Sight Radius" text="Raio de Visão Visual é o quão longe você pode enxergar na sombria masmorra."/>
 
 	<!-- Secondary Stats, col 3 -->
 	<tooltip panel="equip" x="242" y="328" w="40" h="16" name="Trap Sight Radius" text="Trap Sight Radius determines the distance at which you can spot and identify traps."/>
