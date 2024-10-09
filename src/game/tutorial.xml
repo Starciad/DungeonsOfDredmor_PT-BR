@@ -207,7 +207,7 @@
 
 		<script text="A sala ao lado contém um 'Termobolha' que fará o possível para te matar com seus ataques flamejantes e gosmentos. Antes de entrar e dar uma surra heroica, você precisa encontrar proteção."/>
 		<script text="Abra o painel de equipamentos clicando no botão de 'Personagem' ou pressionando 'C'." trigger="opencharactersheet"/>
-		<script text="Vários tipos de monstros e feitiços causam vários tipos de dano. Você pode encontrar equipamentos mágicos e habilidades que vão te ajudar a resistir a esses efeitos. Não surpreendentemente, essas são chamadas de resistências."/>
+		<script text="Vários tipos de monstros e feitiços causam diferentes tipos de dano. Você pode encontrar equipamentos mágicos e habilidades que vão te ajudar a resistir a certos efeitos. Não surpreendentemente, essas são chamadas de resistências."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Vá pegar o Anel de Cinzas." trigger="pickupitem" value="Ring of Ash"/>
 		<script text="Você verá dois slots para anéis no lado esquerdo do painel do personagem. Equipe o Anel de Cinzas na tela de equipamentos." trigger="equipitem" value="Ring of Ash"/>
@@ -216,7 +216,7 @@
 		<script action="removeblocker" value="Dungeon Rubble"/>
 		<script text="Vá e mate aquele Termobolha! Mostre quem é que manda." trigger="killmonster" value="Thermoblobby"/>
 		<script text="É importante entender que a armadura normal só te protege contra danos esmagadores, cortantes e explosivos. A maioria dos monstros causa um desses três tipos de dano, mas podem ter danos especiais adicionais além disso."/>
-		<script text="Gerenciar suas resistências - especificamente, obter o máximo que puder - é essencial para sobreviver no Dungeon."/>
+		<script text="Gerenciar suas resistências - especificamente, obter o máximo que puder - é essencial para sobreviver nas masmorras."/>
 	</tutorial>
 
 	<tutorial>
@@ -232,16 +232,16 @@
 		<equip name="Wooden Sword"/>
 		<equip name="Leather Cuirass"/>
 
-		<script text="Ah, poções. Líquidos mágicos, fluidos de feiticeiros, sucos de magos, seja lá como você quiser chamá-los, são itens poderosos que você pode encontrar nos Dungeons de Dredmor e guardar em seu cinto ou inventário para emergências."/>
+		<script text="Ah, poções. Líquidos mágicos, fluidos de feiticeiros, sucos de magos, seja lá como você quiser chamá-los, são itens poderosos que você pode encontrar durante sua jornada e guardar em seu cinto ou inventário para emergências."/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
 		<script text="Várias poções fazem coisas diferentes. Você pode já ter encontrado a Aqua Regia em um tutorial anterior, mas a maioria das poções é mais útil que isso. Vamos começar procurando a Poção da Invisibilidade." trigger="pickupitem" value="Potion of Invisibility"/>
-		<script text="A Poção da Invisibilidade te torna invisível. Coloque-a no seu cinto e clique com o botão direito para bebê-la." trigger="drinkpotion" value="Potion of Invisibility"/>
-		<script text="Excelente! Você notará que um ícone apareceu no canto esquerdo da tela. Este é um exemplo de um Buff - uma habilidade ativa que te torna mais forte ou mais fraco. Neste caso, ele te torna invisível."/>
-		<script text="Observe que há um cronômetro em um canto do ícone. Quando o cronômetro chegar a zero, o efeito da poção se esgota. Neste caso, você voltará a ficar visível."/>
+		<script text="A Poção da Invisibilidade te torna invisível. Coloque-a no seu cinturão de itens e clique com o botão direito para bebê-la." trigger="drinkpotion" value="Potion of Invisibility"/>
+		<script text="Agora sim! Observe que apareceu um ícone no canto esquerdo da tela. Este é um exemplo de um Buff - uma habilidade ativa que te torna mais forte ou mais fraco. Neste caso, ela te torna invisível."/>
+		<script text="Perceba que há um cronômetro em um canto do ícone. Quando ele chegar a zero, o efeito se esgota. Neste caso, você voltará a ficar visível."/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
 		<script text="Prossiga para a segunda sala e mate o Diggle." trigger="killmonster" value="Diggle"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Como você pode ter notado, a invisibilidade também se esgota quando você ataca um monstro. Vá para a câmara do norte, onde você encontrará uma segunda poção." trigger="pickupitem" value="Voltaic Potion"/>
+		<script text="Como você pode ter notado, a invisibilidade também se esgota quando você ataca um monstro. Vá para a câmara do norte; lá você encontrará uma segunda poção." trigger="pickupitem" value="Voltaic Potion"/>
 		<script text="A poção Voltaica infunde seu corpo com energia elétrica, concedendo resistência a ataques voltaicos e eletrocutando seus inimigos com Relâmpago Mortal. Clique com o botão direito para bebê-la." trigger="drinkpotion" value="Voltaic Potion"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
 		<script text="Excelente. Prossiga para a terceira sala e mate o Electroblobby." trigger="killmonster" value="Electroblobby"/>
@@ -268,14 +268,14 @@
 		<ability name="Xeuclid's Translation"/>
 		<ability name="Pyrokinesis"/>
 
-		<script text="Alguns heróis escolhem lutar com aço - ou, em tempos difíceis, armas de madeira e ocasionalmente espaguete. Outros optaram pela arte cerebral e sábia da magia - e este é o assunto do tutorial de hoje."/>
+		<script text="Alguns heróis escolhem lutar com aço - ou, em tempos difíceis, armas de madeira e ocasionalmente maças. Outros optaram pela arte cerebral e sábia da magia - e este é o assunto do tutorial de hoje."/>
 		<script text="Feitiços mágicos são usados da mesma forma que você usa habilidades de combate. A magia pode invocar animais de estimação, te transportar para dentro e fora do perigo e, geralmente, tornar sua vida melhor."/>
-		<script text="Por exemplo, considere a gigantesca vala bloqueando seu progresso. Usando a Tradução de Xeuclid, você pode se mover para o outro lado da vala."/>
+		<script text="Por exemplo, considere a gigantesca vala bloqueando seu progresso. Usando a 'Tradução de Xeuclid', você pode se mover para o outro lado da vala."/>
 		<script text="Primeiro, equipe o feitiço clicando nele no seu cinto de habilidades." trigger="equipability" value="Xeuclid's Translation"/>
 		<script text="Agora clique com o botão direito do mouse no outro lado da vala para se teletransportar e puxe a alavanca para continuar o tutorial." trigger="fliplever"/>
 		<script action="removeblocker" value="Dungeon Rubble"/>
-		<script text="Feitiços consomem mana. A quantidade de mana consumida é destacada na barra azul de Mana na parte inferior da tela."/>
-		<script text="Para recuperar mana, você pode simplesmente esperar pressionando a tecla SPACE ou pode beber bebidas alcoólicas. Vá encontrar o Brew de Esgoto, coloque-o no seu cinto e clique com o botão direito para bebê-lo." trigger="eatfood" value="Sewer Brew"/>
+		<script text="Lembre-se que feitiços consomem mana. A quantidade de mana consumida é destacada na barra azul na parte inferior da tela."/>
+		<script text="Para recuperar a mana, você pode simplesmente esperar pressionando a BARRA DE ESPAÇO ou pode beber bebidas alcoólicas. Tente encontrar o Brew de Esgoto, coloque-o no seu cinto e clique com o botão direito para bebê-lo." trigger="eatfood" value="Sewer Brew"/>
 		<script text="O Brew de Esgoto não é uma forma de álcool de alta qualidade. No entanto, a cada turno que você ainda tiver álcool em seu sistema, você recuperará mana a uma taxa mais rápida do que normalmente - especificamente, um ponto de mana a cada turno."/>
 		<script text="O ícone 'Alimentado por Álcool' indica quanto tempo você permanecerá renovado."/>
 		<script text="A próxima sala contém um Diggle. Como um mago, você é fraco e insignificante, e não sobreviveria a um confronto direto. Em vez disso, exploda-o com seus poderes mágicos."/>
@@ -285,7 +285,7 @@
 	</tutorial>
 
 	<tutorial>
-		<info name="Buffs" description="Vamos nos fortalecer." icon="skills/stat_str64.png"/>
+		<info name="Buffs" description="Vamos no caminho da força!" icon="skills/stat_str64.png"/>
 		<room name="Tutorial Chamber: Buffs" playerStartX="4" playerStartY="4"/>
 		<skill id="0"/>
 		<skill id="1"/>
