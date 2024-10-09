@@ -61,12 +61,12 @@
 	<tooltip panel="equip" x="101" y="421" w="40" h="16" name="Stubbornness" text="Teimosia é o atributo primário do Monge e aprimora a justiça própria e a capacidade de ignorar as coisas maldosas que outras pessoas dizem sobre você. Afeta a resistência mágica e a chance de bloquear ataques."/>
 
 	<!-- Secondary Stats, col 1 -->
-	<tooltip panel="equip" x="150" y="328" w="40" h="16" name="Melee Power" text="Melee Power affects how hard you hit with your weapons (or feet, if you don't have any). It's also how hard you throw stuff, but not how hard you shoot your crossbow bolts because that wouldn't make sense."/>
-	<tooltip panel="equip" x="150" y="346" w="40" h="16" name="Critical Chance" text="Critical Chance affects how likely you are to land a particularly effective blow in combat, dealing double damage."/>
-	<tooltip panel="equip" x="150" y="364" w="40" h="16" name="Counter Chance" text="Counter Chance affects how likely you are to commit a vindictive act in melee combat by returning an enemy's attack with one of your own."/>
-	<tooltip panel="equip" x="150" y="382" w="40" h="16" name="Magic Power" text="Magic Power affects the power of your spells."/>
-	<tooltip panel="equip" x="150" y="400" w="40" h="16" name="Haywire Chance" text="Haywire Chance affects how likely your spells are to trigger a highly unstable resonance cascade event."/>
-	<tooltip panel="equip" x="150" y="418" w="40" h="16" name="Magic Resistance" text="Magic Resistance affects how intuitively you can (mostly) nullify a magical attack against you."/>
+	<tooltip panel="equip" x="150" y="328" w="40" h="16" name="Melee Power" text="O Poder de Combate Corpo a Corpo afeta a força com que você atinge seus inimigos com suas armas (ou com os pés, se não tiver nenhuma). Também afeta a força com que você arremessa coisas, mas não a força com que você dispara virotes de besta, porque isso não faria sentido."/>
+	<tooltip panel="equip" x="150" y="346" w="40" h="16" name="Critical Chance" text="A Chance de Crítico afeta a probabilidade de você desferir um golpe especialmente eficaz em combate, causando o dobro de dano."/>
+	<tooltip panel="equip" x="150" y="364" w="40" h="16" name="Counter Chance" text="A Chance de Contra-Ataque afeta a probabilidade de você revidar um ataque inimigo com um golpe seu em combate corpo a corpo."/>
+	<tooltip panel="equip" x="150" y="382" w="40" h="16" name="Magic Power" text="O Poder Mágico afeta a força dos seus feitiços."/>
+	<tooltip panel="equip" x="150" y="400" w="40" h="16" name="Haywire Chance" text="A Chance de Colapso Caótico afeta a probabilidade de seus feitiços desencadearem um evento de ressonância altamente instável."/>
+	<tooltip panel="equip" x="150" y="418" w="40" h="16" name="Magic Resistance" text="A Resistência Mágica afeta sua habilidade intuitiva de (quase sempre) anular um ataque mágico contra você."/>
 
 	<!-- Secondary Stats, col 2 -->
 	<tooltip panel="equip" x="196" y="328" w="40" h="16" name="Armour Absorption" text="Armour Absorption is how good your armor is at standing between you and inevitability. Each point of Armour Absorption removes one point of mundane damage types (eg. crushing, slashing, and blasting)."/>
