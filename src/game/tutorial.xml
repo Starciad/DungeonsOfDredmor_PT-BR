@@ -165,13 +165,13 @@
 		<equip name="Leather Cuirass"/>
 
 		<script text="Sabe o que é divertido? Matar Diggles. Infelizmente, eles estão ficando mais espertos. Este aqui se cercou de água, e apenas um de nós sairá vivo deste tutorial."/>
-		<script text="As bestas podem ser usadas para atirar em monstros a uma longa distância. Você precisa de duas coisas para usar uma besta: uma besta e alguns dardos. Primeiro, vamos procurar por alguns dardos." trigger="pickupitem" value="Wooden Bolts"/>
+		<script text="As bestas podem ser usadas para atirar em monstros a uma longa distância. Você precisa de duas coisas para usar uma besta: uma besta e alguns flechas. Primeiro, vamos procurar por alguns flechas." trigger="pickupitem" value="Wooden Bolts"/>
 		<script action="removeblocker" value="Dwarven Educational Grate"/>
-		<script text="Agora que temos alguns dardos, precisamos encontrar uma besta." trigger="pickupitem" value="Simple Iron Crossbow"/>
+		<script text="Agora que temos alguns flechas, precisamos encontrar uma besta." trigger="pickupitem" value="Simple Iron Crossbow"/>
 		<script text="Excelente. Agora abra o painel do seu personagem pressionando 'C' ou clicando no botão de 'Personagem'. Vamos colocar essa besta em algum lugar." trigger="opencharactersheet"/>
 		<script text="O painel do personagem tem um slot dedicado para bestas. Pegue a besta do seu inventário clicando nela e, em seguida, coloque-a no slot de equipamento." trigger="equipitem" value="Simple Iron Crossbow"/>
-		<script text="Para disparar os dardos, CLIQUE COM O BOTÃO DIREITO nos dardos para equipá-los. Os dardos aparecerão no quadrado dourado na parte inferior da tela para indicar que são o item ativo." trigger="equipability" value="Wooden Bolt"/>
-		<script text="Agora você pode atirar dardos no Diggle mirando com o mouse e pressionando o botão direito." trigger="killmonster" value="Diggle"/>
+		<script text="Para disparar os flechas, CLIQUE COM O BOTÃO DIREITO nos flechas para equipá-los. Os flechas aparecerão no quadrado dourado na parte inferior da tela para indicar que são o item ativo." trigger="equipability" value="Wooden Bolt"/>
+		<script text="Agora você pode atirar flechas no Diggle mirando com o mouse e pressionando o botão direito." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
@@ -187,9 +187,9 @@
 
 		<script text="Este Diggle se cercou de um belo fosso de lava, e infelizmente deixamos nossa besta no tutorial anterior. Não fique triste... temos explosivos ao menos!"/>
 		<script text="Pegue a pilha de bombas e coloque-as no seu cinturão de itens." trigger="pickupitem" value="Makeshift Bomb"/>
-		<script text="Armas arremessáveis - bombas, bolas de softball, bumerangues, shurikens e afins - funcionam da mesma maneira que os dardos de besta. A principal diferença é que você não precisa de uma besta para usá-las."/>
+		<script text="Armas arremessáveis - bombas, bolas de softball, bumerangues, shurikens e afins - funcionam da mesma maneira que os flechas de besta. A principal diferença é que você não precisa de uma besta para usá-los."/>
 		<script text="Equipe as bombas improvisadas clicando com o botão direito nelas no seu cinto." trigger="equipability" value="Makeshift Bomb"/>
-		<script text="Você pode saber que a bomba foi ativada olhando para o quadrado dourado na parte inferior da sua tela que representa o item atualmente ativo. Agora, clique com o botão direito no Diggle para explodi-lo em mil pedacinhos." trigger="killmonster" value="Diggle"/>
+		<script text="Você pode saber que a bomba foi equipada olhando para o quadrado dourado na parte inferior da sua tela que representa o item atualmente ativo. Agora, clique com o botão direito no Diggle para explodi-lo em mil pedacinhos." trigger="killmonster" value="Diggle"/>
 	</tutorial>
 
 	<tutorial>
@@ -297,7 +297,7 @@
 		<ability name="Power of Magic Steel"/>
 
 		<script text="Alguns heróis escolhem combinar magia e armamento para efeitos potentes. Esses magos costumam usar feitiços para tornar seus ataques mais poderosos. Esses feitiços são chamados de 'Buffs'."/>
-		<script text="Por exemplo, o feitiço Poder do Aço Mágico, da escola de Magia Viking, infunde sua arma com energias voltagem potentes. Clique no feitiço Poder do Aço Mágico em seu cinto de feitiços." trigger="equipability" value="Power of Magic Steel"/>
+		<script text="Por exemplo, o feitiço Poder do Aço Mágico, da escola de Magia Viking, infunde sua arma com energias de voltagem potentes. Clique no feitiço Poder do Aço Mágico em seu cinto de feitiços." trigger="equipability" value="Power of Magic Steel"/>
 		<script text="Agora clique com o botão direito do mouse para lançar." trigger="useability" value="Power of Magic Steel"/>
 		<script text="O Poder do Aço Mágico agora infundiu sua arma com energia voltagem. Este feitiço permanece ativo por até cinco ataques, mas também consome magia enquanto estiver em efeito. Se você ficar sem mana, o feitiço se desmanchará."/>
 		<script text="Você também pode cancelar o feitiço a qualquer momento pressionando o X dourado no ícone do buff no lado esquerdo da tela."/>
