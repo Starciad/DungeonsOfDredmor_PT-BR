@@ -24,8 +24,7 @@
   <item name="Dire Asparagus" sprite="items/dire_asparagus.spr"/>
 -->
 
-	<blocker name="Monolith" sprite="dungeon/monolith.spr" text="The monolith glares at you, ominously."/>
-	<blocker name="Eyeball Shrine" sprite="dungeon/shrine1.spr" text="The eyeball shrine stares at you with millions of creepy little eyeballs."/>
-	<blocker name="Mellow Shrine" sprite="dungeon/shrine2.spr" text="The mellow shrine makes you want to, like, chill out and stuff."/>
-
+	<blocker name="Monolith" sprite="dungeon/monolith.spr" text="O monólito olha para você, ameaçadoramente."/>
+	<blocker name="Eyeball Shrine" sprite="dungeon/shrine1.spr" text="O santuário do globo ocular encara você com milhões de olhinhos assustadores."/>
+	<blocker name="Mellow Shrine" sprite="dungeon/shrine2.spr" text="O santuário tranquilo faz você querer relaxar e tudo mais."/>
 </questDB>
