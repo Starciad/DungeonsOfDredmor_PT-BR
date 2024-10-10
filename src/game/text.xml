@@ -891,41 +891,41 @@
 
 	<!-- this section of the database reveals the true horror of all romantic languages -->
 
-	<verb text="Blaspheme" past="Blasphemed" continuous="Blaspheming"/>
-	<verb text="Choke" past="Choked" continuous="Choking"/>
-	<verb text="Conquer" past="Conquered" continuous="Conquering"/>
-	<verb text="Cope" past="Coped" continuous="Coping"/>
-	<verb text="Crunch" past="Crunched" continuous="Crunching"/>
-	<verb text="Crush" past="Crushed" continuous="Crushing"/>
-	<verb text="Curse" past="Cursed" continuous="Cursing"/>
-	<verb text="Dance" past="Danced" continuous="Dancing"/>
-	<verb text="Delve" past="Delved" continuous="Delving"/>
-	<verb text="Dig" past="Dug" continuous="Digging"/>
+	<verb text="Blasfemar" past="Blasphemed" continuous="Blaspheming"/>
+	<verb text="Engasgar" past="Choked" continuous="Choking"/>
+	<verb text="Conquistar" past="Conquered" continuous="Conquering"/>
+	<verb text="Lidar" past="Coped" continuous="Coping"/>
+	<verb text="Mastigar" past="Crunched" continuous="Crunching"/>
+	<verb text="Esmagar" past="Crushed" continuous="Crushing"/>
+	<verb text="Amaldiçoar" past="Cursed" continuous="Cursing"/>
+	<verb text="Dançar" past="Danced" continuous="Dancing"/>
+	<verb text="Explorar" past="Delved" continuous="Delving"/>
+	<verb text="Cavar" past="Dug" continuous="Digging"/>
 	<verb text="Diggle" past="Diggled" continuous="Diggling"/>
-	<verb text="Dread" past="Dreaded" continuous="Dreading"/>
-	<verb text="Eat" past="Ate" continuous="Eating"/>
-	<verb text="Faff" past="Faffed" continuous="Faffing"/>
-	<verb text="Fail" past="Failed" continuous="Failing"/>
-	<verb text="Faint" past="Fainted" continuous="Fainting"/>
-	<verb text="Fight" past="Fought" continuous="Fighting"/>
-	<verb text="Leap" past="Leapt" continuous="Leaping"/>
-	<verb text="Loathe" past="Loathed" continuous="Loathing"/>
-	<verb text="Love" past="Loved" continuous="Loving"/>
-	<verb text="Masticate" past="Masticated" continuous="Masticating"/>
-	<verb text="Mince" past="Minced" continuous="Mincing"/>
-	<verb text="Mine" past="Mined" continuous="Mining"/>
-	<verb text="Ponder" past="Pondered" continuous="Pondering"/>
-	<verb text="Pounce" past="Pounced" continuous="Pouncing"/>
-	<verb text="Pound" past="Pounded" continuous="Pounding"/>
-	<verb text="Process" past="Processed" continuous="Processing"/>
-	<verb text="Pulse" past="Pulsed" continuous="Pulsating"/>
-	<verb text="Shiver" past="Shivered" continuous="Shivering"/>
-	<verb text="Shoot" past="Shot" continuous="Shooting"/>
-	<verb text="Soar" past="Soared" continuous="Soaring"/>
-	<verb text="Spin" past="Spun" continuous="Spinning"/>
-	<verb text="Stomp" past="Stomped" continuous="Stomping"/>
-	<verb text="Tear" past="Tore" continuous="Tearing"/>
-	<verb text="Venture" past="Ventured" continuous="Venturing"/>
+	<verb text="Temer" past="Dreaded" continuous="Dreading"/>
+	<verb text="Comer" past="Ate" continuous="Eating"/>
+	<verb text="Procrastinar" past="Faffed" continuous="Faffing"/>
+	<verb text="Falhar" past="Failed" continuous="Failing"/>
+	<verb text="Desmaiar" past="Fainted" continuous="Fainting"/>
+	<verb text="Lutar" past="Fought" continuous="Fighting"/>
+	<verb text="Saltar" past="Leapt" continuous="Leaping"/>
+	<verb text="Detestar" past="Loathed" continuous="Loathing"/>
+	<verb text="Amar" past="Loved" continuous="Loving"/>
+	<verb text="Mastigar" past="Masticated" continuous="Masticating"/>
+	<verb text="Picar" past="Minced" continuous="Mincing"/>
+	<verb text="Minerar" past="Mined" continuous="Mining"/>
+	<verb text="Refletir" past="Pondered" continuous="Pondering"/>
+	<verb text="Atacar" past="Pounced" continuous="Pouncing"/>
+	<verb text="Golpear" past="Pounded" continuous="Pounding"/>
+	<verb text="Processar" past="Processed" continuous="Processing"/>
+	<verb text="Pulsar" past="Pulsed" continuous="Pulsating"/>
+	<verb text="Tremeluzir" past="Shivered" continuous="Shivering"/>
+	<verb text="Atirar" past="Shot" continuous="Shooting"/>
+	<verb text="Voar" past="Soared" continuous="Soaring"/>
+	<verb text="Girar" past="Spun" continuous="Spinning"/>
+	<verb text="Esmagar" past="Stomped" continuous="Stomping"/>
+	<verb text="Rasgar" past="Tore" continuous="Tearing"/>
+	<verb text="Aventurar-se" past="Ventured" continuous="Venturing"/>
 
 	<architecture text="Abattoir" plural="Abattoirs"/>
 	<architecture text="Amphitheatre" plural="Amphitheatres"/>
