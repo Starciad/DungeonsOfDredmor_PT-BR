@@ -381,44 +381,44 @@
 	<phoneme text="zar"/>
 	<phoneme text="zuk"/>
 
-	<noun text="Altar" plural="Altars" statue="dungeon/pedestal_empty.spr" />
-	<noun text="Bigornas" plural="Anvils" statue="dungeon/statue_anvil.spr" />
-	<noun text="Bloco" plural="Blocks" statue="dungeon/pile_of_stones.spr" />
-	<noun text="Sangue" plural="Blood" floor="dungeon/blood.spr" />
+	<noun text="Altar" plural="Altars" statue="dungeon/pedestal_empty.spr"/>
+	<noun text="Bigornas" plural="Anvils" statue="dungeon/statue_anvil.spr"/>
+	<noun text="Bloco" plural="Blocks" statue="dungeon/pile_of_stones.spr"/>
+	<noun text="Sangue" plural="Blood" floor="dungeon/blood.spr"/>
 	<noun text="Livros" plural="Books" statue="dungeon/statue_book.spr"/>
 	<noun text="Bolo" plural="Cakes" statue="dungeon/statue_cake.spr" painting="dungeon/painting_cake.spr"/>
-	<noun text="Mecanismo" plural="Clockworks" statue="dungeon/statue_gears.spr" />
-	<noun text="Bacalhau" plural="Codfishes" painting="dungeon/painting_fish.spr" />
-	<noun text="Café" plural="Coffees" statue="dungeon/statue_coffee.spr" />
-	<noun text="Morte" plural="Deaths" statue="dungeon/skull_pile.spr" />
-	<noun text="Motor" plural="Engines" statue="dungeon/statue_gears.spr" />
-	<noun text="Garfo" plural="Forks" statue="dungeon/statue_fork.spr" />
-	<noun text="Fruta" plural="Fruits" statue="dungeon/statue_fruit.spr" />
-	<noun text="Lâmpada a Gás" plural="Gaslamps" statue="dungeon/gaslamp.spr" />
-	<noun text="Engrenagem" plural="Gears" statue="dungeon/statue_gears.spr" />
-	<noun text="Martelo" plural="Hammers" statue="dungeon/statue_hammer.spr" />
-	<noun text="Lava" plural="Lava" floor="dungeon/grate_lava.spr" />
-	<noun text="Lutefisk" plural="Lutefisk" painting="dungeon/painting_fish.spr" />
-	<noun text="Magma" plural="Magma" floor="dungeon/grate_lava.spr" />
-	<noun text="Mandril" plural="Mandrills" statue="dungeon/statue_mandrill.spr" />
-	<noun text="Mecanismo" plural="Mechanisms" statue="dungeon/statue_gears.spr" />
-	<noun text="Lua" plural="Moons" painting="dungeon/tapestry_moon.spr" />
-	<noun text="Minério" plural="Ores" statue="dungeon/pile_of_stones.spr" />
-	<noun text="Pinguim" plural="Penguins" statue="dungeon/statue_penguin.spr" />
-	<noun text="Pilar" plural="Pillars" statue="dungeon/basic_pillar.spr" />
-	<noun text="Pedestal" plural="Plinths" statue="dungeon/pedestal_empty.spr" />
-	<noun text="Portal" plural="Portals" statue="dungeon/portal1_broken.spr" />
-	<noun text="Rainha" plural="Queens" painting="dungeon/painting1.spr" />
-	<noun text="Choque" plural="Shocks" painting="dungeon/tapestry_lightningbolt.spr" />
-	<noun text="Crânio" plural="Skulls" statue="dungeon/skull_pile.spr" />
-	<noun text="Espinho" plural="Spikes" statue="dungeon/spike_cluster.spr" />
-	<noun text="Tempestade" plural="Storms" painting="dungeon/tapestry_lightningbolt.spr" />
-	<noun text="Tapeçaria" plural="Tapestries" painting="dungeon/tapestry_blank.spr" />
+	<noun text="Mecanismo" plural="Clockworks" statue="dungeon/statue_gears.spr"/>
+	<noun text="Bacalhau" plural="Codfishes" painting="dungeon/painting_fish.spr"/>
+	<noun text="Café" plural="Coffees" statue="dungeon/statue_coffee.spr"/>
+	<noun text="Morte" plural="Deaths" statue="dungeon/skull_pile.spr"/>
+	<noun text="Motor" plural="Engines" statue="dungeon/statue_gears.spr"/>
+	<noun text="Garfo" plural="Forks" statue="dungeon/statue_fork.spr"/>
+	<noun text="Fruta" plural="Fruits" statue="dungeon/statue_fruit.spr"/>
+	<noun text="Lâmpada a Gás" plural="Gaslamps" statue="dungeon/gaslamp.spr"/>
+	<noun text="Engrenagem" plural="Gears" statue="dungeon/statue_gears.spr"/>
+	<noun text="Martelo" plural="Hammers" statue="dungeon/statue_hammer.spr"/>
+	<noun text="Lava" plural="Lava" floor="dungeon/grate_lava.spr"/>
+	<noun text="Lutefisk" plural="Lutefisk" painting="dungeon/painting_fish.spr"/>
+	<noun text="Magma" plural="Magma" floor="dungeon/grate_lava.spr"/>
+	<noun text="Mandril" plural="Mandrills" statue="dungeon/statue_mandrill.spr"/>
+	<noun text="Mecanismo" plural="Mechanisms" statue="dungeon/statue_gears.spr"/>
+	<noun text="Lua" plural="Moons" painting="dungeon/tapestry_moon.spr"/>
+	<noun text="Minério" plural="Ores" statue="dungeon/pile_of_stones.spr"/>
+	<noun text="Pinguim" plural="Penguins" statue="dungeon/statue_penguin.spr"/>
+	<noun text="Pilar" plural="Pillars" statue="dungeon/basic_pillar.spr"/>
+	<noun text="Pedestal" plural="Plinths" statue="dungeon/pedestal_empty.spr"/>
+	<noun text="Portal" plural="Portals" statue="dungeon/portal1_broken.spr"/>
+	<noun text="Rainha" plural="Queens" painting="dungeon/painting1.spr"/>
+	<noun text="Choque" plural="Shocks" painting="dungeon/tapestry_lightningbolt.spr"/>
+	<noun text="Crânio" plural="Skulls" statue="dungeon/skull_pile.spr"/>
+	<noun text="Espinho" plural="Spikes" statue="dungeon/spike_cluster.spr"/>
+	<noun text="Tempestade" plural="Storms" painting="dungeon/tapestry_lightningbolt.spr"/>
+	<noun text="Tapeçaria" plural="Tapestries" painting="dungeon/tapestry_blank.spr"/>
 	<noun text="Tomos" plural="Tomes" statue="dungeon/statue_book.spr"/>
 
 	<noun text="Aardvark" plural="Aardvarks"/>
 	<noun text="Éter" plural="Aether"/>
-	<noun text="Nave Éter" plural="Aetherships" />
+	<noun text="Nave Éter" plural="Aetherships"/>
 	<noun text="Cerveja" plural="Ales"/>
 	<noun text="Desculpa" plural="Apologies"/>
 	<noun text="Tatu" plural="Armadillos"/>
@@ -439,7 +439,7 @@
 	<noun text="Canadense" plural="Canadians"/>
 	<noun text="Caribu" plural="Caribou"/>
 	<noun text="Escultura" plural="Carvings"/>
-	<noun text="Caverna" plural="Caves" />
+	<noun text="Caverna" plural="Caves"/>
 	<noun text="Queijo" plural="Cheeses"/>
 	<noun text="Bloco de Cimento" plural="Cinderblocks"/>
 	<noun text="Codpiece" plural="Codpieces"/>
@@ -453,14 +453,14 @@
 	<noun text="Divindade" plural="Divinities"/>
 	<noun text="Doom" plural="Doom"/>
 	<noun text="Dragão" plural="Dragons"/>
-	<noun text="Broca" plural="Drills" />
+	<noun text="Broca" plural="Drills"/>
 	<noun text="Duque" plural="Dukes"/>
 	<noun text="Anão" plural="Dwarves"/>
 	<noun text="Orelha" plural="Ears"/>
 	<noun text="Terremoto" plural="Earthquakes"/>
 	<noun text="Ovo" plural="Eggs"/>
 	<noun text="Berinjela" plural="Eggplants"/>
-	<noun text="Sinal do Ancião" plural="Elder Signs" />
+	<noun text="Sinal do Ancião" plural="Elder Signs"/>
 	<noun text="Elefante" plural="Elephants"/>
 	<noun text="Elfo" plural="Elves"/>
 	<noun text="Alce" plural="Elk"/>
@@ -469,7 +469,7 @@
 	<noun text="Olho" plural="Eyes"/>
 	<noun text="Destino" plural="Fates"/>
 	<noun text="Festa" plural="Feasts"/>
-	<noun text="Arte em Fibras" plural="Fibre Arts" />
+	<noun text="Arte em Fibras" plural="Fibre Arts"/>
 	<noun text="Demônio" plural="Fiends"/>
 	<noun text="Peixeiro" plural="Fishmongers"/>
 	<noun text="Fjord" plural="Fjords"/>
@@ -479,9 +479,9 @@
 	<noun text="Galáxia" plural="Galaxies"/>
 	<noun text="Pedra Preciosa" plural="Gemstones"/>
 	<noun text="Girafa" plural="Giraffes"/>
-	<noun text="Gramática" plural="Grammars" />
+	<noun text="Gramática" plural="Grammars"/>
 	<noun text="Ganância" plural="Greed"/>
-	<noun text="Grimório" plural="Grimoires" />
+	<noun text="Grimório" plural="Grimoires"/>
 	<noun text="Moagem" plural="Grindings"/>
 	<noun text="Guacamole" plural="Guacamole"/>
 	<noun text="Falcão" plural="Hawks"/>
@@ -504,10 +504,10 @@
 	<noun text="Luxúria" plural="Lusts"/>
 	<noun text="Lichia" plural="Lychee"/>
 	<noun text="Manipulação" plural="Mafipulation"/>
-	<noun text="Manuscrito" plural="Manuscripts" />
-	<noun text="Casamento" plural="Marriages" />
+	<noun text="Manuscrito" plural="Manuscripts"/>
+	<noun text="Casamento" plural="Marriages"/>
 	<noun text="Boca" plural="Mouths"/>
-	<noun text="Muffin" plural="Muffins" />
+	<noun text="Muffin" plural="Muffins"/>
 	<noun text="Unha" plural="Nails"/>
 	<noun text="Natureza" plural="Natures"/>
 	<noun text="Notícias" plural="News"/>
@@ -517,7 +517,7 @@
 	<noun text="Lama" plural="Ooze"/>
 	<noun text="Avestruz" plural="Ostriches"/>
 	<noun text="Coruja" plural="Owls"/>
-	<noun text="Festa" plural="Parties" />
+	<noun text="Festa" plural="Parties"/>
 	<noun text="Filosofia" plural="Philosophies"/>
 	<noun text="Veneno" plural="Poisons"/>
 	<noun text="Poodle" plural="Poodles"/>
@@ -538,24 +538,24 @@
 	<noun text="Enroladinho de Salsicha" plural="Sausage Rolls"/>
 	<noun text="Salsicha" plural="Sausages"/>
 	<noun text="Barbear" plural="Shavings"/>
-	<noun text="Shibboleth" plural="Shibboleth" />
+	<noun text="Shibboleth" plural="Shibboleth"/>
 	<noun text="Shoggoth" plural="Shoggoths"/>
 	<noun text="Pecado" plural="Sins"/>
 	<noun text="Espirro" plural="Sneezes"/>
 	<noun text="Meia" plural="Socks"/>
-	<noun text="Soirée" plural="Soiree" />
+	<noun text="Soirée" plural="Soiree"/>
 	<noun text="Estrela" plural="Stars"/>
 	<noun text="Estátua" plural="Statues"/>
 	<noun text="Força" plural="Strength"/>
 	<noun text="Sol" plural="Suns"/>
-	<noun text="Sinédoque" plural="Synechdoches" />
+	<noun text="Sinédoque" plural="Synechdoches"/>
 	<noun text="Taverna" plural="Taverns"/>
-	<noun text="Tentáculo" plural="Tentacles" />
+	<noun text="Tentáculo" plural="Tentacles"/>
 	<noun text="Testamento" plural="Testaments"/>
 	<noun text="Trono" plural="Thrones"/>
 	<noun text="Língua" plural="Tongues"/>
 	<noun text="Tônico" plural="Tonics"/>
-	<noun text="Torrente" plural="Torrents" />
+	<noun text="Torrente" plural="Torrents"/>
 	<noun text="Tronco" plural="Torsos"/>
 	<noun text="Calças" plural="Trousers"/>
 	<noun text="Tromba" plural="Trunks"/>
@@ -575,186 +575,186 @@
 	<noun text="Verme" plural="Worms"/>
 	<noun text="Ira" plural="Wrath"/>
 
-	<adjective text="Abhuman"/>
-	<adjective text="Abnormal" />
-	<adjective text="Absconded"/>
-	<adjective text="Abyssal"/>
-	<adjective text="Adorable"/>
-	<adjective text="Aesthetically Pleasing"/>
-	<adjective text="Algebraic"/>
-	<adjective text="Amorphous" />
-	<adjective text="Antique" />
-	<adjective text="Arboreal" />
-	<adjective text="Arcane"/>
-	<adjective text="Awkward"/>
-	<adjective text="Beknighted"/>
-	<adjective text="Bewitched"/>
-	<adjective text="Bilious"/>
-	<adjective text="Bitter" />
-	<adjective text="Bloated"/>
-	<adjective text="Bloody"/>
-	<adjective text="Brined"/>
-	<adjective text="Briney" />
-	<adjective text="Brooding"/>
-	<adjective text="Calming"/>
-	<adjective text="Canadian"/>
-	<adjective text="Cantankerous"/>
-	<adjective text="Charitable"/>
-	<adjective text="Charnel" />
-	<adjective text="Cheese-based"/>
-	<adjective text="Choleric"/>
-	<adjective text="Confused" />
-	<adjective text="Corpulent"/>
-	<adjective text="Cosmopolitan"/>
-	<adjective text="Covetous"/>
-	<adjective text="Crab-Like"/>
-	<adjective text="Creative"/>
+	<adjective text="Abhumano(a)"/>
+	<adjective text="Anormal"/>
+	<adjective text="Fugitivo(a)"/>
+	<adjective text="Abissal"/>
+	<adjective text="Adorável"/>
+	<adjective text="Esteticamente Agradável"/>
+	<adjective text="Algébrico(a)"/>
+	<adjective text="Amorfo(a)"/>
+	<adjective text="Antigo(a)"/>
+	<adjective text="Arbóreo(a)"/>
+	<adjective text="Arcano(a)"/>
+	<adjective text="Desajeitado(a)"/>
+	<adjective text="Cavaleiresco(a)"/>
+	<adjective text="Enfeitiçado(a)"/>
+	<adjective text="Bilioso(a)"/>
+	<adjective text="Amargo(a)"/>
+	<adjective text="Inflado(a)"/>
+	<adjective text="Sangrento(a)"/>
+	<adjective text="Salgado(a)"/>
+	<adjective text="Salino(a)"/>
+	<adjective text="Meditativo(a)"/>
+	<adjective text="Calmante"/>
+	<adjective text="Canadense"/>
+	<adjective text="Ranzinza"/>
+	<adjective text="Caridoso(a)"/>
+	<adjective text="Carnal"/>
+	<adjective text="Baseado(a) em Queijo"/>
+	<adjective text="Colérico(a)"/>
+	<adjective text="Confuso(a)"/>
+	<adjective text="Corpulento(a)"/>
+	<adjective text="Cosmopolita"/>
+	<adjective text="Cobiçoso(a)"/>
+	<adjective text="Semelhante a um Caranguejo"/>
+	<adjective text="Criativo(a)"/>
 	<adjective text="Crepuscular"/>
-	<adjective text="Crushing"/>
-	<adjective text="Cthonic"/>
-	<adjective text="Curt"/>
-	<adjective text="Cyclopean" />
-	<adjective text="Daemoniac" />
-	<adjective text="Dancing"/>
-	<adjective text="Dank" />
-	<adjective text="Disquieting"/>
-	<adjective text="Effulgent"/>
-	<adjective text="Elder"/>
-	<adjective text="Enormous"/>
-	<adjective text="Epic"/>
-	<adjective text="Extra-planar" />
-	<adjective text="Feline" />
-	<adjective text="Fertile"/>
-	<adjective text="Festering"/>
-	<adjective text="Flaky"/>
-	<adjective text="Fleeting"/>
-	<adjective text="Foetid" />
-	<adjective text="Fruity" />
-	<adjective text="Fungoid" />
-	<adjective text="Generic"/>
-	<adjective text="Gibbous" />
-	<adjective text="Glimmering"/>
-	<adjective text="Gnarled"/>
-	<adjective text="Greedy"/>
-	<adjective text="Harmful"/>
-	<adjective text="Heirloom"/>
-	<adjective text="Hidden"/>
-	<adjective text="Holy"/>
-	<adjective text="Ignoble"/>
-	<adjective text="Ill-conceived"/>
-	<adjective text="Immeasurable"/>
-	<adjective text="Immemorial" />
+	<adjective text="Esmagador(a)"/>
+	<adjective text="Ctônico(a)"/>
+	<adjective text="Curto(a)"/>
+	<adjective text="Ciclópico(a)"/>
+	<adjective text="Demoníaco(a)"/>
+	<adjective text="Dançante"/>
+	<adjective text="Úmido(a)"/>
+	<adjective text="Perturbador(a)"/>
+	<adjective text="Resplandecente"/>
+	<adjective text="Ancião(ã)"/>
+	<adjective text="Enorme"/>
+	<adjective text="Épico(a)"/>
+	<adjective text="Extra-planar"/>
+	<adjective text="Felino(a)"/>
+	<adjective text="Fértil"/>
+	<adjective text="Supurante"/>
+	<adjective text="Escamoso(a)"/>
+	<adjective text="Efêmero(a)"/>
+	<adjective text="Fétido(a)"/>
+	<adjective text="Frutado(a)"/>
+	<adjective text="Fungoide"/>
+	<adjective text="Genérico(a)"/>
+	<adjective text="Giboso(a)"/>
+	<adjective text="Brilhante"/>
+	<adjective text="Nódo(a)"/>
+	<adjective text="Guloso(a)"/>
+	<adjective text="Nocivo(a)"/>
+	<adjective text="Herança"/>
+	<adjective text="Escondido(a)"/>
+	<adjective text="Santo(a)"/>
+	<adjective text="Ignóbil"/>
+	<adjective text="Mal-concebido(a)"/>
+	<adjective text="Imensurável"/>
+	<adjective text="Imemorial"/>
 	<adjective text="Imperial"/>
-	<adjective text="Impotent"/>
-	<adjective text="Incandescent"/>
-	<adjective text="Inefficient"/>
-	<adjective text="Ingrained"/>
-	<adjective text="Irradiated" />
-	<adjective text="Jittery"/>
-	<adjective text="Jocular"/>
-	<adjective text="Kelpish" />
-	<adjective text="Lachrymose" />
-	<adjective text="Laughing"/>
-	<adjective text="Lengthy"/>
-	<adjective text="Loathsome"/>
-	<adjective text="Lonely"/>
-	<adjective text="Lugubrious"/>
-	<adjective text="Lusty"/>
-	<adjective text="Maddening"/>
-	<adjective text="Magical"/>
-	<adjective text="Magisterial"/>
-	<adjective text="Martial" />
-	<adjective text="Mathematical"/>
-	<adjective text="Mechanistic"/>
-	<adjective text="Melancholic"/>
+	<adjective text="Impotente"/>
+	<adjective text="Incandescente"/>
+	<adjective text="Ineficiente"/>
+	<adjective text="Enraizado(a)"/>
+	<adjective text="Irradiado(a)"/>
+	<adjective text="Nervoso(a)"/>
+	<adjective text="Jocoso(a)"/>
+	<adjective text="Semelhante a Algas"/>
+	<adjective text="Lacrimoso(a)"/>
+	<adjective text="Risonho(a)"/>
+	<adjective text="Prolongado(a)"/>
+	<adjective text="Repugnante"/>
+	<adjective text="Solitário(a)"/>
+	<adjective text="Lúgubre"/>
+	<adjective text="Vigoroso(a)"/>
+	<adjective text="Enlouquecedor(a)"/>
+	<adjective text="Mágico(a)"/>
+	<adjective text="Magistral"/>
+	<adjective text="Marcial"/>
+	<adjective text="Matemático(a)"/>
+	<adjective text="Mecanicista"/>
+	<adjective text="Melancólico(a)"/>
 	<adjective text="Memorial"/>
 	<adjective text="Mercurial"/>
-	<adjective text="Miscalibrated"/>
-	<adjective text="Monstrous"/>
-	<adjective text="Mordant"/>
-	<adjective text="Murderous"/>
+	<adjective text="Mal-calibrado(a)"/>
+	<adjective text="Monstruoso(a)"/>
+	<adjective text="Mordaz"/>
+	<adjective text="Assassino(a)"/>
 	<adjective text="Musical"/>
-	<adjective text="Mysterious" />
-	<adjective text="Mystic"/>
-	<adjective text="Mystical"/>
+	<adjective text="Misterioso(a)"/>
+	<adjective text="Místico(a)"/>
+	<adjective text="Místico(a)"/>
 	<adjective text="Natural"/>
-	<adjective text="Nebulous" />
-	<adjective text="Neo-Cubist"/>
-	<adjective text="Neptunian" />
-	<adjective text="Non-Euclidean" />
-	<adjective text="Oblong" />
-	<adjective text="Off-balance"/>
-	<adjective text="Oncoming"/>
-	<adjective text="Oozing"/>
-	<adjective text="Outcast"/>
-	<adjective text="Overworked"/>
-	<adjective text="Pelagic" />
-	<adjective text="Phantasmagoric"/>
-	<adjective text="Phlegmatic"/>
-	<adjective text="Pickled"/>
-	<adjective text="Pitiful"/>
-	<adjective text="Plutonic" />
-	<adjective text="Ponderous" />
-	<adjective text="Portly"/>
-	<adjective text="Postmodern"/>
-	<adjective text="Potent"/>
-	<adjective text="Proud"/>
-	<adjective text="Provocative"/>
-	<adjective text="Puny"/>
-	<adjective text="Radiant"/>
-	<adjective text="Rampant"/>
-	<adjective text="Restful"/>
-	<adjective text="Reverant"/>
-	<adjective text="Revered"/>
-	<adjective text="Rhomboid"/>
-	<adjective text="Rotten"/>
-	<adjective text="Rumbustious"/>
-	<adjective text="Sandy" />
-	<adjective text="Sanguine"/>
-	<adjective text="Saturnine" />
-	<adjective text="Scuttling"/>
-	<adjective text="Shadowy"/>
-	<adjective text="Shockingly Small"/>
-	<adjective text="Slothful"/>
-	<adjective text="Small"/>
-	<adjective text="Sobering"/>
-	<adjective text="Somnambulant" />
-	<adjective text="Spectral" />
-	<adjective text="Spicy"/>
-	<adjective text="Spongiferous"/>
-	<adjective text="Squamous"/>
-	<adjective text="Stately"/>
-	<adjective text="Stout"/>
-	<adjective text="Striking"/>
-	<adjective text="Stygian" />
-	<adjective text="Swarthy"/>
-	<adjective text="Tainted"/>
-	<adjective text="Tenebrous" />
+	<adjective text="Nebuloso(a)"/>
+	<adjective text="Neo-cubista"/>
+	<adjective text="Neptuniano(a)"/>
+	<adjective text="Não-Euclidiano(a)"/>
+	<adjective text="Oblongo(a)"/>
+	<adjective text="Desequilibrado(a)"/>
+	<adjective text="Iminente"/>
+	<adjective text="Escorrendo"/>
+	<adjective text="Exilado(a)"/>
+	<adjective text="Sobrecarregado(a)"/>
+	<adjective text="Pelágico(a)"/>
+	<adjective text="Fantasmagórico(a)"/>
+	<adjective text="Flegmático(a)"/>
+	<adjective text="Em Conserva"/>
+	<adjective text="Lastimável"/>
+	<adjective text="Plutônico(a)"/>
+	<adjective text="Pesado(a)"/>
+	<adjective text="Corpulento(a)"/>
+	<adjective text="Pós-moderno(a)"/>
+	<adjective text="Potente"/>
+	<adjective text="Orgulhoso(a)"/>
+	<adjective text="Provocativo(a)"/>
+	<adjective text="Insignificante"/>
+	<adjective text="Radiante"/>
+	<adjective text="Desenfreado(a)"/>
+	<adjective text="Tranquilo(a)"/>
+	<adjective text="Reverente"/>
+	<adjective text="Venerado(a)"/>
+	<adjective text="Romboide"/>
+	<adjective text="Podre"/>
+	<adjective text="Barulhento(a)"/>
+	<adjective text="Arenoso(a)"/>
+	<adjective text="Sanguíneo(a)"/>
+	<adjective text="Saturnino(a)"/>
+	<adjective text="Apavorante"/>
+	<adjective text="Sombrio(a)"/>
+	<adjective text="Chocantemente Pequeno(a)"/>
+	<adjective text="Preguiçoso(a)"/>
+	<adjective text="Pequeno(a)"/>
+	<adjective text="Sóbrio(a)"/>
+	<adjective text="Sonâmbulo(a)"/>
+	<adjective text="Espectral"/>
+	<adjective text="Apimentado(a)"/>
+	<adjective text="Esponjoso(a)"/>
+	<adjective text="Escamoso(a)"/>
+	<adjective text="Majestoso(a)"/>
+	<adjective text="Robusto(a)"/>
+	<adjective text="Marcante"/>
+	<adjective text="Estígio(a)"/>
+	<adjective text="Moreno(a)"/>
+	<adjective text="Contaminado(a)"/>
+	<adjective text="Tenebroso(a)"/>
 	<adjective text="Tentacular"/>
-	<adjective text="Teutonic" />
-	<adjective text="Thoughtful"/>
-	<adjective text="Thoughtless"/>
-	<adjective text="Tingly"/>
-	<adjective text="Tributory"/>
-	<adjective text="Tropical" />
-	<adjective text="Twisted"/>
-	<adjective text="Unappetizing"/>
-	<adjective text="Unbridled"/>
-	<adjective text="Undone"/>
-	<adjective text="Unholy"/>
-	<adjective text="Unimpressive"/>
-	<adjective text="Unsettling"/>
-	<adjective text="Untouchable"/>
-	<adjective text="Unwanted"/>
-	<adjective text="Upright" />
-	<adjective text="Valiant"/>
+	<adjective text="Teutônico(a)"/>
+	<adjective text="Pensativo(a)"/>
+	<adjective text="Impensado(a)"/>
+	<adjective text="Formigante"/>
+	<adjective text="Tributário(a)"/>
+	<adjective text="Tropical"/>
+	<adjective text="Torcido(a)"/>
+	<adjective text="Pouco Apetitoso(a)"/>
+	<adjective text="Desenfreado(a)"/>
+	<adjective text="Desfeito(a)"/>
+	<adjective text="Profano(a)"/>
+	<adjective text="Desinteressante"/>
+	<adjective text="Perturbador(a)"/>
+	<adjective text="Intocável"/>
+	<adjective text="Indesejado(a)"/>
+	<adjective text="Reto(a)"/>
+	<adjective text="Valente"/>
 	<adjective text="Vile"/>
-	<adjective text="Violent"/>
-	<adjective text="Waiting"/>
-	<adjective text="Warped"/>
-	<adjective text="Wizardly"/>
-	<adjective text="Wrathful"/>
-	<adjective text="Wrinkly"/>
+	<adjective text="Violento(a)"/>
+	<adjective text="Aguardando"/>
+	<adjective text="Deformado(a)"/>
+	<adjective text="Feiticeiro(a)"/>
+	<adjective text="Colérico(a)"/>
+	<adjective text="Enrugado(a)"/>
 
 	<!-- ichors. mmm, ichors. -->
 
@@ -799,21 +799,21 @@
 	<ichor text="win"/>
 	<ichor text="yuk"/>
 
-	<insult text="..." />
+	<insult text="..."/>
 	<insult text="a zorkmid for his head"/>
 	<insult text="do you feel lucky, punk?"/>
 	<insult text="fear my martial prowess"/>
 	<insult text="from hell's heart, i stab at thee"/>
-	<insult text="FUS RO DAH!" />
+	<insult text="FUS RO DAH!"/>
 	<insult text="get thee away"/>
 	<insult text="hang on, i have a cramp"/>
 	<insult text="hello"/>
 	<insult text="hero -- come out to play --"/>
-	<insult text="his name is robert paulson" />
+	<insult text="his name is robert paulson"/>
 	<insult text="honk if you love dredmor"/>
 	<insult text="i breathe defiance"/>
 	<insult text="i hate you so much"/>
-	<insult text="i have a bad feeling about this" />
+	<insult text="i have a bad feeling about this"/>
 	<insult text="i have battled diggles more fearsome than thee"/>
 	<insult text="i hope they nerfed your spells"/>
 	<insult text="i hope you have a terrible day"/>
@@ -821,12 +821,12 @@
 	<insult text="i require assistance"/>
 	<insult text="i smell a promotion"/>
 	<insult text="i will use your tongue as chewing gum"/>
-	<insult text="i'll be in my bunk" />
+	<insult text="i'll be in my bunk"/>
 	<insult text="i'm not even supposed to be here today..."/>
-	<insult text="it's a trap!" />
+	<insult text="it's a trap!"/>
 	<insult text="just walk away"/>
 	<insult text="kill the eyebrowed one"/>
-	<insult text="killing me won't bring back your honey!" />
+	<insult text="killing me won't bring back your honey!"/>
 	<insult text="leave me alone"/>
 	<insult text="my therapist says this will be good for me"/>
 	<insult text="no hard feelings"/>
@@ -858,7 +858,7 @@
 	<insult text="you smell like diggle pee"/>
 	<insult text="you walk like an undead turkey"/>
 	<insult text="you're really terrible at this"/>
-	<insult text="you're scruffy looking" />
+	<insult text="you're scruffy looking"/>
 	<insult text="you're terrible at this"/>
 	<insult text="your father was a quivering side of man-beef"/>
 	<insult text="your mother was a radish"/>
@@ -873,7 +873,7 @@
 	<random text="Suddenly you feel like you've forgotten something very important. What was it?"/>
 	<random text="The hollow calls of undead mandrill echo through the dungeon."/>
 	<random text="The pungent stench of mildew emanates from the wet dungeon walls."/>
-	<random text="You can't cut back on funding! You will regret this!" />
+	<random text="You can't cut back on funding! You will regret this!"/>
 	<random text="You feel a sudden, overpowering sense of regret."/>
 	<random text="You feel good about yourself."/>
 	<random text="You have insufficient Vespene gas. Mine more Vespene gas."/>
@@ -891,41 +891,41 @@
 
 	<!-- this section of the database reveals the true horror of all romantic languages -->
 
-	<verb text="Blaspheme" past="Blasphemed" continuous="Blaspheming" />
-	<verb text="Choke" past="Choked" continuous="Choking" />
-	<verb text="Conquer" past="Conquered" continuous="Conquering" />
-	<verb text="Cope" past="Coped" continuous="Coping" />
+	<verb text="Blaspheme" past="Blasphemed" continuous="Blaspheming"/>
+	<verb text="Choke" past="Choked" continuous="Choking"/>
+	<verb text="Conquer" past="Conquered" continuous="Conquering"/>
+	<verb text="Cope" past="Coped" continuous="Coping"/>
 	<verb text="Crunch" past="Crunched" continuous="Crunching"/>
 	<verb text="Crush" past="Crushed" continuous="Crushing"/>
-	<verb text="Curse" past="Cursed" continuous="Cursing" />
-	<verb text="Dance" past="Danced" continuous="Dancing" />
-	<verb text="Delve" past="Delved" continuous="Delving" />
-	<verb text="Dig" past="Dug" continuous="Digging" />
-	<verb text="Diggle" past="Diggled" continuous="Diggling" />
-	<verb text="Dread" past="Dreaded" continuous="Dreading" />
-	<verb text="Eat" past="Ate" continuous="Eating" />
-	<verb text="Faff" past="Faffed" continuous="Faffing" />
-	<verb text="Fail" past="Failed" continuous="Failing" />
-	<verb text="Faint" past="Fainted" continuous="Fainting" />
+	<verb text="Curse" past="Cursed" continuous="Cursing"/>
+	<verb text="Dance" past="Danced" continuous="Dancing"/>
+	<verb text="Delve" past="Delved" continuous="Delving"/>
+	<verb text="Dig" past="Dug" continuous="Digging"/>
+	<verb text="Diggle" past="Diggled" continuous="Diggling"/>
+	<verb text="Dread" past="Dreaded" continuous="Dreading"/>
+	<verb text="Eat" past="Ate" continuous="Eating"/>
+	<verb text="Faff" past="Faffed" continuous="Faffing"/>
+	<verb text="Fail" past="Failed" continuous="Failing"/>
+	<verb text="Faint" past="Fainted" continuous="Fainting"/>
 	<verb text="Fight" past="Fought" continuous="Fighting"/>
 	<verb text="Leap" past="Leapt" continuous="Leaping"/>
-	<verb text="Loathe" past="Loathed" continuous="Loathing" />
-	<verb text="Love" past="Loved" continuous="Loving" />
-	<verb text="Masticate" past="Masticated" continuous="Masticating" />
-	<verb text="Mince" past="Minced" continuous="Mincing" />
-	<verb text="Mine" past="Mined" continuous="Mining" />
-	<verb text="Ponder" past="Pondered" continuous="Pondering" />
+	<verb text="Loathe" past="Loathed" continuous="Loathing"/>
+	<verb text="Love" past="Loved" continuous="Loving"/>
+	<verb text="Masticate" past="Masticated" continuous="Masticating"/>
+	<verb text="Mince" past="Minced" continuous="Mincing"/>
+	<verb text="Mine" past="Mined" continuous="Mining"/>
+	<verb text="Ponder" past="Pondered" continuous="Pondering"/>
 	<verb text="Pounce" past="Pounced" continuous="Pouncing"/>
-	<verb text="Pound" past="Pounded" continuous="Pounding" />
-	<verb text="Process" past="Processed" continuous="Processing" />
+	<verb text="Pound" past="Pounded" continuous="Pounding"/>
+	<verb text="Process" past="Processed" continuous="Processing"/>
 	<verb text="Pulse" past="Pulsed" continuous="Pulsating"/>
-	<verb text="Shiver" past="Shivered" continuous="Shivering" />
+	<verb text="Shiver" past="Shivered" continuous="Shivering"/>
 	<verb text="Shoot" past="Shot" continuous="Shooting"/>
 	<verb text="Soar" past="Soared" continuous="Soaring"/>
-	<verb text="Spin" past="Spun" continuous="Spinning" />
-	<verb text="Stomp" past="Stomped" continuous="Stomping" />
+	<verb text="Spin" past="Spun" continuous="Spinning"/>
+	<verb text="Stomp" past="Stomped" continuous="Stomping"/>
 	<verb text="Tear" past="Tore" continuous="Tearing"/>
-	<verb text="Venture" past="Ventured" continuous="Venturing" />
+	<verb text="Venture" past="Ventured" continuous="Venturing"/>
 
 	<architecture text="Abattoir" plural="Abattoirs"/>
 	<architecture text="Amphitheatre" plural="Amphitheatres"/>
@@ -1138,59 +1138,59 @@
 	<title text="Word of"/>
 	<title text="Zodiacal"/>
 
-	<wizardname text = "Tobar" />
-	<wizardname text = "Meatro" />
-	<wizardname text = "Flindalon" />
-	<wizardname text = "Vesidoe" />
-	<wizardname text = "Blanbor" />
-	<wizardname text = "Digdug" />
-	<wizardname text = "Montag" />
-	<wizardname text = "Grimgar" />
-	<wizardname text = "Wizdov" />
-	<wizardname text = "Pendor" />
-	<wizardname text = "Rodan" />
-	<wizardname text = "Minrat" />
-	<wizardname text = "Bicklebock" />
-	<wizardname text = "Wormlid" />
-	<wizardname text = "Sneezy" />
-	<wizardname text = "Zandoz" />
-	<wizardname text = "Sardoriam" />
-	<wizardname text = "Wonkdonkler" />
-	<wizardname text = "Rick" />
-	<wizardname text = "Nobfron" />
-	<wizardname text = "Kramfrut" />
-	<wizardname text = "Caladaz" />
-	<wizardname text = "Diziet" />
-	<wizardname text = "Neckron" />
-	<wizardname text = "Mordred" />
-	<wizardname text = "Jeff" />
-	<wizardname text = "Flimflam" />
-	<wizardname text = "Zardoz" />
-	<wizardname text = "Triangulon" />
-	<wizardname text = "Moraivic (not to be confused with Moravic)" />
-	<wizardname text = "Moravic (not to be confused with Moraivic)" />
+	<wizardname text = "Tobar"/>
+	<wizardname text = "Meatro"/>
+	<wizardname text = "Flindalon"/>
+	<wizardname text = "Vesidoe"/>
+	<wizardname text = "Blanbor"/>
+	<wizardname text = "Digdug"/>
+	<wizardname text = "Montag"/>
+	<wizardname text = "Grimgar"/>
+	<wizardname text = "Wizdov"/>
+	<wizardname text = "Pendor"/>
+	<wizardname text = "Rodan"/>
+	<wizardname text = "Minrat"/>
+	<wizardname text = "Bicklebock"/>
+	<wizardname text = "Wormlid"/>
+	<wizardname text = "Sneezy"/>
+	<wizardname text = "Zandoz"/>
+	<wizardname text = "Sardoriam"/>
+	<wizardname text = "Wonkdonkler"/>
+	<wizardname text = "Rick"/>
+	<wizardname text = "Nobfron"/>
+	<wizardname text = "Kramfrut"/>
+	<wizardname text = "Caladaz"/>
+	<wizardname text = "Diziet"/>
+	<wizardname text = "Neckron"/>
+	<wizardname text = "Mordred"/>
+	<wizardname text = "Jeff"/>
+	<wizardname text = "Flimflam"/>
+	<wizardname text = "Zardoz"/>
+	<wizardname text = "Triangulon"/>
+	<wizardname text = "Moraivic (not to be confused with Moravic)"/>
+	<wizardname text = "Moravic (not to be confused with Moraivic)"/>
 
-	<!-- <wizardname text = "" /> -->
+	<!-- <wizardname text = ""/> -->
 
-	<wizardtitle text = " the Mad" />
-	<wizardtitle text = " the Bad" />
-	<wizardtitle text = " the Rad" />
-	<wizardtitle text = " the Sleepy" />
-	<wizardtitle text = " BWz., MSc." />
-	<wizardtitle text = " the Seer" />
-	<wizardtitle text = " the Worldweaver" />
-	<wizardtitle text = ", Wandbender" />
-	<wizardtitle text = ", Highly Desirable Dinner Guest" />
-	<wizardtitle text = ", Patron of the Dark Arts" />
-	<wizardtitle text = ", Master Caseomancer" />
-	<wizardtitle text = ", Runewriter" />
-	<wizardtitle text = ", Famous Drunk" />
-	<wizardtitle text = ", Chocoholic" />
-	<wizardtitle text = " the Octarine" />
-	<wizardtitle text = " the Taupe" />
-	<wizardtitle text = " the Mauve" />
-	<wizardtitle text = ", Saucier" />
-	<wizardtitle text = ", Mystery Guest #2" />
+	<wizardtitle text = " the Mad"/>
+	<wizardtitle text = " the Bad"/>
+	<wizardtitle text = " the Rad"/>
+	<wizardtitle text = " the Sleepy"/>
+	<wizardtitle text = " BWz., MSc."/>
+	<wizardtitle text = " the Seer"/>
+	<wizardtitle text = " the Worldweaver"/>
+	<wizardtitle text = ", Wandbender"/>
+	<wizardtitle text = ", Highly Desirable Dinner Guest"/>
+	<wizardtitle text = ", Patron of the Dark Arts"/>
+	<wizardtitle text = ", Master Caseomancer"/>
+	<wizardtitle text = ", Runewriter"/>
+	<wizardtitle text = ", Famous Drunk"/>
+	<wizardtitle text = ", Chocoholic"/>
+	<wizardtitle text = " the Octarine"/>
+	<wizardtitle text = " the Taupe"/>
+	<wizardtitle text = " the Mauve"/>
+	<wizardtitle text = ", Saucier"/>
+	<wizardtitle text = ", Mystery Guest #2"/>
 	<wizardtitle text = ", the Potions Master"/>
 	<wizardtitle text=", Master Warlock"/>
 	<wizardtitle text=" the Fabulous"/>
@@ -1212,34 +1212,34 @@
 	<wizardtitle text=", Magical Lawyer to the Diggles"/>
 	<wizardtitle text=", Egyptologist"/>
 
-	<wizardspiel text = "Available for parties and bar mitzvahs." />
-	<wizardspiel text = "Available for pub crawls and seniors' buffet lunches." />
-	<wizardspiel text = "Currently lecturing in East Zardonia." />
-	<wizardspiel text = "Professionally afraid of spoons." />
-	<wizardspiel text = "Handy with a wand." />
-	<wizardspiel text = "Has wands for hands." />
-	<wizardspiel text = "Mad with power." />
+	<wizardspiel text = "Available for parties and bar mitzvahs."/>
+	<wizardspiel text = "Available for pub crawls and seniors' buffet lunches."/>
+	<wizardspiel text = "Currently lecturing in East Zardonia."/>
+	<wizardspiel text = "Professionally afraid of spoons."/>
+	<wizardspiel text = "Handy with a wand."/>
+	<wizardspiel text = "Has wands for hands."/>
+	<wizardspiel text = "Mad with power."/>
 	<wizardspiel text = "Why yes, our owl is artificial."/>
-	<wizardspiel text = "Obsessed with achieving immortality." />
-	<wizardspiel text = "As seen on TV." />
-	<wizardspiel text = "Accept no substitutes." />
-	<wizardspiel text = "Wizardly deeds done." />
-	<wizardspiel text = "Wizardry while you wait." />
-	<wizardspiel text = "Really absurdly tall." />
-	<wizardspiel text = "Wands lengthened." />
-	<wizardspiel text = "Staffs oiled." />
-	<wizardspiel text = "Orbs polished." />
-	<wizardspiel text = "Amateur wine-tasting enthusiast." />
+	<wizardspiel text = "Obsessed with achieving immortality."/>
+	<wizardspiel text = "As seen on TV."/>
+	<wizardspiel text = "Accept no substitutes."/>
+	<wizardspiel text = "Wizardly deeds done."/>
+	<wizardspiel text = "Wizardry while you wait."/>
+	<wizardspiel text = "Really absurdly tall."/>
+	<wizardspiel text = "Wands lengthened."/>
+	<wizardspiel text = "Staffs oiled."/>
+	<wizardspiel text = "Orbs polished."/>
+	<wizardspiel text = "Amateur wine-tasting enthusiast."/>
 	<wizardspiel text = "Not allowed to do parties anymore."/>
 	<wizardspiel text = "Magical drycleaning done in the comfort of your own dungeon."/>
 	<wizardspiel text = "Banned by the Geneva Convention."/>
 
-	<wizardtag text = "Rates reasonable." />
-	<wizardtag text = "Rates unreasonable." />
-	<wizardtag text = "Rates astronomical." />
-	<wizardtag text = "Rates unbounded by conventional mathematics." />
-	<wizardtag text = "Will work for booze." />
-	<wizardtag text = "Specializing in new and used dimensions." />
-	<wizardtag text = "Prices so low they're crazy." />
-	<wizardtag text = "Prices driven mad by eldritch horrors." />
+	<wizardtag text = "Rates reasonable."/>
+	<wizardtag text = "Rates unreasonable."/>
+	<wizardtag text = "Rates astronomical."/>
+	<wizardtag text = "Rates unbounded by conventional mathematics."/>
+	<wizardtag text = "Will work for booze."/>
+	<wizardtag text = "Specializing in new and used dimensions."/>
+	<wizardtag text = "Prices so low they're crazy."/>
+	<wizardtag text = "Prices driven mad by eldritch horrors."/>
 </text>
