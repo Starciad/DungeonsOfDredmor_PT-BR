@@ -114,7 +114,7 @@ EVIL BOSS FIGHT!
 		<!-- dodge -->
 		<resistances acidic="3" piercing="2" />
 
-		<info latin="(Gloppus Gloppus Generis)" text="It's a blob of animated slime,&#xa;possibly from an adventurer's armpit."/>
+		<info latin="(Gloppus Gloppus Generis)" text="É uma gota de gosma animada,&#xa;possivelmente da axila de um aventureiro."/>
 
 		<monster name="Electroblobby" level="1">
 			<palette tint="-50"/>
@@ -123,7 +123,7 @@ EVIL BOSS FIGHT!
 			<damage crushing="1" voltaic="2" acidic="0"/>
 			<secondarybuff id="4" amount="-5"/>
 			<!-- crit -->
-			<info latin="(Gloppus Gloppus Electrolysissus)" text="If you thought this was just a regular blob of animated slime then you're in for a shock."/>
+			<info latin="(Gloppus Gloppus Electrolysissus)" text="Se você pensou que isso era apenas uma gota comum de uma gosma... sinto informar-lhe que você levará um choque."/>
 			<spell name="Weak Electrobolt"/>
 			<ai aggressiveness="3" span="4" spellPercentage="5"/>
 		</monster>
@@ -138,7 +138,7 @@ EVIL BOSS FIGHT!
 			<!-- crit -->
 			<secondarybuff id="6" amount="25"/>
 			<!-- dodge -->
-			<info latin="(Gloppus Gloppus Packrattus)" text="The kleptoblobby likes to get ahold of everything it can get its hands(?) on."/>
+			<info latin="(Gloppus Gloppus Packrattus)" text="O Kleptoblobby gosta de se apoderar de tudo o que suas mãos (?) podem tocar."/>
 		</monster>
 
 		<monster name="Toxiblobby" level="1">
@@ -146,7 +146,7 @@ EVIL BOSS FIGHT!
 			<resistances toxic="4" piercing="2" />
 			<stats numFig="2" numRog="1" xpValue="10"/>
 			<damage crushing="1" toxic="3" acidic="0"/>
-			<info latin="(Gloppus Gloppus Toxicausticus)" text="It's a particularly revolting blob of animated slime."/>
+			<info latin="(Gloppus Gloppus Toxicausticus)" text="É uma gota daquela gosma animada um pouquinho revoltada."/>
 			<onhit spell="Small Weak Poison Cloud" onechancein="5" />
 		</monster>
 
@@ -157,7 +157,7 @@ EVIL BOSS FIGHT!
 			<damage crushing="2"/>
 			<secondarybuff id="10" amount="2"/>
 			<!-- armour -->
-			<info latin="(Gloppus Gloppus Sanguinous)" text="It's a very tough blob of animated slime, the sort of which collects around the drainpipes of gym showers."/>
+			<info latin="(Gloppus Gloppus Sanguinous)" text="Essa gota de gosma animada é bem dura, do tipo que se coleta dos canos de esgoto dos chuveiros das academias."/>
 			<!-- <spell name="Meatshield"/>
    <ai aggressiveness="3" span="4" spellPercentage="4"/> -->
 		</monster>
@@ -168,7 +168,7 @@ EVIL BOSS FIGHT!
 			<resistances conflagratory="4" piercing="2" hyperborean="-2"/>
 			<stats numFig="3" numRog="3" xpValue="26"/>
 			<damage crushing="2" conflagratory="4" acidic="0"/>
-			<info latin="(Gloppus Gloppus Conflagrattus)" text="It's a very hot blob of animated slime."/>
+			<info latin="(Gloppus Gloppus Conflagrattus)" text="É uma gota de gosma animada MUITO quente!"/>
 			<spell name="Weak Firebolt"/>
 			<ai aggressiveness="3" span="4" spellPercentage="5"/>
 		</monster>
@@ -179,7 +179,7 @@ EVIL BOSS FIGHT!
 			<damage crushing="10" putrefying="10"/>
 			<resistances piercing="2" />
 			<onhit spell="Corrupt Equipment" onechancein="3"/>
-			<info latin="(Gloppus Gloppus Corruptus)" text="It's a blob of death and despair, in slime form. It has a corrupting effect on any weapons and armour it touches."/>
+			<info latin="(Gloppus Gloppus Corruptus)" text="A morte e desespero personificados na forma de gosma, claro. Ele tem um efeito corruptor que é aplicado em qualquer equipamento que for tocada por ele."/>
 		</monster>
 
 		<!-- Add lots of silly oil-based powers. also getting-set-on-fire-based powers -->
@@ -187,7 +187,7 @@ EVIL BOSS FIGHT!
 			<palette tint="165"/>
 			<stats numFig="4" numRog="2" xpValue="30"/>
 			<damage crushing="2" toxic="2"/>
-			<info latin="(Gloppus Gloppus Petroleus)" text="It's an oily blob of animated slime."/>
+			<info latin="(Gloppus Gloppus Petroleus)" text="É uma gota oleosa de uma gosma animada."/>
 		</monster>
 
 		<!-- Give it special bloob-based powers. -->
@@ -198,7 +198,7 @@ EVIL BOSS FIGHT!
 			<stats numFig="7" numRog="4" xpValue="25"/>
 			<secondarybuff id="10" amount="3"/>
 			<!-- armour -->
-			<info latin="(Gloppus Gloppus Sanguinous)" text="It's a very tough blob of animated slime, the sort of which collects around the drainpipes of gym showers."/>
+			<info latin="(Gloppus Gloppus Sanguinous)" text="É uma gota bem dura de uma gosma... daquele tipo que se acumula nos canos de esgoto dos chuveiros das academias."/>
 		</monster>
 
 		<!-- Give it special bloob-based powers. -->
@@ -209,7 +209,7 @@ EVIL BOSS FIGHT!
 			<stats numFig="5" numRog="3" xpValue="0"/>
 			<secondarybuff id="10" amount="2"/>
 			<!-- armour -->
-			<info latin="(fungus ichoolungus)" text="Your very own slime. Sometimes drops clouds of toxic spores."/>
+			<info latin="(fungus ichoolungus)" text="Olha só, é o sua própria gosma! Às vezes, ela deixa cair nuvens de esporos tóxicos por aí."/>
 		</monster>
 
 	</monster>
