@@ -927,126 +927,126 @@
 	<verb text="Rasgar" past="Tore" continuous="Tearing"/>
 	<verb text="Aventurar-se" past="Ventured" continuous="Venturing"/>
 
-	<architecture text="Abattoir" plural="Abattoirs"/>
-	<architecture text="Amphitheatre" plural="Amphitheatres"/>
-	<architecture text="Annex" plural="Annexes"/>
-	<architecture text="Anvil" plural="Anvils"/>
-	<architecture text="Apse" plural="Apses"/>
-	<architecture text="Arcade" plural="Arcades"/>
+	<architecture text="Abatedouro" plural="Abattoirs"/>
+	<architecture text="Anfiteatro" plural="Amphitheatres"/>
+	<architecture text="Anexo" plural="Annexes"/>
+	<architecture text="Bigorna" plural="Anvils"/>
+	<architecture text="Abside" plural="Apses"/>
+	<architecture text="Arcada" plural="Arcades"/>
 	<architecture text="Arena" plural="Arenas"/>
-	<architecture text="Armory" plural="Armories"/>
+	<architecture text="Armaria" plural="Armories"/>
 	<architecture text="Arsenal" plural="Arsenals"/>
-	<architecture text="Bakery" plural="Bakeries"/>
-	<architecture text="Bank" plural="Banks"/>
-	<architecture text="Barracks" plural="Barracks"/>
-	<architecture text="Bath" plural="Baths"/>
-	<architecture text="Bawdy House" plural="Bawdy Houses"/>
-	<architecture text="Bay" plural="Bays"/>
-	<architecture text="Binary Space Partition" plural="Binary Space Partitions"/>
-	<architecture text="Block" plural="Blocks"/>
-	<architecture text="Bog" plural="Bogs"/>
-	<architecture text="Bordello" plural="Bordellos"/>
-	<architecture text="Bowel" plural="Bowels"/>
-	<architecture text="Brewery" plural="Breweries"/>
-	<architecture text="Buttress" plural="Buttresses"/>
-	<architecture text="Capitol" plural="Capitols"/>
-	<architecture text="Casino" plural="Casinos"/>
-	<architecture text="Castle" plural="Castles"/>
-	<architecture text="Cathouse" plural="Cathouses"/>
-	<architecture text="Cavern" plural="Caverns"/>
-	<architecture text="Cellar" plural="Cellars"/>
-	<architecture text="Chamber" plural="Chambers"/>
-	<architecture text="Chasm" plural="Chasms"/>
-	<architecture text="Citadel" plural="Citadels"/>
-	<architecture text="Clerestory" plural="Clerestories"/>
-	<architecture text="Coffer" plural="Coffers"/>
-	<architecture text="Concordat" plural="Concordats"/>
-	<architecture text="Confessional" plural="Confessionals"/>
-	<architecture text="Corner" plural="Corners"/>
-	<architecture text="Corridor" plural="Corridors"/>
-	<architecture text="Crack" plural="Cracks"/>
-	<architecture text="Crescent" plural="Crescents"/>
-	<architecture text="Crux" plural="Cruces"/>
-	<architecture text="Crypt" plural="Crypts"/>
-	<architecture text="Cube" plural="Cubes"/>
-	<architecture text="Den" plural="Dens"/>
-	<architecture text="Dome" plural="Domes"/>
-	<architecture text="Dry Dock" plural="Dry Docks"/>
-	<architecture text="Eave" plural="Eaves"/>
-	<architecture text="Fjord" plural="Fjords"/>
-	<architecture text="Floggery" plural="Floggeries"/>
-	<architecture text="Folly" plural="Follies"/>
-	<architecture text="Forest" plural="Forests"/>
-	<architecture text="Forge" plural="Forges"/>
-	<architecture text="Fortress" plural="Fortresses"/>
-	<architecture text="Fountain" plural="Fountains"/>
-	<architecture text="Gentlemen's Club" plural="Gentlemen's Clubs"/>
-	<architecture text="Glacier" plural="Glaciers"/>
-	<architecture text="Grove" plural="Groves"/>
-	<architecture text="Gymnasium" plural="Gymnasiums"/>
-	<architecture text="Hall" plural="Halls"/>
-	<architecture text="Haus" plural="Hausen"/>
-	<architecture text="Heart" plural="Hearts"/>
-	<architecture text="Hole" plural="Holes"/>
-	<architecture text="Hollow" plural="Hollows"/>
-	<architecture text="Home" plural="Homes"/>
-	<architecture text="House" plural="Houses"/>
-	<architecture text="Jail" plural="Jails"/>
-	<architecture text="Kitchen" plural="Kitchens"/>
-	<architecture text="Laboratory" plural="Laboratories"/>
-	<architecture text="Legislature" plural="Legislatures"/>
-	<architecture text="Little Shed" plural="Little Sheds"/>
-	<architecture text="Manse" plural="Manses"/>
-	<architecture text="Marsh" plural="Marshes"/>
-	<architecture text="Maw" plural="Maws"/>
-	<architecture text="Maze" plural="Mazes"/>
-	<architecture text="Mine" plural="Mines"/>
-	<architecture text="Moat" plural="Moats"/>
+	<architecture text="Padaria" plural="Bakeries"/>
+	<architecture text="Banco" plural="Banks"/>
+	<architecture text="Quartel" plural="Barracks"/>
+	<architecture text="Banho" plural="Baths"/>
+	<architecture text="Bordel" plural="Bawdy Houses"/>
+	<architecture text="Baía" plural="Bays"/>
+	<architecture text="Partição Espacial Binária" plural="Binary Space Partitions"/>
+	<architecture text="Bloco" plural="Blocks"/>
+	<architecture text="Pântano" plural="Bogs"/>
+	<architecture text="Bordel" plural="Bordellos"/>
+	<architecture text="Intestino" plural="Bowels"/>
+	<architecture text="Cervejaria" plural="Breweries"/>
+	<architecture text="Contraforte" plural="Buttresses"/>
+	<architecture text="Capitólio" plural="Capitols"/>
+	<architecture text="Cassino" plural="Casinos"/>
+	<architecture text="Castelo" plural="Castles"/>
+	<architecture text="Bordel" plural="Cathouses"/>
+	<architecture text="Caverna" plural="Caverns"/>
+	<architecture text="Adega" plural="Cellars"/>
+	<architecture text="Câmara" plural="Chambers"/>
+	<architecture text="Abismo" plural="Chasms"/>
+	<architecture text="Cidadela" plural="Citadels"/>
+	<architecture text="Claraboia" plural="Clerestories"/>
+	<architecture text="Cofre" plural="Coffers"/>
+	<architecture text="Concordata" plural="Concordats"/>
+	<architecture text="Confessionário" plural="Confessionals"/>
+	<architecture text="Esquina" plural="Corners"/>
+	<architecture text="Corredor" plural="Corridors"/>
+	<architecture text="Fenda" plural="Cracks"/>
+	<architecture text="Meia-lua" plural="Crescents"/>
+	<architecture text="Cruz" plural="Cruces"/>
+	<architecture text="Cripta" plural="Crypts"/>
+	<architecture text="Cubo" plural="Cubes"/>
+	<architecture text="Covil" plural="Dens"/>
+	<architecture text="Cúpula" plural="Domes"/>
+	<architecture text="Dique Seco" plural="Dry Docks"/>
+	<architecture text="Beiral" plural="Eaves"/>
+	<architecture text="Fiorde" plural="Fjords"/>
+	<architecture text="Floggeria" plural="Floggeries"/>
+	<architecture text="Tolice" plural="Follies"/>
+	<architecture text="Floresta" plural="Forests"/>
+	<architecture text="Forja" plural="Forges"/>
+	<architecture text="Fortaleza" plural="Fortresses"/>
+	<architecture text="Fonte" plural="Fountains"/>
+	<architecture text="Clube de Cavalheiros" plural="Gentlemen's Clubs"/>
+	<architecture text="Geleira" plural="Glaciers"/>
+	<architecture text="Bosque" plural="Groves"/>
+	<architecture text="Ginásio" plural="Gymnasiums"/>
+	<architecture text="Salão" plural="Halls"/>
+	<architecture text="Casa" plural="Hausen"/>
+	<architecture text="Coração" plural="Hearts"/>
+	<architecture text="Buraco" plural="Holes"/>
+	<architecture text="Cavidade" plural="Hollows"/>
+	<architecture text="Lar" plural="Homes"/>
+	<architecture text="Casa" plural="Houses"/>
+	<architecture text="Cadeia" plural="Jails"/>
+	<architecture text="Cozinha" plural="Kitchens"/>
+	<architecture text="Laboratório" plural="Laboratories"/>
+	<architecture text="Legislatura" plural="Legislatures"/>
+	<architecture text="Pequeno Galpão" plural="Little Sheds"/>
+	<architecture text="Mansão" plural="Manses"/>
+	<architecture text="Pântano" plural="Marshes"/>
+	<architecture text="Goela" plural="Maws"/>
+	<architecture text="Labirinto" plural="Mazes"/>
+	<architecture text="Mina" plural="Mines"/>
+	<architecture text="Fosso" plural="Moats"/>
 	<architecture text="Motel" plural="Motels"/>
-	<architecture text="Mouth" plural="Mouths"/>
-	<architecture text="Nook" plural="Nooks"/>
-	<architecture text="Orbit" plural="Orbits"/>
+	<architecture text="Boca" plural="Mouths"/>
+	<architecture text="Recanto" plural="Nooks"/>
+	<architecture text="Órbita" plural="Orbits"/>
 	<architecture text="Oubliette" plural="Oubliettes"/>
-	<architecture text="Passage" plural="Passages"/>
-	<architecture text="Pillar" plural="Pillars"/>
-	<architecture text="Pit" plural="Pits"/>
-	<architecture text="Place" plural="Places"/>
-	<architecture text="Portico" plural="Porticos"/>
-	<architecture text="Processing Plant" plural="Processing Plants"/>
-	<architecture text="Quadrangle" plural="Quadrangles"/>
-	<architecture text="Redoubt" plural="Redoubts"/>
-	<architecture text="Reservoir" plural="Reservoirs"/>
-	<architecture text="Resting-place" plural="Resting-places"/>
-	<architecture text="Rhombus" plural="Rhombi"/>
-	<architecture text="River" plural="Rivers"/>
-	<architecture text="Room" plural="Rooms"/>
-	<architecture text="Root" plural="Roots"/>
+	<architecture text="Passagem" plural="Passages"/>
+	<architecture text="Pilar" plural="Pillars"/>
+	<architecture text="Poço" plural="Pits"/>
+	<architecture text="Lugar" plural="Places"/>
+	<architecture text="Pórtico" plural="Porticos"/>
+	<architecture text="Planta de Processamento" plural="Processing Plants"/>
+	<architecture text="Quadrângulo" plural="Quadrangles"/>
+	<architecture text="Reduto" plural="Redoubts"/>
+	<architecture text="Reservatório" plural="Reservoirs"/>
+	<architecture text="Lugar de Descanso" plural="Resting-places"/>
+	<architecture text="Rombo" plural="Rhombi"/>
+	<architecture text="Rio" plural="Rivers"/>
+	<architecture text="Sala" plural="Rooms"/>
+	<architecture text="Raiz" plural="Roots"/>
 	<architecture text="Rotunda" plural="Rotundas"/>
 	<architecture text="Sanctum" plural="Sanctums"/>
-	<architecture text="Sewer" plural="Sewers"/>
-	<architecture text="Shaft" plural="Shafts"/>
-	<architecture text="Shore" plural="Shores"/>
-	<architecture text="Sitting Room" plural="Sitting Room"/>
-	<architecture text="Sphere" plural="Spheres"/>
-	<architecture text="Stack" plural="Stacks"/>
-	<architecture text="Stash" plural="Stashes"/>
-	<architecture text="Stockade" plural="Stockades"/>
-	<architecture text="Swamp" plural="Swamps"/>
-	<architecture text="Test Chamber" plural="Test Chambers"/>
-	<architecture text="Theatre" plural="Theatres"/>
-	<architecture text="Throne Room" plural="Throne Rooms"/>
-	<architecture text="Tomb" plural="Tombs"/>
-	<architecture text="Tower" plural="Towers"/>
-	<architecture text="Trench" plural="Trenches"/>
-	<architecture text="Triangle" plural="Triangles"/>
-	<architecture text="Tube" plural="Tubes"/>
-	<architecture text="Valley" plural="Valleys"/>
-	<architecture text="Vessel" plural="Vessels"/>
-	<architecture text="Vestibule" plural="Vestibules"/>
-	<architecture text="Well" plural="Wells"/>
-	<architecture text="Workshop" plural="Workshops"/>
-	<architecture text="Wormhole" plural="Wormholes"/>
-	<architecture text="Yurt" plural="Yurts"/>
+	<architecture text="Esgoto" plural="Sewers"/>
+	<architecture text="Eixo" plural="Shafts"/>
+	<architecture text="Costa" plural="Shores"/>
+	<architecture text="Sala de Estar" plural="Sitting Room"/>
+	<architecture text="Esfera" plural="Spheres"/>
+	<architecture text="Pilha" plural="Stacks"/>
+	<architecture text="Esconderijo" plural="Stashes"/>
+	<architecture text="Estacada" plural="Stockades"/>
+	<architecture text="Pântano" plural="Swamps"/>
+	<architecture text="Câmara de Teste" plural="Test Chambers"/>
+	<architecture text="Teatro" plural="Theatres"/>
+	<architecture text="Sala do Trono" plural="Throne Rooms"/>
+	<architecture text="Tumba" plural="Tombs"/>
+	<architecture text="Torre" plural="Towers"/>
+	<architecture text="Trincheira" plural="Trenches"/>
+	<architecture text="Triângulo" plural="Triangles"/>
+	<architecture text="Tubo" plural="Tubes"/>
+	<architecture text="Vale" plural="Valleys"/>
+	<architecture text="Vaso" plural="Vessels"/>
+	<architecture text="Vestíbulo" plural="Vestibules"/>
+	<architecture text="Poço" plural="Wells"/>
+	<architecture text="Oficina" plural="Workshops"/>
+	<architecture text="Buraco de Minhoca" plural="Wormholes"/>
+	<architecture text="Iurta" plural="Yurts"/>
 
 	<firstname text="Alistair"/>
 	<firstname text="Bart"/>
