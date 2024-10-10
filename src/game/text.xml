@@ -865,29 +865,29 @@
 	<insult text="Eca!"/>
 	<insult text="Sou niilista, não acredito em nada!"/>
 	
-	<random text="Dungeons of Dredmor would like to remind you that today is Take Your Daughter to Work Day. This is a perfect time to... oh, never mind."/>
-	<random text="Maybe you shouldn't have eaten that lutefisk..."/>
-	<random text="Plebs are needed."/>
-	<random text="Something smells like burning. Mmm, hickory."/>
-	<random text="Something smells really, really good."/>
-	<random text="Suddenly you feel like you've forgotten something very important. What was it?"/>
-	<random text="The hollow calls of undead mandrill echo through the dungeon."/>
-	<random text="The pungent stench of mildew emanates from the wet dungeon walls."/>
-	<random text="You can't cut back on funding! You will regret this!"/>
-	<random text="You feel a sudden, overpowering sense of regret."/>
-	<random text="You feel good about yourself."/>
-	<random text="You have insufficient Vespene gas. Mine more Vespene gas."/>
-	<random text="You hear chimes in the distance."/>
-	<random text="You hear haunting moos."/>
-	<random text="You hear the carousing of the Dwarf Lords."/>
-	<random text="You hear the howl of a banshee."/>
-	<random text="You hear the sound of a man trying to remove himself from an Evisceration Chute."/>
-	<random text="You hear the sound of gurgling pipes."/>
-	<random text="You hear the thrumming of runes of power."/>
-	<random text="You narrowly avoid stepping on an olm."/>
-	<random text="You step on something squishy."/>
-	<random text="You're doing swell! Give yourself a pat on the back."/>
-	<random text="You must gather your party before venturing forth."/>
+	<random text="As Masmorras de Dredmor gostariam de lembrar que hoje é o Dia de Levar Sua Filha ao Trabalho. Este é o momento perfeito para... ah, deixa pra lá."/>
+	<random text="Talvez você não devesse ter comido aquele lutefisk..."/>
+	<random text="Precisamos de plebeus."/>
+	<random text="Algo está cheirando a queimado. Hmm, cheiro de madeira defumada."/>
+	<random text="Algo está cheirando muito, muito bem."/>
+	<random text="De repente você sente que esqueceu algo muito importante. O que será?"/>
+	<random text="Os chamados vazios de mandris mortos-vivos ecoam pela masmorra."/>
+	<random text="O cheiro pungente de mofo emana das paredes úmidas da masmorra."/>
+	<random text="Você não pode cortar o orçamento! Vai se arrepender disso!"/>
+	<random text="Você sente um arrependimento repentino e esmagador."/>
+	<random text="Você se sente bem consigo mesmo."/>
+	<random text="Você não tem gás Vespeno suficiente. Extraia mais gás Vespeno."/>
+	<random text="Você ouve sinos à distância."/>
+	<random text="Você ouve mugidos assombrosos."/>
+	<random text="Você ouve as festas dos Senhores Anões."/>
+	<random text="Você ouve o uivo de uma banshee."/>
+	<random text="Você ouve o som de um homem tentando se libertar de um Triturador de Evisceração."/>
+	<random text="Você ouve o som de canos gorgolejando."/>
+	<random text="Você ouve o pulsar das runas de poder."/>
+	<random text="Você quase pisa em um olm."/>
+	<random text="Você pisa em algo mole e pegajoso."/>
+	<random text="Você está indo muito bem! Dê um tapinha nas suas costas."/>
+	<random text="Você deve reunir seu grupo antes de seguir em frente."/>
 
 	<!-- this section of the database reveals the true horror of all romantic languages -->
 
