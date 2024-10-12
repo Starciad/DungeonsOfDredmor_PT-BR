@@ -244,7 +244,7 @@
 		<!-- dodge -->
 		<secondarybuff id="0" amount="-2"/>
 		<!-- hp -->
-		<info latin="(Poingus Poingus)" text="A strange little bird-thing that tunnels through walls with its odd, rubbery nasal appliance."/>
+		<info latin="(Poingus Poingus)" text="Uma estranha criatura meio pássaro que escava túneis através das paredes com seu peculiar apêndice nasal borrachudo."/>
 
 		<dig mindistance="3" percent="5" ambushpercent="5" blockedpercent="100" minturns="3" maxTurns="6" />
 
@@ -260,7 +260,7 @@
 			<!-- crit -->
 			<secondarybuff id="6" amount="4"/>
 			<!-- dodge -->
-			<info latin="(Poingus Poingus)" text="A strange little bird-thing that tunnels through walls with its odd, rubbery nasal appliance. This one looks like it has some kind of disease."/>
+			<info latin="(Poingus Poingus)" text="Uma estranha criatura meio pássaro que escava túneis através das paredes com seu peculiar apêndice nasal borrachudo. Este aqui parece que tem algum tipo de doença."/>
 		</monster>
 
 		<monster name="Enraged Diggle" level="1" diggleHell="1">
@@ -269,7 +269,7 @@
 			<stats numFig="5" xpValue="16"/>
 			<secondarybuff id="10" amount="1"/>
 			<!-- armour -->
-			<info latin="(Poingus Poingus)" text="A strange little bird-thing that tunnels through walls with its odd, rubbery nasal appliance. This one looks really mad."/>
+			<info latin="(Poingus Poingus)" text="Uma estranha criatura meio pássaro que escava túneis através das paredes com seu peculiar apêndice nasal borrachudo. Este aqui parece realmente furioso."/>
 			<ai aggressiveness="5" span="24" spellPercentage="3"/>
 			<spell name="Monstrous Rage"/>
 		</monster>
@@ -281,7 +281,7 @@
 			<dig mindistance="3" percent="20" ambushpercent="20" blockedpercent="100" minturns="3" maxTurns="6" />
 			<secondarybuff id="10" amount="8"/>
 			<!-- armour -->
-			<info latin="(Poingus Poingus)" text="The secret leaders of Diggle society. (Such as it is.)"/>
+			<info latin="(Poingus Poingus)" text="Os líderes secretos da sociedade Diggle; se é que isso existe."/>
 		</monster>
 
 		<monster name="Diggle Commando" level="4" diggleHell="1">
@@ -291,7 +291,7 @@
 			<secondarybuff id="10" amount="5"/>
 			<!-- armour -->
 			<dig mindistance="3" percent="40" ambushpercent="40" blockedpercent="100" minturns="3" maxTurns="6" />
-			<info latin="(Poingus Poingus)" text="The fearsome Diggle Commando sneaks through the dungeons, being all it can be."/>
+			<info latin="(Poingus Poingus)" text="O temível Comando Diggle espreita pelas masmorras, sendo tudo o que pode ser."/>
 			<ai aggressiveness="5" span="24" spellPercentage="5" invisible="1"/>
 		</monster>
 
@@ -304,7 +304,7 @@
 			<secondarybuff id="10" amount="6"/>
 			<!-- armour -->
 			<onhit spell="Consume Food" onechancein="5"/>
-			<info latin="(Poingus Poingus)" text="It's so hungry. So very, VERY hungry."/>
+			<info latin="(Poingus Poingus)" text="Está com tanta fome. Tipo, com muita, MUITA fome."/>
 			<ai aggressiveness="55" span="24"/>
 		</monster>
 
@@ -316,7 +316,7 @@
 			<dig mindistance="3" percent="20" ambushpercent="20" blockedpercent="100" minturns="3" maxTurns="6" />
 			<!-- armour -->
 			<onhit spell="Consume Booze" onechancein="5"/>
-			<info latin="(Poingus Poingus)" text="It hatesh you sho much... *hic*"/>
+			<info latin="(Poingus Poingus)" text="Ele te odeia tantooo... *hic*"/>
 			<ai aggressiveness="75" span="24"/>
 		</monster>
 
@@ -332,7 +332,7 @@
 			<!-- block -->
 			<secondarybuff id="8" amount="10"/>
 			<!-- counter -->
-			<info latin="(Poingus Poingus)" text="A strange little bird-thing that tunnels through walls with its odd, rubbery nasal appliance. This one has been trained to hunt with absolute loyalty. Well, some loyalty. Mostly."/>
+			<info latin="(Poingus Poingus)" text="Uma estranha criatura meio pássaro que escava túneis através das paredes com seu peculiar apêndice nasal borrachudo. Este aqui foi treinado para caçar com lealdade absoluta. Bem, alguma lealdade. Na maioria das vezes."/>
 		</monster>
 
 		<monster name="Impish Diggle" level="20" diggleHell="1" special="1">
@@ -345,7 +345,7 @@
 			<!-- dodge -->
 			<dig mindistance="3" percent="20" ambushpercent="20" blockedpercent="100" minturns="3" maxTurns="6" />
 			<resistances conflagratory="20" necromantic="10" righteous="-5" />
-			<info latin="(Poingus Poingus)" text="An infernal little diggle, burning with infernal little diggle rage."/>
+			<info latin="(Poingus Poingus)" text="Um pequeno e infernal diggle, ardendo de raiva infernal."/>
 			<ai aggressiveness="5" span="24" spellPercentage="5"/>
 			<spell name="Monstrous Rage"/>
 			<spell name="Firebolt"/>
@@ -364,7 +364,7 @@
 			<!-- dodge -->
 			<secondarybuff id="0" amount="20"/>
 			<!-- hp -->
-			<info latin="(Poingus Poingus)" text="Trapped in Diggle form, he wanders the Dungeons looking for revenge."/>
+			<info latin="(Poingus Poingus)" text="Preso na forma de Diggle, ele vagueia pelas Masmorras em busca de vingança."/>
 			<ai aggressiveness="4" span="10" />
 			<sight cone="90" modifier="1.1" />
 
