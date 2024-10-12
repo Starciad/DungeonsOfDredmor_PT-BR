@@ -29,7 +29,7 @@
   -->
 
 <skillDB>
-	<skill name="Swords" id="0" type="warrior" achievement="ACHIEVEMENT_SWORD_MASTERY" description="Você consegue resolver o Enigma do Aço? Infelizmente, não – mas você ganha bônus de combate e ataques especiais ao empunhar espadas.">
+	<skill name="Swords" id="0" type="warrior" achievement="ACHIEVEMENT_SWORD_MASTERY" description="Você consegue resolver o Enigma do Aço? Infelizmente, não - mas você ganha bônus de combate e ataques especiais ao empunhar espadas.">
 		<art icon="skills/skill_sword.png"/>
 		<tag level="0" name="Slasher"/>
 		<tag level="3" name="Fencer"/>
@@ -223,7 +223,7 @@
 		<loadout type="toolkit" subtype="n-Dimensional Lathe"  always="1"/>
 	</skill>
 
-	<skill name="Archaeology" id="31" type="rogue" achievement="ACHIEVEMENT_SMITHING_MASTERY"  description="Você começa o jogo com um fedora e é geralmente elegante, travesso. Um dia você pode até conseguir uma cátedra.">
+	<skill name="Archaeology" id="31" type="rogue" achievement="ACHIEVEMENT_SMITHING_MASTERY"  description="Você começa o jogo com um chapéu fedora e é geralmente elegante e travesso. Um dia você pode até conseguir uma cátedra.">
 		<art icon="skills/skill_archaeology.png"/>
 		<loadout type="armour" subtype="Fedora" always="1" />
 	</skill>
@@ -243,53 +243,66 @@
 		<loadout type="component" amount="3" always="1"/>
 	</skill>
 
+	<!-- ABILITIES -->
+
 	<ability name="Swordplay" icon="skills/skill_sword.png" skill="0" startSkill="1">
-		<description text="Swords! The pointy bit goes in the other guy."/>
+		<description text="Espadas! A parte pontiaguda vai no outro cara."/>
 	</ability>
+
 	<ability name="Axemanship" icon="skills/skill_axe.png" skill="1" startSkill="1">
-		<description text="Axes: The key to removing all manner of limbs."/>
+		<description text="Machados: A chave para remover todo tipo de membros."/>
 	</ability>
+
 	<ability name="Macery" icon="skills/skill_mace.png" skill="2" startSkill="1">
-		<description text="Maces: Useful for knocking out creeps. You can even keep them in your handbag if you want to."/>
+		<description text="Maças: Úteis para nocautear intrusos. Você pode até mantê-las na sua bolsa se quiser."/>
 	</ability>
+
 	<ability name="Staff-fighting" icon="skills/skill_staff.png" skill="3" startSkill="1">
-		<description text="Staves! They stave off all kinds of things."/>
+		<description text="Bastões! Eles afastam todo tipo de coisas."/>
 	</ability>
+
 	<ability name="Crossbows" icon="skills/skill_crossbow.png" skill="4" startSkill="1">
-		<description text="Blast your enemies from afar with your snipery skills. (This skill lovingly sponsored by the Bolt Council. Join us today, or we'll put a squid in your bed.)"/>
+		<description text="Destrua seus inimigos à distância com suas habilidades de atirador. (Essa habilidade é carinhosamente patrocinada pelo Conselho dos Projéteis. Junte-se a nós hoje, ou colocaremos um polvo na sua cama)"/>
 	</ability>
 
 	<ability name="Thrown Weaponry" icon="skills/skill_thrown.png" skill="5" startSkill="1">
-		<description text="Throw a tantrum. Better yet, throw something with sharp edges. Or maybe even something that explodes into sharp fragments!"/>
+		<description text="Faça uma cena. Melhor ainda, jogue algo com bordas afiadas; ou talvez até algo que exploda em fragmentos afiados!"/>
 	</ability>
 
 	<ability name="The Unarmed Art" icon="skills/skill_unarmed.png" skill="6" startSkill="1">
-		<description text="Who needs weapons? Destroy your enemies with your mighty feet."/>
+		<description text="Quem precisa de armas? Destrua seus inimigos com seus pés poderosos."/>
 	</ability>
+
 	<ability name="Dual Wielding" icon="skills/skill_dualwield.png" skill="7" startSkill="1">
-		<description text="What's better than one weapon? Two weapons at the very same time!"/>
+		<description text="O que é melhor do que uma arma? Duas armas ao mesmo tempo!"/>
 	</ability>
+
 	<ability name="Shield-bearer" icon="skills/skill_shieldbearer.png" skill="8" startSkill="1">
-		<description text="Return with your shield - or under it? For the defense-minded adventurer."/>
+		<description text="Retorne com seu escudo - ou debaixo dele? Para o aventureiro voltado à defesa."/>
 	</ability>
+
 	<ability name="Berserker Rage" icon="skills/skill_berserker.png" skill="9" startSkill="1">
-		<description text="Do it! Do it for Crom!"/>
+		<description text="Faça isso! Faça isso por Crom!"/>
 	</ability>
+
 	<ability name="Artful Dodging" icon="skills/skill_dodging.png" skill="10" startSkill="1">
-		<description text="The best defense is to be somewhere else."/>
+		<description text="A melhor defesa é estar em outro lugar."/>
 	</ability>
+
 	<ability name="Master of Arms" icon="skills/skill_armour.png" skill="11" startSkill="1">
-		<description text="The Armorial Art revolves around gracefully strapping large chunks of metal to your body."/>
+		<description text="A Arte Armorial gira em torno de prender graciosamente grandes pedaços de metal ao seu corpo."/>
 	</ability>
+
 	<ability name="Deadshot" icon="skills/skill_deadshot.png" skill="12" startSkill="1">
-		<description text="Aim deadly and true. You'd think it was common sense that hitting your target would enhance combat performance, right?"/>
+		<description text="Mire com uma precisão mortal. Você imaginaria que é senso comum que atingir seu alvo melhoraria o desempenho do combate, correto?"/>
 	</ability>
 
 	<!-- Spooky, sparkly -->
 
 	<ability name="Vampirism" icon="skills/skill_vampirism.png" skill="13" startSkill="1">
-		<description text="Quench that insatiable thirst with the tingly life-fluid of your enemies - but beware the day-star, for your end under its unforgiving gaze would be swift and sparkly. As a vampire, you can only heal by unnatural means."/>
+		<description text="Sacie essa sede insaciável com o líquido vital efervescente dos seus inimigos - mas cuide do sol, pois seu fim sob seu olhar implacável seria rápido e brilhante. Como vampiro, você só pode se curar por meios não naturais."/>
 	</ability>
+
 	<!-- Core Magic School Skills -->
 
 	<ability name="Golemancy" icon="skills/skill_golemancer.png" skill="14" startSkill="1">
