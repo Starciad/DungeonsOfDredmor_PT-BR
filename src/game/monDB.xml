@@ -1175,7 +1175,7 @@
 		<damage crushing="6" hyperborean="6"/>
 		<onhit spell="Small Snowstorm" onechancein="4"/>
 
-		<info latin="(anthro stonus)" text="A thin sheen of ice covers this golem."/>
+		<info latin="(anthro stonus)" text="Uma fina camada de gelo cobre este golem."/>
 
 		<ai aggressiveness="3" span="16"/>
 		<sight cone="90" modifier="1.1" />
@@ -1188,7 +1188,7 @@
 			<damage crushing="6" conflagratory="8" hyperborean="0"/>
 			<palette tint="160"/>
 			<onhit spell="Flamefield 1" onechancein="4"/>
-			<info latin="(anthro stonus)" text="A sheath of flame wreathes this golem."/>
+			<info latin="(anthro stonus)" text="Uma camada de chamas envolve este golem."/>
 		</monster>
 
 		<monster name="Unhealthful Golem" level="5">
@@ -1199,7 +1199,7 @@
 			<damage crushing="4" toxic="4" hyperborean="0"/>
 			<palette tint="-120"/>
 			<onhit spell="Weak Poison Cloud" onechancein="4"/>
-			<info latin="(anthro stonus)" text="This golem is formed from highly unpleasant poisons."/>
+			<info latin="(anthro stonus)" text="Este golem é formado por venenos extremamente desagradáveis."/>
 		</monster>
 
 		<monster name="Magic Golem" level="4">
@@ -1211,7 +1211,7 @@
 			<palette tint="75"/>
 			<onhit spell="Aethereal Missile" onechancein="4"/>
 			<onhit spell="Corrupt Equipment" onechancein="5"/>
-			<info latin="(anthro stonus)" text="This golem is made of impure magicks. Be wary, for its touch may harm magical items."/>
+			<info latin="(anthro stonus)" text="Este golem é feito de magias impuras. Tenha cuidado, pois seu toque pode prejudicar itens mágicos."/>
 		</monster>
 
 		<monster name="Steam Golem" level="3">
@@ -1222,7 +1222,7 @@
 			<damage crushing="1" asphyxiative="1" conflagratory="1" blasting="1" hyperborean="0"/>
 			<palette tint="-30"/>
 			<onhit spell="Steam Burst" onechancein="4"/>
-			<info latin="(anthro stonus)" text="This golem is most often found lurking around saunas and is a traditional enemy of the Finns. It is well known for operating on a timescale beyond the ken of mundane beings such as yourself."/>
+			<info latin="(anthro stonus)" text="Este golem é mais frequentemente encontrado rondando saunas e é um inimigo tradicional dos finlandeses. É bem conhecido por operar em uma escala de tempo além da compreensão de seres mundanos como você."/>
 		</monster>
 
 		<monster name="Gold Golem" level="7">
@@ -1233,7 +1233,7 @@
 			<damage crushing="8" hyperborean="0"/>
 			<palette tint="-180"/>
 			<onhit spell="Midas" onechancein="4"/>
-			<info latin="(anthro stonus)" text="This golem is fabulously blinged out."/>
+			<info latin="(anthro stonus)" text="Este golem é fabuloso e exageradamente adornado."/>
 		</monster>
 	</monster>
 
@@ -1263,7 +1263,7 @@
 			  spell="small_spell"/>
 
 		<onhit spell="Shroud of Darkness" onechancein="3"/>
-		<info latin="(tentaclus frostbiteus)" text="The constant lack of feeling in its tentacles has made this Squiddy ill-tempered. Beware its blinding ink attacks!"/>
+		<info latin="(tentaclus frostbiteus)" text="A constante falta de sensibilidade em seus tentáculos deixou este Squiddy de mau humor. Cuidado com seus ataques de tinta cegante!"/>
 
 		<stats numRog="14" xpValue="80" />
 		<secondarybuff id="10" amount="4"/>
@@ -1292,7 +1292,7 @@
 
 		<dieSprite name="sprites/monster/fatty/fatty_die_r.spr"/>
 
-		<info latin="(footus eyeballus)" text="Nobody's entirely sure how this demon&#xa;manages to kill adventurers. But it does."/>
+		<info latin="(footus eyeballus)" text="Ninguém tem certeza de como esse demônio consegue matar aventureiros. Mas ele consegue."/>
 
 		<ai span="4" aggressiveness="6" />
 		<sight cone="90" modifier="1.1" />
@@ -1338,7 +1338,7 @@
 			   die="small_die"
 			   spell="small_spell"/>
 
-		<info latin="(mustas mustas)" text="The Grandpa Mustache: a pinnacle of wisdom and experience in the Mustache Community."/>
+		<info latin="(mustas mustas)" text="O Vovô Bigode: um ápice de sabedoria e experiência na Comunidade do Bigode."/>
 		<secondarybuff id="10" amount="2"/>
 		<!-- armour -->
 		<secondarybuff id="8" amount="5"/>
@@ -1357,7 +1357,7 @@
 			<secondarybuff id="6" amount="20"/>
 			<!-- dodge -->
 			<damage crushing="1" asphyxiative="2" />
-			<info latin="(mustas mustas)" text="These strange, brick-shaped creatures have a&#xa;Mysterious Growing Moustache Attack."/>
+			<info latin="(mustas mustas)" text="Essas estranhas criaturas em formato de tijolo têm o Ataque Misterioso do Bigode Crescente."/>
 		</monster>
 
 		<monster name="Mustache League Champion" level="11" tiny="1" >
@@ -1369,7 +1369,7 @@
 			<secondarybuff id="6" amount="35"/>
 			<!-- dodge -->
 			<damage crushing="5" asphyxiative="6" />
-			<info latin="" text="This hardened veteran of the Mustache Fighting League has been training its entire life to face you in melee."/>
+			<info latin="" text="Este veterano endurecido da Liga de Luta de Bigodes treinou sua vida inteira para enfrentá-lo em combate corpo a corpo."/>
 		</monster>
 
 		<monster name="Animate Mustache" displayName="Mustache Golem" special="1">
@@ -1382,7 +1382,7 @@
 			<!-- armour -->
 			<secondarybuff id="0" amount="10"/>
 			<!-- hitpoints -->
-			<info latin="(mustas mustas)" text="It's an animated mustache which will serve you until death."/>
+			<info latin="(mustas mustas)" text="É um bigode vivo que irá servi-lo até a morte."/>
 		</monster>
 	</monster>
 
@@ -1428,7 +1428,7 @@
 		<ai aggressiveness="3" span="10" spellPercentage="10" />
 		<sight cone="270" modifier="1.1" />
 
-		<info latin="(draconis ignitis)" text="A fire-breathing dragon."/>
+		<info latin="(draconis ignitis)" text="Um dragão que solta fogo."/>
 		<spell name="Firebolt"/>
 
 		<monster name="Ice Wyrm" level="6" terrain="2">
@@ -1441,7 +1441,7 @@
 			<damage blasting="1" hyperborean="5" conflagratory="0"/>
 			<palette tint="-150"/>
 			<onhit spell="Small Snowstorm" onechancein="5"/>
-			<info latin="(draconis frozi)" text="A snow-breathing dragonling."/>
+			<info latin="(draconis frozi)" text="Um dragãozinho que solta gelo."/>
 		</monster>
 
 		<monster name="Magic Dragon" level="6" terrain="2">
@@ -1454,7 +1454,7 @@
 			<damage blasting="1" transmutative="3" conflagratory="0"/>
 			<onhit spell="Corrupt Equipment" onechancein="5"/>
 			<palette tint="-100"/>
-			<info latin="(draconis thaumis)" text="A magic-breathing dragonling. Beware, for its magic breath can corrupt magical items."/>
+			<info latin="(draconis thaumis)" text="Um dragãozinho que solta magia. Cuidado, pois seu hálito mágico pode corromper itens mágicos."/>
 			<ai aggressiveness="3" span="6" spellPercentage="15"/>
 			<spell name="Aethereal Missile"/>
 			<!--	<spell name="Solar Inscription"/>
@@ -1473,7 +1473,7 @@
 			<resistances conflagratory="12" hyperborean="-3"/>
 			<damage blasting="1" conflagratory="3"/>
 			<onhit spell="Pyrokinesis" onechancein="3"/>
-			<info latin="(draconis cooperatus)" text="This fire-breathing drake is sooo cute."/>
+			<info latin="(draconis cooperatus)" text="Este dragãozinho que solta fogo é tããããão fofo!"/>
 		</monster>
 	</monster>
 
@@ -1512,7 +1512,7 @@
 		<ai aggressiveness="5" span="16"/>
 		<sight cone="90" modifier="1.35" />
 
-		<info latin="(daemonus burgundus)" text="It's a big, red, demon. It likes lifting weights.&#xa;Like adventurers."/>
+		<info latin="(daemonus burgundus)" text="É um grande demônio vermelho. Ele gosta de levantar pesos, como os aventureiros!"/>
 
 		<monster name="Snow Baal" level="6">
 			<palette tint="-145"/>
@@ -1523,11 +1523,11 @@
 			<!-- armour -->
 			<secondarybuff id="7" amount="8"/>
 			<!-- block -->
-			<info latin="(daemonus burgundus)" text="It's a big, blue, demon. It likes lifting weights.&#xa;Like adventurers."/>
+			<info latin="(daemonus burgundus)" text="É um grande demônio azul. Ele gosta de levantar pesos, como os aventureiros!"/>
 		</monster>
 
 		<monster name="Dread Collector" displayName="Dread Collector" level="20" special="1">
-			<info latin="(daemonus collectus)" text="It's a Dread Collector. It likes pulverizing things, and it hates Criminal Scum like you."/>
+			<info latin="(daemonus collectus)" text="É um Coletor do Medo! Ele gosta de pulverizar coisas e odeia a escória criminosa - como você."/>
 			<ai aggressiveness="10" span="26" spellPercentage="5"/>
 			<sight cone="270" modifier="1.75" />
 			<resistances toxic="2" asphyxiative="2"/>
@@ -1573,7 +1573,7 @@
 		<!-- dodge -->
 		<damage crushing="2" aethereal="5"/>
 
-		<info latin="(luckof irishus)" text="These little green men wander around the Dungeons of Dredmor looking for pots of gold, bottles of Guinness, and heroes to rob."/>
+		<info latin="(luckof irishus)" text="Esses homenzinhos verdes vagam pelos Masmorras de Dredmor em busca de potes de ouro, garrafas de Guinness e heróis para roubar."/>
 
 		<!-- Make a "Far darrig" version that wears a red coat. -->
 		<monster name="Far Darrig" displayName="Far Darrig" level="9" >
@@ -1584,7 +1584,7 @@
 			<!-- dodge -->
 			<damage crushing="6" aethereal="6"/>
 			<ai aggressiveness="5" span="4" invisible="1" stealpercentage="50"/>
-			<info latin="(luckof irishus)" text="These little invisible men wander around the Dungeons of Dredmor looking for pots of gold, bottles of Guinness, and heroes to rob."/>
+			<info latin="(luckof irishus)" text="Esses homenzinhos invisíveis vagam pelos Masmorras de Dredmor em busca de potes de ouro, garrafas de Guinness e heróis para roubar."/>
 		</monster>
 	</monster>
 
@@ -1612,7 +1612,7 @@
 		<ai aggressiveness="3" span="50"/>
 		<sight cone="90" modifier="0.85" />
 
-		<info latin="(roboticus primus)" text="As robots go, this one is a basic model. It has shiny blades, though."/>
+		<info latin="(roboticus primus)" text="Em comparação com os outros robôs, este é um modelo básico. No entanto, possui lâminas brilhantes."/>
 		<sfx attack="robot_attack"
 			  hit="robot_damage"
 			  die="robot_die"
@@ -1633,7 +1633,7 @@
 			<!-- block -->
 			<resistances toxic="10" putrefying="10" asphyxiative="10" piercing="10" voltaic="-3"/>
 			<damage slashing="1" piercing="3" voltaic="3"/>
-			<info latin="(roboticus vulgaris)" text="This shows the tangible threat of the Unfriendly AI problem."/>
+			<info latin="(roboticus vulgaris)" text="Isso mostra a ameaça tangível do problema da IA Hostil."/>
 		</monster>
 
 		<monster name="Mortal Machine" displayName="The Robo That Loves" level="9" special="1">
@@ -1645,7 +1645,7 @@
 			<!-- block -->
 			<resistances toxic="10" putrefying="10" asphyxiative="10" piercing="10" voltaic="-3"/>
 			<damage slashing="8" piercing="5" voltaic="5"/>
-			<info latin="(roboticus mortalitus)" text="This robot has some kind of malevolent inner life."/>
+			<info latin="(roboticus mortalitus)" text="Este robô possui algum tipo de vida interna malévola."/>
 		</monster>
 
 		<monster name="Flint Ultrasparc" level="13" splat="ichor" taxa="Construct" terrain="0" maxSpawns="1" horde="0" named="1">
@@ -1659,7 +1659,7 @@
 			<resistances toxic="20" putrefying="15" asphyxiative="20" piercing="10" voltaic="-1"/>
 			<secondaryBuff id="0" amount="100" />
 			<!-- hp -->
-			<info latin="(Robo Commie)" text="The ultimate communist machine, Flint Ultrasparc only turns right by performing an inversion function on its Turn Left sequence."/>
+			<info latin="(Robo Commie)" text="A máquina comunista definitiva, o Flint Ultrasparc só vira à direita realizando uma função de inversão em sua sequência de Virar à Esquerda."/>
 		</monster>
 	</monster>
 
@@ -1719,7 +1719,7 @@
 		<spell name="Gargoyle Acid Bolt"/>
 		<spell name="Monster Blink"/>
 
-		<info latin="(real name unknown)" text="A terrifying sorcerer, who sought to defy death by means of his powerful magic. Now, trapped in the Dungeon, he seeks to turn the world to dust. Evil dust."/>
+		<info latin="(real name unknown)" text="Um aterrorizante sorcerer que buscou desafiar a morte por meio de sua poderosa magia. Agora, preso no Calabouço, ele busca transformar o mundo em pó. Pó maligno."/>
 
 		<monster name="Tougher Lord Dredmor" displayName="Lord Dredmor" level="15" branch="-1" special="1" taxa="Undead">
 			<ai spellPercentage="80" aggressiveness="40" span="50" cancharm="0" canparalyze="0"/>
@@ -1757,8 +1757,6 @@
 		</monster>
 	</monster>
 
-	<!-- Brax -->
-
 	<monster name="Brax" level="12" branch="-1" special="1" splat="ichor" taxa="Demon">
 		<idleSprite left="sprites/monster/brax/brax_run_l.spr"
         right="sprites/monster/brax/brax_run_r.spr"
@@ -1778,7 +1776,7 @@
 		<ai span="10" aggressiveness="20" cancharm="0" />
 		<sight cone="270" modifier="2.2" />
 
-		<info latin="(sellus usedvolvos)" text="A villainous Salesdemon with a terrible checkered suit. He will&#xa;sell you the equipment that you need for&#xa;your quest, but he does not take to shoplifters."/>
+		<info latin="(sellus usedvolvos)" text="Um vilanesco Salesdemon com um terrível terno xadrez. Ele venderá os equipamentos que você precisa para sua missão, mas não tolera ladrões."/>
 
 		<sfx attack="large_attack"
 			   hit="large_damage"
@@ -1789,6 +1787,5 @@
 		<secondarybuff id="7" amount="10"/>
 		<!-- block -->
 		<damage crushing="10"/>
-
 	</monster>
 </monDB>
