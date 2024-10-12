@@ -406,7 +406,7 @@
 		<resistances crushing="1" transmutative="3" />
 		<spell name="Aethereal Missile"/>
 		<!-- <spell name="Froda's Jump Discontinuity" /> -->
-		<info latin="(calamaris generis)" text="Spell-casting cephalopods with a&#xa;taste for human brains. Make&#xa;calamari out of them."/>
+		<info latin="(calamaris generis)" text="Cefalópodes lançadores de feitiços com gosto por cérebros humanos. Faça um calamari com eles."/>
 
 		<monster name="Molluscus" level="4" maxSpawns="1" horde="0" named="1">
 			<stats numFig="4" numWiz="9" xpValue="60"/>
@@ -427,8 +427,7 @@
 			<spell name="Firebolt"/>
 			<spell name="Beklam's Diminuating Calculus"/>
 			<!-- <spell name="Froda's Jump Discontinuity" /> -->
-			<info latin="(calamaris generis)" text="A wizard who sought too greedily for magical power. Transformed into a cephalopod, he vainly seeks a cure for his curse."/>
-
+			<info latin="(calamaris generis)" text="Um mago que buscou poder mágico com demasiada ganância. Transformado em um cefalópode, ele busca em vão uma cura para sua maldição."/>
 		</monster>
 	</monster>
 
