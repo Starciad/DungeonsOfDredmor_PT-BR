@@ -1,29 +1,24 @@
 <!-- 
-
-Orion Monster DB
-
-Do not edit unless you wish for spoilers!
-
+	Orion Monster DB
+	Do not edit unless you wish for spoilers!
 -->
 
 <!-- NOTE ON BRANCHES
+	Branches... are now dead. We just start at level 0 and we go down to level 20. Bring on the gurneys.
 
-Branches... are now dead. We just start at level 0 and we go down to level 20. Bring on the gurneys.
+	NEW BRANCH CODE:
 
-NEW BRANCH CODE:
-
-0,1,2 Dungeon
-1 3,4 Mines
-2 5,6,7 Crypts
-3 8,9 Wood
-4 10,11 Frozen
-5 12,13,14 Lava Pits
-6 15,16 Marble Baths
-7 17,18,19 Pandemonium
-EVIL BOSS FIGHT!
-
+	0,1,2 Dungeon
+	1 3,4 Mines
+	2 5,6,7 Crypts
+	3 8,9 Wood
+	4 10,11 Frozen
+	5 12,13,14 Lava Pits
+	6 15,16 Marble Baths
+	7 17,18,19 Pandemonium
+	
+	EVIL BOSS FIGHT!
 -->
-
 
 <!-- MONSTER LIST:
   
@@ -33,8 +28,6 @@ EVIL BOSS FIGHT!
   0 Dungeon:
       Blobby
 	  Diggle
-	  
-	  
       Octo
     
   1 Crypts
@@ -74,14 +67,11 @@ EVIL BOSS FIGHT!
   9 Pandemonium
       Luck
       Robo
-    
-
- 
 -->
+
 <!-- LUCKY MONSTERS -->
 
 <monDB>
-
 	<!-- BLOBBY MONSTERS -->
 
 	<monster name="Blobby" level="0" tiny="1" splat="goo" taxa="Other">
@@ -114,7 +104,7 @@ EVIL BOSS FIGHT!
 		<!-- dodge -->
 		<resistances acidic="3" piercing="2" />
 
-		<info latin="(Gloppus Gloppus Generis)" text="É uma gota de gosma animada,&#xa;possivelmente da axila de um aventureiro."/>
+		<info latin="(Gloppus Gloppus Generis)" text="É uma gota de gosma viva,&#xa;possivelmente da axila de um aventureiro."/>
 
 		<monster name="Electroblobby" level="1">
 			<palette tint="-50"/>
@@ -123,7 +113,7 @@ EVIL BOSS FIGHT!
 			<damage crushing="1" voltaic="2" acidic="0"/>
 			<secondarybuff id="4" amount="-5"/>
 			<!-- crit -->
-			<info latin="(Gloppus Gloppus Electrolysissus)" text="Se você pensou que isso era apenas uma gota comum de uma gosma... sinto informar-lhe que você levará um choque."/>
+			<info latin="(Gloppus Gloppus Electrolysissus)" text="Se você pensou que isso era apenas uma gosma comum... sinto informar-lhe, mas você levará um choque."/>
 			<spell name="Weak Electrobolt"/>
 			<ai aggressiveness="3" span="4" spellPercentage="5"/>
 		</monster>
@@ -146,7 +136,7 @@ EVIL BOSS FIGHT!
 			<resistances toxic="4" piercing="2" />
 			<stats numFig="2" numRog="1" xpValue="10"/>
 			<damage crushing="1" toxic="3" acidic="0"/>
-			<info latin="(Gloppus Gloppus Toxicausticus)" text="É uma gota daquela gosma animada um pouquinho revoltada."/>
+			<info latin="(Gloppus Gloppus Toxicausticus)" text="É uma gosma viva um pouquinho revoltada."/>
 			<onhit spell="Small Weak Poison Cloud" onechancein="5" />
 		</monster>
 
@@ -157,9 +147,10 @@ EVIL BOSS FIGHT!
 			<damage crushing="2"/>
 			<secondarybuff id="10" amount="2"/>
 			<!-- armour -->
-			<info latin="(Gloppus Gloppus Sanguinous)" text="Essa gota de gosma animada é bem dura, do tipo que se coleta dos canos de esgoto dos chuveiros das academias."/>
+			<info latin="(Gloppus Gloppus Sanguinous)" text="Essa gota de gosma viva é bem dura, do tipo que é coletada dos canos de esgoto dos chuveiros das academias."/>
+			
 			<!-- <spell name="Meatshield"/>
-   <ai aggressiveness="3" span="4" spellPercentage="4"/> -->
+   			<ai aggressiveness="3" span="4" spellPercentage="4"/> -->
 		</monster>
 
 		<monster name="Thermoblobby" level="3">
@@ -168,7 +159,7 @@ EVIL BOSS FIGHT!
 			<resistances conflagratory="4" piercing="2" hyperborean="-2"/>
 			<stats numFig="3" numRog="3" xpValue="26"/>
 			<damage crushing="2" conflagratory="4" acidic="0"/>
-			<info latin="(Gloppus Gloppus Conflagrattus)" text="É uma gota de gosma animada MUITO quente!"/>
+			<info latin="(Gloppus Gloppus Conflagrattus)" text="É uma gosma viva MUUUIIITO quente!"/>
 			<spell name="Weak Firebolt"/>
 			<ai aggressiveness="3" span="4" spellPercentage="5"/>
 		</monster>
@@ -179,7 +170,7 @@ EVIL BOSS FIGHT!
 			<damage crushing="10" putrefying="10"/>
 			<resistances piercing="2" />
 			<onhit spell="Corrupt Equipment" onechancein="3"/>
-			<info latin="(Gloppus Gloppus Corruptus)" text="A morte e desespero personificados na forma de gosma, claro. Ele tem um efeito corruptor que é aplicado em qualquer equipamento que for tocada por ele."/>
+			<info latin="(Gloppus Gloppus Corruptus)" text="A morte e o desespero personificados na forma de uma gosma. Um efeito corruptor é aplicado em qualquer equipamento que encostar nela."/>
 		</monster>
 
 		<!-- Add lots of silly oil-based powers. also getting-set-on-fire-based powers -->
@@ -187,7 +178,7 @@ EVIL BOSS FIGHT!
 			<palette tint="165"/>
 			<stats numFig="4" numRog="2" xpValue="30"/>
 			<damage crushing="2" toxic="2"/>
-			<info latin="(Gloppus Gloppus Petroleus)" text="É uma gota oleosa de uma gosma animada."/>
+			<info latin="(Gloppus Gloppus Petroleus)" text="É uma gosma viva um pouco oleosa."/>
 		</monster>
 
 		<!-- Give it special bloob-based powers. -->
@@ -198,7 +189,7 @@ EVIL BOSS FIGHT!
 			<stats numFig="7" numRog="4" xpValue="25"/>
 			<secondarybuff id="10" amount="3"/>
 			<!-- armour -->
-			<info latin="(Gloppus Gloppus Sanguinous)" text="É uma gota bem dura de uma gosma... daquele tipo que se acumula nos canos de esgoto dos chuveiros das academias."/>
+			<info latin="(Gloppus Gloppus Sanguinous)" text="É uma gosma bem dura... daquele tipo que se acumula nos canos de esgoto dos chuveiros das academias."/>
 		</monster>
 
 		<!-- Give it special bloob-based powers. -->
@@ -211,7 +202,6 @@ EVIL BOSS FIGHT!
 			<!-- armour -->
 			<info latin="(fungus ichoolungus)" text="Olha só, é o sua própria gosma! Às vezes, ela deixa cair nuvens de esporos tóxicos por aí."/>
 		</monster>
-
 	</monster>
 
 	<!-- DIGGLE MONSTERS-->
@@ -362,8 +352,6 @@ EVIL BOSS FIGHT!
 		</monster>
 
 		<!-- Vlad needs a diggleHell tag so that he doesn't inherit it and show up randomly in Diggle Hell. -->
-
-
 		<!-- ... so does Siegfried. -->
 
 		<monster name="Siegfried" level="0" horde="0" maxSpawns="1" diggleHell="0"  named="1">
@@ -381,10 +369,9 @@ EVIL BOSS FIGHT!
 			<sight cone="90" modifier="1.1" />
 
 		</monster>
+		
 		<!-- siegfried -->
-
 	</monster>
-	<!-- diggle -->
 
 	<!-- OCTO MONSTERS MONSTERS-->
 
@@ -443,7 +430,6 @@ EVIL BOSS FIGHT!
 			<info latin="(calamaris generis)" text="A wizard who sought too greedily for magical power. Transformed into a cephalopod, he vainly seeks a cure for his curse."/>
 
 		</monster>
-
 	</monster>
 
 	<!-- Zomby Monsters 5,6,8,9-->
@@ -481,7 +467,6 @@ EVIL BOSS FIGHT!
 
 		<ai aggressiveness="2" span="10"/>
 		<sight cone="360" modifier="0.66" />
-
 	</monster>
 
 	<!-- DETH MONSTERS level 6, 10-->
@@ -503,10 +488,11 @@ EVIL BOSS FIGHT!
 		<dieSprite name="sprites/monster/deth/deth_die_d.spr"/>
 
 		<castSpellSprite name="sprites/monster/deth/deth_spl_d.spr"/>
+		
 		<!--
-	<spell name="Darkened Vision"/>
-	<spell name="Mini Curse Missile"/>
-   -->
+			<spell name="Darkened Vision"/>
+			<spell name="Mini Curse Missile"/>
+   		-->
 
 		<sfx attack="undead_attack"
 			  hit="undead_damage"
@@ -544,7 +530,6 @@ EVIL BOSS FIGHT!
 			<spell name="Eye Laser Blast"/>
 			<palette name="sprites/monster/deth/red_deth.pal"/>
 		</monster>
-
 	</monster>
 
 	<!-- DJINN MONSTERS -->
@@ -690,9 +675,7 @@ EVIL BOSS FIGHT!
 			<ai aggressiveness="4" span="20" spellPercentage="5"/>
 			<onhit spell="Monster Blink" onechancein="1"/>
 		</monster>
-
 		<!-- Roy Batty? -->
-
 	</monster>
 
 	<!-- THRUSTY Monsters 2,14,16,19-->
@@ -745,9 +728,7 @@ EVIL BOSS FIGHT!
 			<palette tint="180"/>
 			<info text="The Creep-Creep wanders through the Dungeon, not taking a hint."/>
 			<onhit spell="Nightmare" onechancein="2"/>
-
 		</monster>
-
 	</monster>
 
 	<!-- PUMPKINN MONSTERS MONSTERS 7,16-->
@@ -815,15 +796,11 @@ EVIL BOSS FIGHT!
 			<resistances toxic="5" putrefying="10" asphyxiative="5" />
 			<info latin="(jacko lantus)" text="Something has gone terribly wrong deep inside this vegetative horror."/>
 		</monster>
-
-
-
 	</monster>
 
 	<!-- EELY MONSTERS 0,1,2,13,14-->
 
 	<monster name="Eely" level="3" splat="blood" terrain="1" taxa="Animal">
-
 		<idleSprite left="sprites/monster/eely/eely_run_l.spr"
 			  right="sprites/monster/eely/eely_run_r.spr"
 			  up="sprites/monster/eely/eely_run_u.spr"
@@ -871,7 +848,6 @@ EVIL BOSS FIGHT!
 			<spell name="Firebolt"/>
 			<spell name="Gog's Tactical Pyre"/>
 		</monster>
-
 	</monster>
 
 	<!-- Witch Doctor Monsters -->
@@ -959,7 +935,6 @@ EVIL BOSS FIGHT!
 			<palette tint="160"/>
 			<ai chicken="1" spellpercentage="25"/>
 		</monster>
-
 	</monster>
 
 	<!-- SWARMY MONSTERS -->
@@ -1010,7 +985,6 @@ EVIL BOSS FIGHT!
 			<resistances righteous="-3" conflagratory="2" />
 			<info latin="" text="A vaguely loyal demonic minion from the demonic bits of the Realm of Minions."/>
 		</monster>
-
 	</monster>
 
 	<!-- MUSHROOM MONSTERS -->
@@ -1081,10 +1055,8 @@ EVIL BOSS FIGHT!
 			<drop name="Mud Wen" percent="8" />
 			<drop name="The Prince" percent="8" />
 			<drop name="Lobstermane Fungus" percent="9" />
-
 		</monster>
 	</monster>
-
 
 	<!-- Carrott Monsters levels 1, 8, 13, 17 -->
 
@@ -1174,7 +1146,6 @@ EVIL BOSS FIGHT!
 			<spell name="Mini Curse Missile"/>
 			<ai aggressiveness="3" span="12" spellPercentage="5" />
 		</monster>
-
 	</monster>
 
 	<!-- GOLEM MONSTERS -->
@@ -1266,7 +1237,6 @@ EVIL BOSS FIGHT!
 			<onhit spell="Midas" onechancein="4"/>
 			<info latin="(anthro stonus)" text="This golem is fabulously blinged out."/>
 		</monster>
-
 	</monster>
 
 	<!-- SQUIDDY MONSTERS 10,11-->
@@ -1304,7 +1274,6 @@ EVIL BOSS FIGHT!
 
 		<ai aggressiveness="2" span="12"/>
 		<sight cone="90" modifier="1.1" />
-
 	</monster>
 
 	<!-- FOOTY MONSTERS -->
@@ -1344,7 +1313,6 @@ EVIL BOSS FIGHT!
 		<secondarybuff id="6" amount="-10"/>
 		<!-- dodge -->
 		<damage crushing="12"/>
-
 	</monster>
 
 	<!-- Mustache MONSTERS 3,4-->
@@ -1418,7 +1386,6 @@ EVIL BOSS FIGHT!
 			<!-- hitpoints -->
 			<info latin="(mustas mustas)" text="It's an animated mustache which will serve you until death."/>
 		</monster>
-
 	</monster>
 
 	<!-- FLAMER MONSTERS -->
@@ -1510,8 +1477,6 @@ EVIL BOSS FIGHT!
 			<onhit spell="Pyrokinesis" onechancein="3"/>
 			<info latin="(draconis cooperatus)" text="This fire-breathing drake is sooo cute."/>
 		</monster>
-
-
 	</monster>
 
 	<!-- BIG RED DEMON MONSTERS 11, 12 -->
@@ -1623,8 +1588,6 @@ EVIL BOSS FIGHT!
 			<ai aggressiveness="5" span="4" invisible="1" stealpercentage="50"/>
 			<info latin="(luckof irishus)" text="These little invisible men wander around the Dungeons of Dredmor looking for pots of gold, bottles of Guinness, and heroes to rob."/>
 		</monster>
-
-
 	</monster>
 
 	<!-- ROBOT MONSTERS -->
@@ -1650,7 +1613,6 @@ EVIL BOSS FIGHT!
 		<stats numFig="17" xpValue="150"/>
 		<ai aggressiveness="3" span="50"/>
 		<sight cone="90" modifier="0.85" />
-
 
 		<info latin="(roboticus primus)" text="As robots go, this one is a basic model. It has shiny blades, though."/>
 		<sfx attack="robot_attack"
@@ -1701,10 +1663,7 @@ EVIL BOSS FIGHT!
 			<!-- hp -->
 			<info latin="(Robo Commie)" text="The ultimate communist machine, Flint Ultrasparc only turns right by performing an inversion function on its Turn Left sequence."/>
 		</monster>
-
 	</monster>
-
-
 
 	<!-- SPECIAL MONSTERS -->
 
@@ -1800,6 +1759,7 @@ EVIL BOSS FIGHT!
 		</monster>
 	</monster>
 
+	<!-- Brax -->
 
 	<monster name="Brax" level="12" branch="-1" special="1" splat="ichor" taxa="Demon">
 		<idleSprite left="sprites/monster/brax/brax_run_l.spr"
@@ -1833,6 +1793,4 @@ EVIL BOSS FIGHT!
 		<damage crushing="10"/>
 
 	</monster>
-	<!-- Brax -->
-
 </monDB>
