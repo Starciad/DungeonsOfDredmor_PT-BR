@@ -462,7 +462,7 @@
 		<secondarybuff id="10" amount="1"/>
 		<!-- armour -->
 
-		<info latin="(corpus derilicti)" text="The remains of one of your predecessors, restored to life by the evil magic of Lord Dredmor and sent out to kill more adventurers."/>
+		<info latin="(corpus derilicti)" text="Os restos de um de seus predecessores, restaurados à vida pela magia maligna de Lorde Dredmor e enviados para matar mais aventureiros."/>
 
 		<ai aggressiveness="2" span="10"/>
 		<sight cone="360" modifier="0.66" />
@@ -501,7 +501,7 @@
 		<stats numRog="2" numWiz="6" xpValue="32"/>
 		<damage slashing="2" necromantic="2"/>
 		<resistances righteous="-3" toxic="10" piercing="3" asphyxiative="10" hyperborean="5"/>
-		<info latin="(reapus creepus)" text="A terrifying phantasmal reaper with a menacing scythe."/>
+		<info latin="(reapus creepus)" text="Um ceifador fantasmagórico aterrorizante com uma foice ameaçadora.  "/>
 
 		<ai aggressiveness="4" span="20" spellPercentage="0"/>
 		<sight cone="270" modifier="1.35" />
@@ -511,7 +511,7 @@
 			<stats numFig="9" numWiz="9" xpValue="90"/>
 			<damage slashing="5" necromantic="5"/>
 			<resistances righteous="-5" toxic="10" necromantic="20" piercing="8" asphyxiative="10" hyperborean="5"/>
-			<info latin="(reapus creepus)" text="A terrifying phantasmal reaper with a menacing scythe and a couple of missing umlauts."/>
+			<info latin="(reapus creepus)" text="Um ceifador fantasmagórico aterrorizante com uma foice ameaçadora e com alguns tremas faltando."/>
 			<ai aggressiveness="4" span="20" spellPercentage="15"/>
 			<spell name="Lingering Weakness Missile"/>
 			<spell name="Lingering Dullness Missile"/>
@@ -522,7 +522,7 @@
 			<stats numFig="11" numWiz="10" xpValue="110"/>
 			<damage slashing="8" necromantic="15"/>
 			<resistances righteous="-5" toxic="10" necromantic="20" piercing="8" asphyxiative="10" hyperborean="5"/>
-			<info latin="(reapus creepus)" text="All shall know the darkness of the tomb!"/>
+			<info latin="(reapus creepus)" text="Todos conhecerão as trevas da tumba!"/>
 			<ai aggressiveness="20" span="60" spellPercentage="25"/>
 			<spell name="Supreme Lingering Weakness Missile"/>
 			<spell name="Supreme Lingering Dullness Missile"/>
@@ -558,7 +558,7 @@
 		<!-- block -->
 		<resistances aethereal="2" />
 
-		<info latin="(genicus inabottleus)" text="The Djinns like to inhabit small, attractive glass vessels, like gin bottles, because they think it's slimming."/>
+		<info latin="(genicus inabottleus)" text="Os Djinns gostam de habitar pequenos e atraentes recipientes de vidro, como garrafas de gim, porque acham que isso os deixa mais esbeltos."/>
 
 		<sfx attack="humanoid_attack"
 			  hit="humanoid_hit"
@@ -579,7 +579,7 @@
 			<!-- armour -->
 			<secondarybuff id="0" amount="5"/>
 			<!-- hp -->
-			<info text="The Djinn Fizz likes to blow things up. It's not a complicated thinker."/>
+			<info text="O Djinn Fizz gosta de explodir coisas. Não é um pensador muito complexo."/>
 
 			<ai aggressiveness="7" span="24" spellPercentage="32"/>
 			<spell name="Monstrous Nerve Staple"/>
@@ -613,9 +613,8 @@
 		<secondarybuff id="7" amount="4"/>
 		<!-- block -->
 
-		<info latin="(genicus inabottleus)" text="The Djinn likes to inhabit small, attractive glass vessels, like gin bottles, because they think it's slimming."/>
+		<info latin="(genicus inabottleus)" text="Os Djinns gostam de habitar pequenos e atraentes recipientes de vidro, como garrafas de gim, porque acham que isso os deixa mais esbeltos."/>
 		<sfx attack="humanoid_attack" hit="humanoid_hit" die="humanoid_die" spell="humanoid_spell"/>
-
 	</monster>
 	<!-- fixme: there should only be one spell djinn now, but this needs to be rebalanced.-->
 
@@ -651,7 +650,7 @@
 		<!-- dodge -->
 		<secondarybuff id="0" amount="-4"/>
 		<!-- life -->
-		<info latin="(flittus flappus)" text="It's a bat! It flaps! It has teeth."/>
+		<info latin="(flittus flappus)" text="É um morcego! Ele bate as asas! Ele tem dentes."/>
 		<damage slashing="1" piercing="3"/>
 		<resistances crushing="-1" slashing="-1" blasting="-1" />
 
@@ -659,7 +658,7 @@
 			<stats numRog="3" xpValue="7"/>
 			<palette tint="90"/>
 			<damage slashing="2" piercing="1"/>
-			<info latin="(flittus flappus)" text="It's a bat! It flaps! It has teeth."/>
+			<info latin="(flittus flappus)" text="É um morcego! Ele bate as asas! Ele tem dentes."/>
 			<resistances crushing="-1" slashing="-1" blasting="-1" />
 		</monster>
 
@@ -669,7 +668,7 @@
 			<damage slashing="2" piercing="2"/>
 			<secondarybuff id="6" amount="25"/>
 			<!-- dodge -->
-			<info latin="(flittus flappus)" text="It's a bat! It flaps! It has teeth. This one randomly teleports when the mood takes it."/>
+			<info latin="(flittus flappus)" text="É um morcego! Ele bate as asas! Ele tem dentes. Este aqui se teleporta aleatoriamente quando está de bom humor."/>
 			<spell name="Monster Blink"/>
 			<ai aggressiveness="4" span="20" spellPercentage="5"/>
 			<onhit spell="Monster Blink" onechancein="1"/>
@@ -711,7 +710,7 @@
 		<!-- block -->
 		<damage crushing="4"/>
 
-		<info latin="(thrustus humpus)" text="These are Thrusties. They love to thrust; in thrust they trust, and thrust they must."/>
+		<info latin="(thrustus humpus)" text="Esses são os Thrusties. Eles adoram empurrar; eles confiam no empurrão e empurrar é o que eles devem fazer.  "/>
 
 		<monster name="Creep-Creep" level="12">
 			<ai aggressiveness="10" span="20"/>
@@ -725,7 +724,7 @@
 			<damage crushing="4" existential="10"/>
 			<resistances existential="10" voltaic="10"/>
 			<palette tint="180"/>
-			<info text="The Creep-Creep wanders through the Dungeon, not taking a hint."/>
+			<info text="O Creep-Creep vagueia pelas masmorras, sem perceber que ninguém o quer por perto."/>
 			<onhit spell="Nightmare" onechancein="2"/>
 		</monster>
 	</monster>
@@ -765,7 +764,7 @@
 			   die="humanoid_die"
 			   spell="humanoid_spell"/>
 
-		<info latin="(jacko lantus)" text="A misanthropic jack-o-lantern&#xa;on a scarecrow's body."/>
+		<info latin="(jacko lantus)" text="Uma abóbora-lanterna misantrópica no corpo de um espantalho."/>
 
 		<monster name="The Great Pumpkinn" level="3" named="1" horde="0" maxSpawns="1" >
 			<ai aggressiveness="4" span="20" invisible="1" chicken="1" spellPercentage="15"/>
@@ -778,7 +777,7 @@
 			<spell name="Poison Cloud 1"/>
 			<spell name="Corpse Reviver"/>
 			<resistances toxic="5" asphyxiative="5" existential="-10" />
-			<info latin="(jacko lantus)" text="Do not question its existence! All shall tremble and fall!"/>
+			<info latin="(jacko lantus)" text="Não questione sua existência! Todos irão tremer e cair!  "/>
 		</monster>
 
 		<!-- TODO: add level 13 version -->
@@ -793,7 +792,7 @@
 			<spell name="Poison Cloud 1"/>
 			<spell name="Strong Brimstone Cloud" />
 			<resistances toxic="5" putrefying="10" asphyxiative="5" />
-			<info latin="(jacko lantus)" text="Something has gone terribly wrong deep inside this vegetative horror."/>
+			<info latin="(jacko lantus)" text="Algo deu terrivelmente errado no interior deste horror vegetal."/>
 		</monster>
 	</monster>
 
@@ -821,7 +820,7 @@
 			   die="large_die"
 			   spell="large_cast"/>
 
-		<info latin="(anguilla anguillia)" text="A vicious, man-eating creature from the deep. How it wound up in the Dungeon is anyone's guess."/>
+		<info latin="(anguilla anguillia)" text="Uma criatura voraz e devoradora de homens vinda das profundezas. Como ela foi parar na masmorra, é um mistério para todos."/>
 		<stats numFig="5" numWiz="5" xpValue="40"/>
 		<ai spellPercentage="7" />
 		<sight cone="270" modifier="1.1" />
@@ -875,7 +874,7 @@
 			   die="humanoid_die"
 			   spell="humanoid_spell" />
 
-		<info latin="(voodus voodus)" text="A mysterious tribal shaman in a giant wooden mask. Beware of his terrifying curses!"/>
+		<info latin="(voodus voodus)" text="Um misterioso xamã tribal com uma enorme máscara de madeira. Cuidado com suas terríveis maldições!"/>
 		<spell name="Corpse Reviver"/>
 		<spell name="Shroud of Darkness"/>
 
@@ -889,7 +888,7 @@
 		<sight cone="90" modifier="2.00" />
 
 		<monster name="Monstrous Mask" level="6">
-			<info latin="(hoodus voodus)" text="A dark enchanter who hides behind an enormous wooden mask. Beware of his dire magic!"/>
+			<info latin="(hoodus voodus)" text="Um encantador sombrio que se esconde atrás de uma enorme máscara de madeira. Cuidado com sua magia terrível!"/>
 			<stats numWiz="14" numRog="5" xpValue="120"/>
 			<secondarybuff id="7" amount="6"/>
 			<!-- block -->
@@ -905,7 +904,7 @@
 		</monster>
 
 		<monster name="The Masked Marvel" level="11" named="1" horde="0" maxSpawns="1">
-			<info latin="(hoodus voodus)" text="Who is this mysterious stranger behind the mask - and why is he such a nuisance?"/>
+			<info latin="(hoodus voodus)" text="Quem é esse estranho misterioso por trás da máscara - e por que ele é tão irritante?"/>
 			<stats numWiz="20" numRog="5" xpValue="200"/>
 			<secondarybuff id="7" amount="10"/>
 			<!-- block -->
@@ -921,7 +920,7 @@
 		</monster>
 
 		<monster name="Voodoo Joe" level="14" named="1" horde="0" maxSpawns="1">
-			<info latin="(hoodus voodus)" text="He does that Voodoo that you do so well."/>
+			<info latin="(hoodus voodus)" text="Ele faz aquele Voodoo que você faz tão bem."/>
 			<stats numWiz="30" numRog="5" xpValue="200"/>
 			<secondarybuff id="7" amount="12"/>
 			<!-- block -->
@@ -963,7 +962,7 @@
 		<ai aggressiveness="4" span="10" />
 		<sight cone="90" modifier="1.1" />
 
-		<info latin="(swarmus zergrus)" text="As the name implies, they travel in swarms. Brutal, adventurer-destroying swarms."/>
+		<info latin="(swarmus zergrus)" text="Como o nome implica, eles viajam em enxames. Enxames brutais que destroem aventureiros."/>
 		<sfx attack="small_attack"
 			  hit="small_hit"
 			  die="small_die"
@@ -982,7 +981,7 @@
 			<secondarybuff id="8" amount="10"/>
 			<!-- counter -->
 			<resistances righteous="-3" conflagratory="2" />
-			<info latin="" text="A vaguely loyal demonic minion from the demonic bits of the Realm of Minions."/>
+			<info latin="" text="Um minion demoníaco vagamente leal das partes demoníacas do Reino dos Minions."/>
 		</monster>
 	</monster>
 
@@ -1019,7 +1018,7 @@
 		<damage slashing="4" toxic="8"/>
 		<resistances piercing="3" />
 
-		<info latin="(fungus amungus)" text="What happens when good spores go bad."/>
+		<info latin="(fungus amungus)" text="O que acontece quando esporos bons se tornam ruins?"/>
 
 		<monster name="Summon Mushroom-beast" displayName="Summoned Mushroom Beast" special="1">
 			<onhit spell="Mini Toxic Spore Cloud" onechancein="4"/>
@@ -1028,7 +1027,7 @@
 			<stats numFig="4" numRog="4" numWiz="4" xpValue="0" />
 			<secondarybuff id="10" amount="3"/>
 			<!-- armour -->
-			<info latin="(fungus ichoolungus)" text="Your very own Mushroom Beast. Sometimes drops clouds of toxic spores."/>
+			<info latin="(fungus ichoolungus)" text="Sua própria Besta Cogumelo. Às vezes solta nuvens de esporos tóxicos."/>
 		</monster>
 
 		<monster name="Toady" level="1" tiny="1" maxSpawns="1" horde="0" named="1">
@@ -1040,7 +1039,7 @@
 			<!-- armour -->
 			<damage slashing="1" toxic="2"/>
 			<resistances piercing="2" />
-			<info latin="(fungus amungus)" text="I'm sorry, but your love interest is in another dungeon."/>
+			<info latin="(fungus amungus)" text="Desculpe, mas seu interesse amoroso está em outra masmorra."/>
 
 			<drop name="Night Cap" percent="8" />
 			<drop name="Plumber's Agaric" percent="8" />
@@ -1081,7 +1080,7 @@
 				die="vegetable_die"
 				spell="vegetable_spell"/>
 
-		<info latin="(carrota cannibalis)" text="A man-eating carrot. Not to be confused with a man eating carrot. Zomg! The tables have turned!"/>
+		<info latin="(carrota cannibalis)" text="Uma cenoura carnívora. Não confunda com uma cenoura comendo gente. Zomg! As mesas se viraram!"/>
 
 		<stats numFig="12" xpValue="68"/>
 		<secondarybuff id="7" amount="10"/>
@@ -1104,7 +1103,7 @@
 			<secondarybuff id="10" amount="1"/>
 			<!-- armour -->
 			<resistances piercing="3" />
-			<info latin="(carrota cannibalis)" text="A man-eating carrot. Not to be confused with a man eating carrot. This one is young and crisp."/>
+			<info latin="(carrota cannibalis)" text="Uma cenoura carnívora. Não confunda com uma cenoura comendo gente. Esta é jovem e crocante."/>
 		</monster>
 
 		<monster name="Cold Carrot" level="6">
@@ -1116,7 +1115,7 @@
 			<!-- block -->
 			<secondarybuff id="10" amount="3"/>
 			<!-- armour -->
-			<info latin="(carrota cannibalis)" text="A man-eating carrot. Not to be confused with a man eating carrot. This one looks rather cold."/>
+			<info latin="(carrota cannibalis)" text="Uma cenoura carnívora. Não confunda com uma cenoura comendo gente. Esta parece estar bastante fria."/>
 		</monster>
 
 		<monster name="Magma Carrot" level="8">
@@ -1128,7 +1127,7 @@
 			<!-- block -->
 			<secondarybuff id="10" amount="3"/>
 			<!-- armour -->
-			<info latin="(carrota cannibalis)" text="A man-eating carrot. Not to be confused with a man eating carrot. This one looks over-hot."/>
+			<info latin="(carrota cannibalis)" text="Uma cenoura carnívora. Não confunda com uma cenoura comendo gente. Esta parece estar muito quente."/>
 			<onhit spell="Flamefield 1" onechancein="5"/>
 		</monster>
 
@@ -1141,7 +1140,7 @@
 			<!-- block -->
 			<secondarybuff id="10" amount="4"/>
 			<!-- armour -->
-			<info latin="(carrota cannibalis)" text="A man-eating carrot. Not to be confused with a man eating carrot. This one looks decidedly evil."/>
+			<info latin="(carrota cannibalis)" text="Uma cenoura carnívora. Não confunda com uma cenoura comendo gente. Esta parece decididamente maligna."/>
 			<spell name="Mini Curse Missile"/>
 			<ai aggressiveness="3" span="12" spellPercentage="5" />
 		</monster>
