@@ -41,7 +41,7 @@
 
 	<skill name="Daggers" id="45" type="rogue" achievement="ACHIEVEMENT_DAGGER_MASTERY" description="&quot;Adagas: não são mais apenas espadas pequenas.&quot;">
 		<art icon="skills/daggery64.png"/>
-		<loadout type="weapon" subtype="Shiv" always="1" />
+		<loadout type="weapon" subtype="Shiv" always="1"/>
 	</skill>
 
 	<skill name="Axes" id="1" type="warrior" achievement="ACHIEVEMENT_AXE_MASTERY" description="Você ganha bônus de combate e ataques especiais ao empunhar machados.">
@@ -56,7 +56,7 @@
 
 	<skill name="Polearms" id="46" type="warrior" achievement="ACHIEVEMENT_POLEARMS_MASTERY" description="Por que andar até alguém para esfaqueá-lo? A alabarda é a resposta para combate corpo a corpo do preguiçoso.">
 		<art icon="skills/polearming64.png"/>
-		<loadout type="weapon" subtype="Peasantly Pitchfork" always="1" />
+		<loadout type="weapon" subtype="Peasantly Pitchfork" always="1"/>
 	</skill>
 
 	<skill name="Staves" id="3" type="warrior" achievement="ACHIEVEMENT_STAFF_MASTERY" description="Você ganha bônus de combate e ataques especiais ao empunhar bastões.">
@@ -69,7 +69,7 @@
 		<loadout type="weapon" subtype="Small Crossbow" always="1"/>
 		<loadout type="weapon" subtype="Wooden Bolt" amount="18" always="1"/>
 		<loadout type="weapon" subtype="Poison Ampoule Bolt" amount="6" always="1"/>
-		<loadout type="weapon" subtype="Fire Bolt" amount="6" />
+		<loadout type="weapon" subtype="Fire Bolt" amount="6"/>
 		<!-- <loadout type="armour" subtype="Parachute Pants" always="1"/> U can't have this -->
 	</skill>
 
@@ -77,7 +77,7 @@
 		<art icon="skills/skill_thrown.png"/>
 		<loadout type="weapon" subtype="Dwarven Boomerang" amount="16" always="1"/>
 		<loadout type="weapon" subtype="Acid Flask" amount="3" always="1"/>
-		<loadout type="weapon" subtype="Concussion Bomb" amount="5" />
+		<loadout type="weapon" subtype="Concussion Bomb" amount="5"/>
 	</skill>
 
 	<skill name="Unarmed Combat" id="6" type="warrior" achievement="ACHIEVEMENT_UNARMED_MASTERY" description="Você ganha bônus de combate e ataques especiais quando se envolve em combate desarmado baseado em pé.">
@@ -116,7 +116,7 @@
 
 	<skill name="Vampirism" id="13" type="wizard" achievement="ACHIEVEMENT_VAMPIRE_MASTERY" description="Você não se cura naturalmente e não obtém benefícios com comida, mas recupera sua saúde matando criaturas e bebendo seu sangue.">
 		<art icon="skills/skill_vampirism.png"/>
-		<flags noFood="1" />
+		<flags noFood="1"/>
 	</skill>
 
 	<skill name="Golemancy" id="14" type="wizard" achievement="ACHIEVEMENT_GOLEMANCY_MASTERY" description="Você pode criar golems!">
@@ -126,7 +126,7 @@
 
 	<skill name="Fleshsmithing" id="15" type="wizard" achievement="ACHIEVEMENT_FLESHSMITHING_MASTERY" description="Outros homens trabalham com argila, aço ou madeira. Nós os chamamos de medrosos.">
 		<art icon="skills/skill_fleshshaper.png"/>
-		<loadout type="food" subtype="Offal" amount="3" />
+		<loadout type="food" subtype="Offal" amount="3"/>
 	</skill>
 
 	<skill name="Mathemagic" id="16" type="wizard" achievement="ACHIEVEMENT_MATHEMAGIC_MASTERY" description="Arithmancers do universo, unam-se!">
@@ -157,12 +157,12 @@
 
 	<skill name="Magic Training" type="wizard" id="22" achievement="ACHIEVEMENT_MAGIC_TRAINING_MASTERY" description="Anos de Escola de Magia tornaram seus feitiços e uso de mana mais eficazes.">
 		<art icon="skills/skill_magictraining.png"/>
-		<loadout type="armour" subtype="Cracked Orb" />
+		<loadout type="armour" subtype="Cracked Orb"/>
 	</skill>
 
 	<skill name="Blood Mage"  type="wizard" id="23" achievement="ACHIEVEMENT_BLOOD_MAGIC_MASTERY"  description="Você recupera pontos de magia matando criaturas. Cada vez que você mata algo, recupera um pouco de mana.">
 		<art icon="skills/skill_bloodmagic.png"/>
-		<loadout type="weapon" subtype="Sacrificial Dagger" />
+		<loadout type="weapon" subtype="Sacrificial Dagger"/>
 	</skill>
 
 	<skill name="Ley Walker" id="24" type="wizard" achievement="ACHIEVEMENT_LEY_LINES_MASTERY" description="Você pode acessar linhas de força invisíveis para rapidamente recuperar poder mágico.">
@@ -202,12 +202,12 @@
 
 	<skill name="Alchemy" id="29" type="wizard" achievement="ACHIEVEMENT_ALCHEMY_MASTERY" description="Você pode criar poções, é geralmente muito inteligente e ocasionalmente gosta de consumir grandes quantidades de mercúrio.">
 		<art icon="skills/skill_alchemy.png"/>
-		<loadout type="potion"  always="1" />
-		<loadout type="reagent" amount="1"  always="1" />
-		<loadout type="reagent" amount="2"  always="1" />
-		<loadout type="reagent" amount="3"  always="1" />
+		<loadout type="potion"  always="1"/>
+		<loadout type="reagent" amount="1"  always="1"/>
+		<loadout type="reagent" amount="2"  always="1"/>
+		<loadout type="reagent" amount="3"  always="1"/>
 		<loadout type="potion" subtype="Aqua Vitae" amount="3"  always="1"/>
-		<loadout type="potion" subtype="Aqua Regia" amount="3" always="1" />
+		<loadout type="potion" subtype="Aqua Regia" amount="3" always="1"/>
 		<loadout type="toolkit" subtype="Modular Alchemy Box"  always="1"/>
 		<loadout type="toolkit" subtype="Porta-Still"  always="1"/>
 		<loadout type="toolkit" subtype="Elven Ingot Grinder" always="1"/>
@@ -217,27 +217,27 @@
 
 	<skill name="Wand Lore" id="30" type="wizard" achievement="ACHIEVEMENT_ARCHAEOLOGY_MASTERY" description="Você pode usar e manipular varinhas de forma mais eficaz.">
 		<art icon="skills/skill_wandlore.png"/>
-		<loadout type="wand" always="1" />
-		<loadout type="wand" always="1" />
-		<loadout type="wand" always="1" />
+		<loadout type="wand" always="1"/>
+		<loadout type="wand" always="1"/>
+		<loadout type="wand" always="1"/>
 		<loadout type="toolkit" subtype="n-Dimensional Lathe"  always="1"/>
 	</skill>
 
 	<skill name="Archaeology" id="31" type="rogue" achievement="ACHIEVEMENT_SMITHING_MASTERY"  description="Você começa o jogo com um chapéu fedora e é geralmente elegante e travesso. Um dia você pode até conseguir uma cátedra.">
 		<art icon="skills/skill_archaeology.png"/>
-		<loadout type="armour" subtype="Fedora" always="1" />
+		<loadout type="armour" subtype="Fedora" always="1"/>
 	</skill>
 
 	<skill name="Smithing" id="32" type="warrior" achievement="ACHIEVEMENT_TINKERING_MASTERY"  description="Ferreiro: para o aventureiro que gosta de projetos faça-você-mesmo. Também o torna mais forte do que o normal.">
 		<art icon="skills/skill_smithing.png"/>
-		<loadout type="toolkit" subtype="My Little Anvil Junior Smithing Kit" always="1" />
-		<loadout type="toolkit" subtype="Disposable Ingot Press" always="1" />
+		<loadout type="toolkit" subtype="My Little Anvil Junior Smithing Kit" always="1"/>
+		<loadout type="toolkit" subtype="Disposable Ingot Press" always="1"/>
 	</skill>
 
 	<skill name="Tinkering" id="33" type="rogue" achievement="ACHIEVEMENT_REALLY_TINKERING_MASTERY"  description="Você pode criar novos dispositivos, especialmente armadilhas, a partir de engrenagens, peças mecânicas e outros lixos.">
 		<art icon="skills/skill_tinkerer.png"/>
-		<loadout type="toolkit" subtype="Tinkerer Parts" always="1" />
-		<loadout type="toolkit" subtype="Disposable Ingot Press" always="1" />
+		<loadout type="toolkit" subtype="Tinkerer Parts" always="1"/>
+		<loadout type="toolkit" subtype="Disposable Ingot Press" always="1"/>
 		<loadout type="component" amount="3" always="1"/>
 		<loadout type="component" amount="3" always="1"/>
 		<loadout type="component" amount="3" always="1"/>
@@ -396,33 +396,33 @@
 
 	<ability name="Sanguinista" icon="skills/wizard/bloodmagic1_64.png" skill="23" level="0">
 		<description text="Você sabe como extrair magia do sangue de seus inimigos e ganhar mana a cada morte. Isso, claro, não funciona com vegetais, construtos ou mortos-vivos."/>
-		<targetKillBuff percentage="100" name="Blood Mana" />
-		<resistbuff righteous="-1" />
+		<targetKillBuff percentage="100" name="Blood Mana"/>
+		<resistbuff righteous="-1"/>
 	</ability>
 
 	<ability name="Vital Siphon" icon="skills/vital_siphon64.png" skill="23" level="1" >
 		<description text="Usando a arte sombria de drenar vitalidade, seus ataques corpo a corpo podem sugar as energias vitais de seus inimigos e transferi-las para você."/>
-		<targetHitEffectBuff percentage="30" name="Vital Siphon" />
-		<resistbuff righteous="-1" />
+		<targetHitEffectBuff percentage="30" name="Vital Siphon"/>
+		<resistbuff righteous="-1"/>
 	</ability>
 
 	<ability name="Spirit Stealer" icon="skills/wizard/bloodmagic2_64.png" skill="23" level="2">
 		<description text="Ao roubar o espírito de um inimigo derrotado (que precisa ter um espírito, é claro), você pode aumentar seu poder mágico. Há uma chance de capturar o espírito de um inimigo ao morrer."/>
 		<targetKillBuff percentage="50" name="Spirit Steal"/>
-		<resistbuff righteous="-1" />
+		<resistbuff righteous="-1"/>
 	</ability>
 
 	<ability name="Haematic Phylactery" icon="skills/haematic_phylactery64.png" skill="23" level="3" >
 		<description text="Derrame seu sangue e alma em um artefato secreto e oculto que você poderá acessar nos momentos de maior necessidade - ou sempre que tiver vontade de uma dose proibida de suco sanguíneo."/>
-		<resistbuff righteous="-1" />
-		<spell name="Create Haematic Phylactery" />
+		<resistbuff righteous="-1"/>
+		<spell name="Create Haematic Phylactery"/>
 	</ability>
 
 	<ability name="Soul Collector" icon="skills/wizard/bloodmagic3_64.png" skill="23" level="4">
 		<description text="Você pode alimentar atos mágicos usando as almas colhidas de seus inimigos caídos, desde que consiga coletá-las. Lembre-se de que robôs, mortos-vivos e vegetais não possuem almas."/>
 		<!-- doesn't work on vegetables or construct -->
 		<targetKillBuff percentage="50" name="Soul Steal"/>
-		<resistbuff righteous="-1" />
+		<resistbuff righteous="-1"/>
 	</ability>
 
 	<ability name="Linewalker" icon="skills/wizard/leylines0_64.png" skill="24" level="0">
@@ -433,7 +433,7 @@
 	</ability>
 
 	<ability name="Thaumaturgic Tap" icon="skills/magic_tap64.png" skill="24" level="1">
-		<spell name="Leyline Siphoning" />
+		<spell name="Leyline Siphoning"/>
 		<description text="Com seu conhecimento das linhas de energia, você pode ocasionalmente acessar o reino etéreo para restaurar suas energias vitais."/>
 	</ability>
 
@@ -451,17 +451,17 @@
 		<!-- mana regen -->
 		<secondarybuff id="1" amount="10"/>
 		<!-- mana -->
-		<triggeroncast percent="5" name="Thaumaturgic Conflux" />
+		<triggeroncast percent="5" name="Thaumaturgic Conflux"/>
 	</ability>
 
 	<ability name="Invisible Geometries" icon="skills/invisible_geometries64.png" skill="24" level="4" >
-		<spell name="Invisible Geometries" />
+		<spell name="Invisible Geometries"/>
 		<description text="Um mestre das linhas de energia pode usar geometrias invisíveis para se mover sem se mover - mas apenas em direções cardeais. Cuidado, pois atravessar o reino etéreo consome bastante força mágica."/>
 	</ability>
 
 	<ability name="Certified Mage" icon="skills/wizard/magictraining0_64.png" skill="22" level="0">
 		<description text="As aulas no Colégio Comunitário de Magia finalmente estão valendo a pena - seu poder mágico e reserva de mana aumentaram."/>
-		<primarybuff id="5" amount="1" />
+		<primarybuff id="5" amount="1"/>
 		<!-- savvy -->
 		<secondarybuff id="3" amount="1"/>
 		<!-- spellpower -->
@@ -473,23 +473,23 @@
 		<description text="Você tem uma licença para lançar feitiços e tirar o direito de outros lançarem. Qualquer monstro atingido por este feitiço perderá temporariamente a habilidade de conjurar."/>
 		<secondarybuff id="3" amount="1"/>
 		<!-- spellpower -->
-		<primarybuff id="5" amount="1" />
+		<primarybuff id="5" amount="1"/>
 		<!-- savvy -->
-		<spell name="Thaumoentropic Missile" />
+		<spell name="Thaumoentropic Missile"/>
 	</ability>
 
 	<ability name="Wizarding Associate" icon="skills/wizard/magictraining1_64.png"  skill="22" level="2">
 		<description text="Como um membro pagante da Associação de Feiticeiros, você recebe 5% de desconto nas taxas de conferências e um cartão de membro da Associação de Feiticeiros, que você realmente deveria plastificar."/>
 		<secondarybuff id="1" amount="10"/>
 		<!-- mana -->
-		<primarybuff id="5" amount="1" />
+		<primarybuff id="5" amount="1"/>
 		<!-- savvy -->
 	</ability>
 
 	<ability name="Extra-planar Concentration" icon="skills/extraplanar_concentration64.png" skill="22" level="3" >
-		<spell name="Extra-planar Concentration" />
+		<spell name="Extra-planar Concentration"/>
 		<description text="Uma concentração extremamente intensa permite aumentar drasticamente sua regeneração de mana por um curto período. Tal concentração pode fazer você esquecer que está em uma masmorra cheia de monstros assassinos, então fique atento ao seu redor ao entrar nesse estado mental."/>
-		<primarybuff id="5" amount="1" />
+		<primarybuff id="5" amount="1"/>
 		<!-- savvy -->
 	</ability>
 
@@ -499,19 +499,19 @@
 		<!-- sagacity -->
 		<primarybuff id="5" amount="5"/>
 		<!-- savvy -->
-		<secondarybuff id="11" amount="5" />
+		<secondarybuff id="11" amount="5"/>
 		<!-- resist -->
 	</ability>
 
 	<ability name="Blood Sucker" icon="skills/skill_vampirism.png" skill="13" level="0">
-		<targetHitEffectBuff percentage="100" name="Vampirism Attack" />
+		<targetHitEffectBuff percentage="100" name="Vampirism Attack"/>
 		<description text="Seus ataques corpo a corpo são mais fortes e drenam a vida de seus inimigos."/>
-		<resistbuff necromantic="1" />
+		<resistbuff necromantic="1"/>
 		<!-- go for it, Necronomiconomists -->
 	</ability>
 
 	<ability name="Drinker of the Dead" icon="skills/wizard/vampirism1_64.png" skill="13" level="1">
-		<spell name="Corpse Drain" />
+		<spell name="Corpse Drain"/>
 		<description text="Drene o sangue de cadáveres para ganhar (des)vida. Saúde!"/>
 	</ability>
 
@@ -521,15 +521,15 @@
 	</ability>
 
 	<ability name="Psychic Vampire" icon="skills/psychic_vampire64.png" skill="13" level="3" >
-		<targetHitEffectBuff percentage="50" name="Psychic Vampire" />
+		<targetHitEffectBuff percentage="50" name="Psychic Vampire"/>
 		<description text="Seus poderes mentais vampíricos assustadores permitem que seus ataques corpo a corpo tenham a chance de sugar mana e causar confusão nos inimigos."/>
-		<resistbuff necromantic="1" />
+		<resistbuff necromantic="1"/>
 		<!-- go for it, Necronomiconomists -->
 	</ability>
 
 	<ability name="Transylvation" icon="skills/batty64.png" skill="13" level="4" >
 		<description text="Você pode se transformar em um morcego para fugir. REEeee! (Esse é o som que um morcego faz.)"/>
-		<spell name="Batty Form" />
+		<spell name="Batty Form"/>
 	</ability>
 
 	<!-- Wizard Spells -->
@@ -541,45 +541,45 @@
 	<ability name="Zombyfycation" icon="skills/spells/zombyfycation64.png" skill="15" level="0">
 		<spell name="Zombyfycation"/>
 		<description text="Reduzir, reutilizar, reciclar: depois de transformar seu inimigo em um cadáver ensanguentado, traga-o de volta à vida como um 'ex-morto' servo que o defenderá até morrer de novo."/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
 	</ability>
 
 	<ability name="Knit Tissue" icon="skills/spells/restoration64.png" skill="15" level="1">
 		<spell name="Knit Tissue"/>
 		<description text="Este feitiço remenda pedaços de você que caíram, foram rasgados, dilacerados, perfurados ou esmagados. É uma cura bem bagunçada."/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
 	</ability>
 
 	<ability name="Fleshbore" icon="skills/spells/fleshbore64.png" skill="15" level="2">
 		<spell name="Fleshbore"/>
 		<description text="Um terrível e carnudo debuff que dilacera a carne do inimigo."/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
 	</ability>
 
 	<ability name="Meatshield" icon="skills/spells/meatshield64.png" skill="15" level="3">
 		<spell name="Meatshield"/>
 		<description text="O Escudo de Carne melhora sua força vital e poderes regenerativos."/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
-		<resistbuff slashing="1" crushing="1" />
+		<resistbuff slashing="1" crushing="1"/>
 	</ability>
 
 	<ability name="Corpus Burst" icon="skills/spells/corpus_burst64.png" skill="15" level="4">
 		<spell name="Corpus Burst"/>
 		<description text="Este feitiço faz cadáveres explodirem! Quem não gosta de cadáveres explodindo? Basicamente todo mundo, na verdade."/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
 	</ability>
 
 	<ability name="Miasmatic Putrefaction" icon="skills/spells/conjure_miasma64.png" skill="15" level="5">
 		<spell name="Miasmatic Putrefaction"/>
 		<description text="Este feitiço sufoca tudo até a morte com gases horríveis, tóxicos e apodrecidos. Alegre, não é? (É contrabalanceado principalmente por pot-pourri.)"/>
-		<secondarybuff id="0" amount="1" />
+		<secondarybuff id="0" amount="1"/>
 		<!-- hp -->
-		<resistbuff toxic="1" putrefying="1" />
+		<resistbuff toxic="1" putrefying="1"/>
 	</ability>
 
 	<!-- Golemancy Spells -->
@@ -849,7 +849,7 @@
 	<ability name="Viking Strike" icon="skills/warrior/axemanship1_64.png" skill="1" level="1">
 		<description text="Junte-se à Igreja de Odin! Aprenda a odiar! Com esta habilidade, você tem a chance de realizar o 'Golpe Viking' em combate corpo a corpo."/>
 		<!-- <spell name="Viking Strike"/> -->
-		<targetHitEffectBuff percentage="20" name="Viking Strike" />
+		<targetHitEffectBuff percentage="20" name="Viking Strike"/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
 		<secondarybuff id="9" amount="2"/>
@@ -858,11 +858,11 @@
 
 	<ability name="Axe Training" icon="skills/skill_axe.png" skill="1" level="2">
 		<description text="O treinamento vigoroso com seu machado permite cortar e retalhar com mais força e precisão. As mudas de árvores tremem. Ocasionalmente, você causa uma Ferida Cripplante."/>
-		<damagebuff slashing="1" />
-		<targetHitEffectBuff percentage="8" name="Crippling Wound" />
+		<damagebuff slashing="1"/>
+		<targetHitEffectBuff percentage="8" name="Crippling Wound"/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 	</ability>
 
@@ -871,7 +871,7 @@
 		<spell name="Norwegian Axenado"/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
@@ -881,10 +881,10 @@
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
 		<description text="A devoção espiritual à arte do machado desbloqueou seus segredos: Você tem a chance de realizar ataques excepcionalmente graves em combate usando machados."/>
-		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
+		<targetHitEffectBuff percentage="16" name="Bleeding Out"/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 	</ability>
 
@@ -904,35 +904,35 @@
 		<description text="Lembre-se: a ponta da espada deve entrar no corpo do seu oponente. Este é apenas o primeiro passo no caminho da boa esgrima e, como tal, oferece apenas bônus de combate menores."/>
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
-		<damagebuff slashing="1" />
+		<damagebuff slashing="1"/>
 	</ability>
 
 	<ability name="Liechtenauer's Overhau" icon="skills/warrior/swordplay1_64.png" skill="0" level="1">
 		<description text="O que exatamente é um Overhau? Que bom que você perguntou: é um ataque particularmente germânico (e particularmente doloroso) que você tem a chance de realizar com cada ataque corpo a corpo ao aprender essa habilidade. O dano aumenta conforme sua Força Bruta."/>
 		<!-- <spell name="Liechtenauer's Overhau"/> -->
-		<targetHitEffectBuff percentage="20" name="Liechtenauer's Overhau" />
+		<targetHitEffectBuff percentage="20" name="Liechtenauer's Overhau"/>
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
-		<secondarybuff id="9" amount="2" />
+		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
 		<damagebuff slashing="1"/>
 	</ability>
 
 	<ability name="Sword Practice" icon="skills/skill_sword.png" skill="0" level="2">
 		<description text="Com longas horas de prática espetando moscas, seu uso da espada se tornou ainda mais hábil. Ocasionalmente, você causa uma Ferida Cripplante."/>
-		<damagebuff piercing="1" />
+		<damagebuff piercing="1"/>
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<targetHitEffectBuff percentage="8" name="Crippling Wound" />
+		<targetHitEffectBuff percentage="8" name="Crippling Wound"/>
 	</ability>
 
 	<ability name="Thibault's Trompement" icon="skills/warrior/swordplay2_64.png" skill="0" level="3">
 		<description text="Por que dar a volta se você pode atacar direto através do seu inimigo? Esta habilidade pode ser usada para atacar todos os inimigos em uma linha reta através de um oponente. O dano aumenta conforme sua Agilidade."/>
 		<spell name="Thibault's Trompement"/>
 		<damagebuff piercing="2"/>
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
@@ -942,7 +942,7 @@
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<description text="Pesquisas minuciosas sobre o uso de espadas revelaram segredos terríveis: Você tem a chance de realizar ataques excepcionalmente graves em combate usando espadas."/>
-		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
+		<targetHitEffectBuff percentage="16" name="Bleeding Out"/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 	</ability>
@@ -970,23 +970,23 @@
 	</ability>
 
 	<ability name="Dwarven Handshake" icon="skills/warrior/macery1_64.png" skill="2" level="1">
-		<targetHitEffectBuff percentage="20" name="Dwarven Handshake" />
+		<targetHitEffectBuff percentage="20" name="Dwarven Handshake"/>
 		<description text="Esta é a habilidade de ensinar ao inimigo quando recuar. Esta habilidade lhe dá a chance de acertar um ataque especialmente danoso de derrubada em combate corpo a corpo ao usar armas de classe marreta."/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<damagebuff piercing="1"/>
 	</ability>
 
 	<ability name="Mace Rehearsal" icon="skills/skill_mace.png" skill="2" level="2">
 		<description text="É importante manter sua marreta afinada para que você possa acertar o ritmo perfeito no grande dia. Concede a chance de causar uma Ferida Cripplante."/>
-		<damagebuff crushing="1" />
+		<damagebuff crushing="1"/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<targetHitEffectBuff percentage="8" name="Crushed Bones" />
+		<targetHitEffectBuff percentage="8" name="Crushed Bones"/>
 	</ability>
 
 	<ability name="Ragnar's Meteor" icon="skills/warrior/macery2_64.png" skill="2" level="3">
@@ -994,7 +994,7 @@
 		<description text="Derruba um verdadeiro meteoro de violência esmagadora por toda parte à sua frente! Este é um ataque especial de área que você pode realizar."/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
-		<damagebuff crushing="1" />
+		<damagebuff crushing="1"/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 	</ability>
@@ -1005,13 +1005,13 @@
 		<description text="Meditações ponderadas sobre o significado das marretas desbloquearam os segredos sombrios contidos em tais armas: Agora você tem a chance de realizar ataques excepcionalmente graves em combate usando marretas."/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
-		<targetHitEffectBuff percentage="6" name="Bleeding Out" />
-		<targetHitEffectBuff percentage="10" name="Crippling Wound" />
+		<targetHitEffectBuff percentage="6" name="Bleeding Out"/>
+		<targetHitEffectBuff percentage="10" name="Crippling Wound"/>
 	</ability>
 
 	<ability name="Hammer Champion" icon="skills/warrior/macery3_64.png" skill="2" level="5">
 		<description text="É hora do martelo. Seus ataques corpo a corpo com maces são aprimorados e você tem a chance de desferir uma Pancada Pedante que atordoa o inimigo e causa dano baseado na sua força bruta."/>
-		<targetHitEffectBuff percentage="15" name="Pedantic Beating" />
+		<targetHitEffectBuff percentage="15" name="Pedantic Beating"/>
 		<secondarybuff id="9" amount="14"/>
 		<!-- EDR -->
 		<secondarybuff id="2" amount="1"/>
@@ -1025,7 +1025,7 @@
 		<!-- Block -->
 		<secondarybuff id="8" amount="1"/>
 		<!-- Counter -->
-		<damagebuff crushing="1" />
+		<damagebuff crushing="1"/>
 	</ability>
 
 	<ability name="Spirit Conduit" icon="skills/warrior/staff-fighting1_64.png" skill="3" level="1">
@@ -1036,17 +1036,17 @@
 		<!-- Haywire -->
 		<secondarybuff id="7" amount="1"/>
 		<!-- Block -->
-		<targetHitEffectBuff percentage="20" name="Spirit Conduit" />
+		<targetHitEffectBuff percentage="20" name="Spirit Conduit"/>
 		<damagebuff crushing="1"/>
 	</ability>
 
 	<ability name="Staff Discipline" icon="skills/skill_staff.png" skill="3" level="2">
 		<description text="Você acredita no controle do bastão: usa as duas mãos! Concede uma chance de realizar um ataque esmagadoramente desagradável que quebra ossos."/>
-		<damagebuff crushing="1" />
-		<targetHitEffectBuff percentage="8" name="Crushed Bones" />
+		<damagebuff crushing="1"/>
+		<targetHitEffectBuff percentage="8" name="Crushed Bones"/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- Block -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 	</ability>
 
@@ -1066,8 +1066,8 @@
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<description text="Investigações profundas nas profundezas insondáveis do bastão levaram a epifanias surpreendentes sobre seu uso: agora você tem a chance de executar ataques excepcionalmente graves em combate ao usar bastões."/>
-		<targetHitEffectBuff percentage="6" name="Bleeding Out" />
-		<targetHitEffectBuff percentage="10" name="Crippling Wound" />
+		<targetHitEffectBuff percentage="6" name="Bleeding Out"/>
+		<targetHitEffectBuff percentage="10" name="Crippling Wound"/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 	</ability>
@@ -1095,7 +1095,7 @@
 		<!-- Counter -->
 		<secondarybuff id="6" amount="2"/>
 		<!-- Dodge -->
-		<damagebuff piercing="1" crushing="1" />
+		<damagebuff piercing="1" crushing="1"/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 		<secondarybuff id="3" amount="1"/>
@@ -1120,12 +1120,12 @@
 		<description text="Colocar o pé no lugar certo no momento certo fará toda a diferença. Concede uma chance de realizar um ataque espetacularmente desagradável que quebra ossos."/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- Block -->
-		<secondarybuff id="9" amount="1" />
+		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<secondarybuff id="6" amount="1"/>
 		<!-- Dodge -->
-		<damagebuff piercing="1" />
-		<targetHitEffectBuff percentage="8" name="Crushed Bones" />
+		<damagebuff piercing="1"/>
+		<targetHitEffectBuff percentage="8" name="Crushed Bones"/>
 	</ability>
 
 	<ability name="Gray Heron Takes Flight" icon="skills/warrior/unarmed_art2_64.png" skill="6" level="3">
@@ -1150,8 +1150,8 @@
 		<description text="Agora que você andou uma milha sobre os rostos de outras pessoas, seus pés são tão inflexíveis quanto sua vontade: agora você tem a chance de executar ataques excepcionalmente graves em combate ao usar os pés."/>
 		<secondarybuff id="3" amount="1"/>
 		<!-- magic power -->
-		<targetHitEffectBuff percentage="10" name="Stone Sole Pummeling" />
-		<damagebuff crushing="2" />
+		<targetHitEffectBuff percentage="10" name="Stone Sole Pummeling"/>
+		<damagebuff crushing="2"/>
 	</ability>
 
 	<ability name="Master of Dragon Foot Technique" icon="skills/warrior/unarmed_art3_64.png" skill="6" level="5">
@@ -1165,7 +1165,7 @@
 		<secondarybuff id="9" amount="11"/>
 		<!-- EDR -->
 		<damagebuff aethereal="4"/>
-		<targetHitEffectBuff percentage="25" name="Nice Combo!" />
+		<targetHitEffectBuff percentage="25" name="Nice Combo!"/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 	</ability>
@@ -1176,7 +1176,7 @@
 		<!-- EDR -->
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
-		<recoverybuff amount="15" />
+		<recoverybuff amount="15"/>
 		<!-- <crossbowShotBuff percentage="20" name="Watched by the Council"/> a bit crazy -->
 		<!-- <crossbowShotBuff name="Laser Blast" percentage="100"/>-->
 	</ability>
@@ -1184,8 +1184,8 @@
 	<ability name="Crossbow Blast" icon="skills/fight_in_the_shade64.png" skill="4" level="1">
 		<description text="Essa técnica, envolta em rumores e enaltecida por boatos, permite que um virote atinja com muitas vezes a força esperada, derrubando um inimigo e causando grande dano. É complicado, então você só consegue realizar às vezes."/>
 		<damagebuff piercing="1"/>
-		<recoverybuff amount="10" />
-		<crossbowShotBuff name="Crossbow Blast" percentage="20" />
+		<recoverybuff amount="10"/>
+		<crossbowShotBuff name="Crossbow Blast" percentage="20"/>
 	</ability>
 
 	<ability name="Bullseye" icon="skills/warrior/crossbow1_64.png" skill="4" level="2">
@@ -1195,24 +1195,24 @@
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
 		<damagebuff piercing="1"/>
-		<recoverybuff amount="5" />
+		<recoverybuff amount="5"/>
 	</ability>
 
 	<ability name="Maverick" icon="skills/maverick64.png" skill="4" level="3">
 		<description text="'Quando atirar para matar, mire no coração.' Você tem a chance de perfurar profundamente a carne do alvo com o virote."/>
 		<damagebuff piercing="1"/>
-		<recoverybuff amount="5" />
-		<crossbowShotBuff name="Fleshbore" percentage="22" />
+		<recoverybuff amount="5"/>
+		<crossbowShotBuff name="Fleshbore" percentage="22"/>
 		<!-- and give some relevent stat buffs -->
-		<!--<playerHitEffectBuff percentage="15" name="Maverick Counterattack" />-->
+		<!--<playerHitEffectBuff percentage="15" name="Maverick Counterattack"/>-->
 	</ability>
 
 	<!-- Put this off 'til later.
 	<ability name="Impossible Shot" icon="skills/impossible_shot64.png" skill="4" level="4">
-  		<description text="fire a bolt through enemies 'til it hits a wall" />
+  		<description text="fire a bolt through enemies 'til it hits a wall"/>
   		<secondarybuff id="9" amount="2"/>
-  		<recoverybuff amount="5" />
-  		<spell name="Impossible Shot" />
+  		<recoverybuff amount="5"/>
+  		<spell name="Impossible Shot"/>
   	</ability>
 	-->
 
@@ -1220,26 +1220,26 @@
 		<description text="É como ser primo de segundo grau do Rei do Arco. Não é ruim. Essa habilidade aumenta o dano causado ao empunhar a besta. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="4" amount="4"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="6" />
+		<secondarybuff id="9" amount="6"/>
 		<!-- EDR -->
 		<damagebuff piercing="3"/>
-		<recoverybuff amount="10" />
-		<crossbowShotBuff percentage="15" name="Bleeding Out" />
+		<recoverybuff amount="10"/>
+		<crossbowShotBuff percentage="15" name="Bleeding Out"/>
 	</ability>
 
 	<ability name="Underhander" icon="skills/skill_thrown.png" skill="5" level="0">
 		<description text="Você dominou o arremesso suave, mas ainda não está pronto para entrar em um time de basquete. Melhora ligeiramente suas habilidades de combate ao usar armas arremessáveis. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="9" amount="2"/>
 		<secondarybuff id="4" amount="1"/>
-		<recoverybuff amount="10" />
+		<recoverybuff amount="10"/>
 		<thrownBuff name="Beaned" percentage="20"/>
 	</ability>
 
 	<ability name="Monster Toss" icon="skills/monster_toss64.png" skill="5" level="1" >
 		<description text="Não gosta daquele monstro? Apenas jogue-o para longe!"/>
-		<recoverybuff amount="5" />
-		<spell name="Monster Toss" />
-		<secondarybuff id="2" amount="" />
+		<recoverybuff amount="5"/>
+		<spell name="Monster Toss"/>
+		<secondarybuff id="2" amount=""/>
 		<!-- melee -->
 	</ability>
 
@@ -1248,29 +1248,29 @@
 		<secondarybuff id="9" amount="2"/>
 		<secondarybuff id="6" amount="2"/>
 		<damagebuff crushing="1"/>
-		<recoverybuff amount="5" />
+		<recoverybuff amount="5"/>
 		<!-- <thrownBuff name="Laser Blast" percentage="100"/> -->
 	</ability>
 	
 	<!--
 	<ability name="Dual Pitcher" icon="skills/dual_pitcher64.png" skill="5" level="2" >
-  		<description text="two shots in one turn" />
-  		<recoverybuff amount="5" />
-  		<spell name="Dual Pitch" />
+  		<description text="two shots in one turn"/>
+  		<recoverybuff amount="5"/>
+  		<spell name="Dual Pitch"/>
   	</ability>
 	-->
 
 	<ability name="Australian Technique" icon="skills/australian64.png" skill="5" level="3" >
 		<description text="A Técnica Australiana é complicada, mas quando você a executa, sua arma penetra profundamente no alvo, causando danos terríveis pela pura força do arremesso dessa Terra Austral."/>
-		<recoverybuff amount="5" />
+		<recoverybuff amount="5"/>
 		<thrownBuff name="Fleshbore" percentage="20"/>
 	</ability>
 
 	<!--
 	<ability name="Trap Throw" icon="skills/trap_throw64.png" skill="5" level="4" >
-  		<description text="throw a trap like a thrown weapon; also gives trap disarm" />
-  		<recoverybuff amount="5" />
-  		<spell name="Trap Throw" />
+  		<description text="throw a trap like a thrown weapon; also gives trap disarm"/>
+  		<recoverybuff amount="5"/>
+  		<spell name="Trap Throw"/>
   	</ability>
 	-->
 	
@@ -1278,11 +1278,11 @@
 		<description text="Embora atirar coisas em pessoas geralmente não seja considerado uma das artes marciais mais nobres, você conseguiu trazer um tipo de realeza para isso. De certa forma. Na maior parte, você apenas arremessa com muita força. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="4" amount="4"/>
 		<!-- Crit -->
-		<secondarybuff id="9" amount="2" />
+		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
 		<damagebuff crushing="3"/>
-		<recoverybuff amount="15" />
-		<thrownBuff percentage="15" name="Crushed Bones" />
+		<recoverybuff amount="15"/>
+		<thrownBuff percentage="15" name="Crushed Bones"/>
 	</ability>
 
 	<ability name="Thick Skin" icon="skills/warrior/armourer0_64.png" skill="11" level="0">
@@ -1298,7 +1298,7 @@
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
 		<resistbuff piercing="1"/>
-		<spell name="Suit Up" />
+		<spell name="Suit Up"/>
 	</ability>
 
 	<ability name="Walk It Off" icon="skills/stat_con64.png" skill="11" level="2">
@@ -1307,14 +1307,14 @@
 		<!-- hp -->
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
-		<playerHitEffectBuff percentage="20" name="Walk It Off" />
+		<playerHitEffectBuff percentage="20" name="Walk It Off"/>
 	</ability>
 
 	<ability name="It Only Makes You Stronger" icon="skills/stat_str64.png" skill="11" level="3">
 		<description text="Praticar ser espancado, esmagado e esfaqueado fez com que você se tornasse altamente habilidoso nessas atividades. Quando você é atingido, há uma chance de que sua saúde, força bruta e resistência a perfurações aumentem temporariamente."/>
 		<secondarybuff id="10" amount="1"/>
 		<!-- armor_absorption -->
-		<playerHitEffectBuff percentage="15" name="It Only Makes You Stronger" />
+		<playerHitEffectBuff percentage="15" name="It Only Makes You Stronger"/>
 	</ability>
 
 	<ability name="Master of Arms" icon="skills/skill_armour.png" skill="11" level="4">
@@ -1324,7 +1324,7 @@
 		<secondarybuff id="10" amount="2"/>
 		<!-- armor_absorption -->
 		<resistbuff piercing="2"/>
-		<playerHitEffectBuff percentage="10" name="Suit Up" />
+		<playerHitEffectBuff percentage="10" name="Suit Up"/>
 	</ability>
 
 	<ability name="Squire of the Shield" icon="skills/skill_shieldbearer.png" skill="8" level="0">
@@ -1335,7 +1335,7 @@
 
 	<ability name="Duck And Cover!" icon="skills/warrior/shieldbearer1_64.png" skill="8" level="1">
 		<description text="Lute com inteligência, não com força! Pode aumentar sua defesa por um tempo depois de ser atingido."/>
-		<playerHitEffectBuff percentage="20" name="Duck And Cover!" />
+		<playerHitEffectBuff percentage="20" name="Duck And Cover!"/>
 		<secondarybuff id="7" amount="2"/>
 		<!-- block -->
 	</ability>
@@ -1344,12 +1344,12 @@
 		<description text="Às vezes, a melhor defesa é atingir o outro cara muito forte na cabeça com seu escudo. Causa um grande impacto esmagador em um inimigo, podendo atordoá-lo. O dano escala com sua Teimosia."/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
-		<spell name="Defensive Bash" />
+		<spell name="Defensive Bash"/>
 	</ability>
 
 	<ability name="Tortoise Maneuver" icon="skills/warrior/shieldbearer3_64.png" skill="8" level="3">
 		<description text="A Manobra da Tartaruga não é particularmente temida por ninguém porque envolve basicamente segurar o escudo sobre a cabeça e se acovardar, mas pode ajudar você a sobreviver por mais tempo. Usar essa habilidade aumenta sua defesa até que você seja atingido o suficiente para perder o foco."/>
-		<spell name="Tortoise Maneuver" />
+		<spell name="Tortoise Maneuver"/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
 	</ability>
@@ -1374,7 +1374,7 @@
 
 	<ability name="Offensive Maneuvering" icon="skills/warrior/dualwield1_64.png" skill="7" level="1">
 		<description text="Ataque agora com todas as armas *ao mesmo tempo*! Suas habilidades ofensivas são aumentadas por um curto período. Você usa essa habilidade automaticamente quando surge a oportunidade."/>
-		<targetHitEffectBuff percentage="12" name="Offensive Maneuvering" />
+		<targetHitEffectBuff percentage="12" name="Offensive Maneuvering"/>
 		<secondarybuff id="8" amount="3"/>
 		<!-- Counter -->
 	</ability>
@@ -1389,12 +1389,12 @@
 
 	<ability name="Combat Momentum" icon="skills/momentum64.png" skill="7" level="3" >
 		<description text="Mantenha o impulso do combate para melhorar sua habilidade de combate. Rasgue e destrua!"/>
-		<targetHitEffectBuff percentage="100" name="Combat Momentum" />
+		<targetHitEffectBuff percentage="100" name="Combat Momentum"/>
 	</ability>
 
 	<!-- defer this.
 	<ability name="Inverse Minion Law" icon="skills/inverse_minion64.png" skill="7" level="4" >
-  		<description text="bonus based on # of adjacent enemies" />
+  		<description text="bonus based on # of adjacent enemies"/>
   	</ability>
 	-->
 	
@@ -1420,7 +1420,7 @@
 		<!-- edr -->
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
-		<targetHitEffectBuff percentage="14" name="Bleeding Out" />
+		<targetHitEffectBuff percentage="14" name="Bleeding Out"/>
 		<description text="Você erra ainda menos em qualquer tipo de combate, e acerta ainda melhor. Você tem a chance de causar um ferimento que faz o inimigo sangrar."/>
 	</ability>
 
@@ -1429,40 +1429,40 @@
 		<!-- edr -->
 		<secondarybuff id="4" amount="2"/>
 		<!-- crit -->
-		<targetHitEffectBuff percentage="16" name="Crippling Wound" />
+		<targetHitEffectBuff percentage="16" name="Crippling Wound"/>
 		<description text="Além de não errar e acertar pontos críticos, você tem a chance de causar ferimentos debilitantes nos inimigos."/>
 	</ability>
 
 	<ability name="Poor Impulse Control" icon="skills/warrior/berserker0_64.png" skill="9" level="0">
 		<description text="Quando você ataca, há uma chance de que você fique muito zangado! Isso aumenta suas habilidades de ataque."/>
-		<targetHitEffectBuff percentage="25" name="Berserker Rage" />
+		<targetHitEffectBuff percentage="25" name="Berserker Rage"/>
 	</ability>
 
 	<ability name="Viking Temperament" icon="skills/warrior/berserker1_64.png" skill="9" level="1">
 		<description text="Quando você se defende, há uma chance de que você fique muito zangado! Isso também aumenta suas habilidades de ataque."/>
-		<playerHitEffectBuff percentage="25" name="Berserker Vengeance" />
+		<playerHitEffectBuff percentage="25" name="Berserker Vengeance"/>
 	</ability>
 
 	<ability name="Ancestral Body Paint" icon="skills/body_paint64.png" skill="9" level="2">
 		<description text="As marcas de seus ancestrais o protegerão na batalha."/>
-		<secondarybuff id="11" amount="10" />
+		<secondarybuff id="11" amount="10"/>
 		<!-- magic resist -->
-		<secondarybuff id="22" amount="5" />
+		<secondarybuff id="22" amount="5"/>
 		<!-- magic reflect -->
-		<resistbuff aethereal="1" transmutative="1" conflagratory="1" hyperborean="1" />
+		<resistbuff aethereal="1" transmutative="1" conflagratory="1" hyperborean="1"/>
 	</ability>
 
 	<ability name="Berserker Rage" icon="skills/skill_berserker.png" skill="9" level="3">
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
-		<targetHitEffectBuff percentage="13" name="More Berserker Rage" />
-		<playerHitEffectBuff percentage="12" name="More Berserker Rage" />
+		<targetHitEffectBuff percentage="13" name="More Berserker Rage"/>
+		<playerHitEffectBuff percentage="12" name="More Berserker Rage"/>
 		<description text="No combate corpo a corpo, você está sujeito a acessos de extrema Fúria Berserker! Ainda mais! Toda essa raiva também faz com que você ataque com mais força."/>
 	</ability>
 
 	<ability name="Killing Blow" icon="skills/killing_blow64.png" skill="9" level="4">
 		<description text="Seu próximo ataque vai causar um grande estrago."/>
-		<spell name="Killing Blow" />
+		<spell name="Killing Blow"/>
 	</ability>
 
 	<ability name="Fidgety Fellow" icon="skills/skill_dodging.png" skill="10" level="0">
@@ -1471,12 +1471,12 @@
 		<!-- nim -->
 		<secondarybuff id="6" amount="5"/>
 		<!-- dodge -->
-		<!-- test <triggerondodge percent="50" name="Thaumaturgic Conflux" /> -->
+		<!-- test <triggerondodge percent="50" name="Thaumaturgic Conflux"/> -->
 	</ability>
 
 	<ability name="Aikido For Adventurers" icon="skills/aikido64.png" skill="10" level="1" >
 		<description text="Você leu um artigo no final da 'Aventura Mensal' sobre isso, agora vamos ver se funciona... (Teoricamente transforma uma esquiva em um contra-ataque. Às vezes.)"/>
-		<triggerondodge percent="30" name="Adventurer Aikido" />
+		<triggerondodge percent="30" name="Adventurer Aikido"/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 	</ability>
@@ -1485,7 +1485,7 @@
 		<description text="Com essa habilidade, você pode saltar para fora de uma situação problemática – ou diretamente para dentro dela."/>
 		<secondarybuff id="6" amount="3"/>
 		<!-- dodge -->
-		<spell name="Knightly Leap" />
+		<spell name="Knightly Leap"/>
 	</ability>
 
 	<ability name="Transdimensional Dodge" icon="skills/transdimensional_dodge64.png" skill="10" level="3" >
@@ -1494,7 +1494,7 @@
 		<!-- dodge -->
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
-		<spell name="Transdimensional Dodging" />
+		<spell name="Transdimensional Dodging"/>
 	</ability>
 
 	<ability name="Supremely Sly Side-stepper" icon="skills/rogue/sidestepper64.png" skill="10" level="4">
@@ -1515,7 +1515,7 @@
 	</ability>
 
 	<ability name="Lucky Pick" icon="skills/rogue/skill_burglary0_64.png" skill="26" level="1">
-		<flags opendoors="1" />
+		<flags opendoors="1"/>
 		<description text="Portas trancadas não são obstáculo para o seu 'Palpite Afortunado'."/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
@@ -1562,57 +1562,57 @@
 	<!-- Alchemy sub-abilities -->
 
 	<ability name="Potions 101" icon="skills/rogue/alchemy0_64.png" skill="29" level="0">
-		<description text="With basic alchemy knowledge, you can mix small potions more-or-less accurately." />
-		<primarybuff id="1" amount="1" />
-		<secondarybuff id="21" amount="1" />
+		<description text="Com conhecimentos básicos de alquimia, você pode misturar pequenas poções mais ou menos com precisão."/>
+		<primarybuff id="1" amount="1"/>
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<resistbuff acidic="1" />
+		<resistbuff acidic="1"/>
 	</ability>
 
 	<ability name="Distillistry" icon="skills/rogue/alchemy1_64.png" skill="29" level="1">
-		<description text="You can mix more, better, and purer." />
-		<primarybuff id="1" amount="1" />
-		<secondarybuff id="21" amount="1" />
+		<description text="Você pode misturar mais, melhor e de forma mais pura."/>
+		<primarybuff id="1" amount="1"/>
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<resistbuff putrefying="1" />
+		<resistbuff putrefying="1"/>
 	</ability>
 
 	<ability name="Transmutationer" icon="skills/rogue/alchemy2_64.png" skill="29" level="2">
-		<description text="Advanced alchemical training allows you to transmute gems randomly." />
+		<description text="Treinamento avançado em alquimia permite transmutar gemas aleatoriamente."/>
 		<spell name="Gem Transmutation"/>
-		<primarybuff id="1" amount="1" />
-		<secondarybuff id="21" amount="1" />
+		<primarybuff id="1" amount="1"/>
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<resistbuff acidic="1" />
+		<resistbuff acidic="1"/>
 	</ability>
 
 	<ability name="Mixologist" icon="skills/rogue/alchemy3_64.png" skill="29" level="3">
-		<description text="You can mix all kinds of potions in alarming combinations." />
-		<primarybuff id="1" amount="1" />
-		<secondarybuff id="21" amount="1" />
+		<description text="Você pode misturar todos os tipos de poções em combinações alarmantes."/>
+		<primarybuff id="1" amount="1"/>
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<resistbuff conflagratory="1" />
+		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="High-energy Alchemist" icon="skills/skill_alchemy.png" skill="29" level="4">
-		<description text="Oh, what power you can place in a bottle!" />
-		<primarybuff id="1" amount="1" />
-		<secondarybuff id="21" amount="1" />
+		<description text="Oh, que poder você pode colocar em uma garrafa!"/>
+		<primarybuff id="1" amount="1"/>
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<resistbuff acidic="2" />
+		<resistbuff acidic="2"/>
 	</ability>
 
 	<ability name="Potionmaster" icon="skills/alchemical_inspiration64.png" skill="29" level="5">
-		<description text="It is potion, elixir, and philter which flow in your veins now more than the base blood of men." />
-		<primarybuff id="1" amount="2" />
+		<description text="É poção, elixir e filtro que correm nas suas veias, mais do que o sangue básico dos homens."/>
+		<primarybuff id="1" amount="2"/>
 		<!-- sag -->
-		<secondarybuff id="21" amount="1" />
+		<secondarybuff id="21" amount="1"/>
 		<!-- alchemy -->
-		<secondarybuff id="13" amount="1" />
+		<secondarybuff id="13" amount="1"/>
 		<!-- hp regen -->
-		<secondarybuff id="14" amount="1" />
+		<secondarybuff id="14" amount="1"/>
 		<!-- mp regen -->
-		<resistbuff aethereal="2" />
+		<resistbuff aethereal="2"/>
 	</ability>
 
 	<!-- old alch skills
@@ -1634,45 +1634,45 @@
 	-->
 
 	<ability name="Blackjack" icon="skills/rogue/skill_assassination0_64.png" skill="27" level="0">
-		<targetHitEffectBuff percentage="18" name="Blackjack" after="1" />
-		<description text="You've filled one of your socks with lead shot and can use it to whack bad guys over the head, leaving them stunned by your foot odour. This ability is automatically used when the opportunity presents itself."/>
+		<targetHitEffectBuff percentage="18" name="Blackjack" after="1"/>
+		<description text="Você encheu uma das suas meias com chumbo e pode usá-la para bater nos caras maus na cabeça, deixando-os atordoados pelo cheiro dos seus pés. Essa habilidade é usada automaticamente quando a oportunidade se apresenta."/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
 	</ability>
 
 	<ability name="Slim Customer" icon="skills/rogue/skill_stealth3_64.png" skill="27" level="1">
-		<description text="They ought to be keeping an eye on you -- you're a nimble, stealthy sneak." />
+		<description text="Eles deveriam estar de olho em você – você é ágil, furtivo e sorrateiro."/>
 		<secondarybuff id="12" amount="3"/>
 		<!-- sneak -->
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
-		<primarybuff id="2" amount="1" />
+		<primarybuff id="2" amount="1"/>
 		<!-- NIM -->
 	</ability>
 
 	<ability name="Venomous Infusion" icon="skills/attack_poison64.png" skill="27" level="2" >
-		<description text="Infuse your weapon (or boot?) with a vile poison. Lasts for only a few attacks so make it count." />
-		<spell name="Venomous Infusion" />
+		<description text="Infunda sua arma (ou bota?) com um veneno vil. Dura apenas alguns ataques, então use com sabedoria."/>
+		<spell name="Venomous Infusion"/>
 	</ability>
 
 	<ability name="Sneaky Shiv" icon="skills/rogue/skill_assassination1_64.png" skill="27" level="3">
-		<targetHitEffectBuff percentage="21" name="Sneaky Shiv" />
-		<description text="Honing the skill in Adventurer Prison, you compulsively construct concealed weapons from everyday items and can use them to perform secretive attacks that may not even by noticed by the target ... until it's too late. This ability is automatically used when the opportunity presents itself."/>
+		<targetHitEffectBuff percentage="21" name="Sneaky Shiv"/>
+		<description text="Aprimorando a habilidade na Prisão de Aventureiros, você compulsivamente constrói armas ocultas a partir de itens cotidianos e pode usá-las para realizar ataques secretos que podem nem ser notados pelo alvo... até que seja tarde demais. Essa habilidade é usada automaticamente quando a oportunidade se apresenta."/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
 	</ability>
 
 	<ability name="Et tu?" icon="skills/rogue/skill_assassination2_64.png" skill="27" level="4">
-		<targetHitEffectBuff percentage="21" name="Et tu?" />
-		<description text="Advanced assassination training makes your attacks mostly deadly."/>
+		<targetHitEffectBuff percentage="21" name="Et tu?"/>
+		<description text="Treinamento avançado em assassinato torna seus ataques quase letais."/>
 		<secondarybuff id="4" amount="5"/>
 		<!-- crit -->
 	</ability>
 
 	<!-- figure this one out later.
 	<ability name="Sneak Attack" icon="skills/sneak_attack64.png" skill="27" level="4" >
-   		<description text="You are a deadly shadow - perform a sneak attack from nowhere and everywhere." />
-   		<spell name="Sneak Attack" />
+   		<description text="You are a deadly shadow - perform a sneak attack from nowhere and everywhere."/>
+   		<spell name="Sneak Attack"/>
    	</ability>
 	-->
 
@@ -1699,55 +1699,55 @@
 	-->
 
 	<ability name="Mushroom Farmer" icon="skills/skill_mushroomlore.png" skill="28" level="0">
-		<description text="You collect molds, spores, and fungus. You like to grow mushrooms on the bodies of your enemies. Sometimes this comes in handy; usually it's just weird. Spores have a chance to be automatically planted when you defeat an enemy."/>
+		<description text="Você coleta mofos, esporos e fungos. Você gosta de cultivar cogumelos nos corpos dos seus inimigos. Às vezes isso é útil; geralmente é apenas estranho. Esporos têm chance de serem plantados automaticamente quando você derrota um inimigo."/>
 		<!-- <spell name="Spore Stash"/>-->
-		<targetKillBuff name="Sporification" percentage="16" />
+		<targetKillBuff name="Sporification" percentage="16"/>
 		<resistbuff toxic="1"/>
 	</ability>
 
 	<ability name="Slime-herder" icon="skills/rogue/fungus1_64.png" skill="28" level="1">
-		<description text="By studying the lore of the Slime-herders from the Mushroom Jungles of Smome, you gain the ability to summon a fiercly loyal mushroom-beast. You can also plant a greater variety of fungi."/>
+		<description text="Estudando o folclore dos Pastores de Slime das Selvas de Cogumelos de Smome, você ganha a habilidade de invocar uma besta-cogumelo ferozmente leal. Você também pode plantar uma maior variedade de fungos."/>
 		<spell name="Summon Slime"/>
-		<targetKillBuff name="Fungling" percentage="14" />
+		<targetKillBuff name="Fungling" percentage="14"/>
 		<resistbuff toxic="1"/>
 	</ability>
 
 	<ability name="Moldsmith" icon="skills/rogue/fungus2_64.png" skill="28" level="2">
-		<description text="You can transform a mushroom into another random mushroom, if such a trick tickles your fancy. You can also grow a greater number of mushrooms at the same time."/>
+		<description text="Você pode transformar um cogumelo em outro cogumelo aleatório, se isso te agradar. Você também pode cultivar um número maior de cogumelos ao mesmo tempo."/>
 		<resistbuff toxic="1"/>
 		<spell name="Mushroom Transmutation"/>
-		<targetKillBuff name="Sporification" percentage="10" />
+		<targetKillBuff name="Sporification" percentage="10"/>
 	</ability>
 
 	<ability name="Battle Mycology" icon="skills/rogue/fungus3_64.png" skill="28" level="3">
-		<targetHitEffectBuff percentage="15" name="Mini Toxic Spore Cloud" />
-		<description text="With increased knowledge of mushrooms, you enhance your melee attacks with occasional clouds of confusing, toxic spores. You will also grow even more mushrooms, like some kind of mycological cornucopia."/>
+		<targetHitEffectBuff percentage="15" name="Mini Toxic Spore Cloud"/>
+		<description text="Com maior conhecimento de cogumelos, você aprimora seus ataques corpo a corpo com ocasionais nuvens de esporos tóxicos e confusos. Você também cultivará ainda mais cogumelos, como uma cornucópia micológica."/>
 		<resistbuff toxic="1"/>
-		<targetKillBuff name="Fungling" percentage="9" />
+		<targetKillBuff name="Fungling" percentage="9"/>
 	</ability>
 
 	<ability name="Fungal Master of Yuggoth" icon="skills/rogue/fungus4_64.png" skill="28" level="4" >
-		<description text="As the Mi-go once did (and shall again), you can summon living weapons of fungus to serve your will. You might also cause mushrooms to burst from the corpses of your fallen enemies." />
-		<resistbuff toxic="1" />
-		<spell name="Summon Mushroom Beast" />
-		<targetKillBuff name="Fungal Bloom 1" percentage="5" />
-		<targetKillBuff name="Fungal Bloom 2" percentage="5" />
+		<description text="Como os Mi-go outrora fizeram (e farão novamente), você pode invocar armas vivas de fungos para servir à sua vontade. Você também pode fazer cogumelos explodirem dos cadáveres dos seus inimigos caídos."/>
+		<resistbuff toxic="1"/>
+		<spell name="Summon Mushroom Beast"/>
+		<targetKillBuff name="Fungal Bloom 1" percentage="5"/>
+		<targetKillBuff name="Fungal Bloom 2" percentage="5"/>
 	</ability>
 
 	<ability name="Superhuman Perception" icon="skills/skill_perception.png" skill="25" level="0" >
-		<description text="You can see very well in the dark - this is useful for missing your attacks less. And finding loot." />
-		<secondarybuff id="9" amount="5" />
+		<description text="Você enxerga muito bem no escuro – isso é útil para errar menos seus ataques. E encontrar tesouros."/>
+		<secondarybuff id="9" amount="5"/>
 		<!-- edr -->
-		<secondarybuff id="18" amount="1" />
+		<secondarybuff id="18" amount="1"/>
 		<!-- sight radius -->
 		<targetKillBuff percentage="5" name="Lucky Find"/>
 	</ability>
 
 	<ability name="Highly Aware" icon="skills/rogue/perception1_64.png" skill="25" level="1" >
-		<description text="You can see very well, especially traps and other things that would do you harm. Also loot. " />
+		<description text="Você enxerga muito bem, especialmente armadilhas e outras coisas que podem te machucar. E também tesouros."/>
 		<secondarybuff id="6" amount="5"/>
 		<!-- dodge -->
-		<secondarybuff id="18" amount="1" />
+		<secondarybuff id="18" amount="1"/>
 		<!-- sight radius -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
@@ -1755,10 +1755,10 @@
 	</ability>
 
 	<ability name="Trap Sense" icon="skills/rogue/perception2_64.png" skill="25" level="2" >
-		<description text="You can see traps very nicely, and are better able to dodge attacks against you. Also loot." />
-		<secondarybuff id="6" amount="5" />
+		<description text="Você enxerga armadilhas muito bem e consegue desviar melhor de ataques contra você. E também tesouros."/>
+		<secondarybuff id="6" amount="5"/>
 		<!-- dodge -->
-		<secondarybuff id="18" amount="1" />
+		<secondarybuff id="18" amount="1"/>
 		<!-- sight radius -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
@@ -1768,11 +1768,11 @@
 	</ability>
 
 	<ability name="Second Sight" icon="skills/rogue/perception3_64.png" skill="25" level="3" >
-		<spell name="Second Sight" />
-		<description text="By using your third, fourth, and sometimes fifth eyes, you can nearly see the future. This may prove useful in a scuffle. Also loot." />
-		<secondarybuff id="9" amount="5" />
+		<spell name="Second Sight"/>
+		<description text="Usando seu terceiro, quarto e às vezes quinto olhos, você quase consegue ver o futuro. Isso pode ser útil em uma briga. E também tesouros."/>
+		<secondarybuff id="9" amount="5"/>
 		<!-- edr -->
-		<secondarybuff id="18" amount="1" />
+		<secondarybuff id="18" amount="1"/>
 		<!-- sight radius -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
@@ -1780,87 +1780,87 @@
 	</ability>
 
 	<ability name="Third Sight" icon="skills/see_invisible64.png" skill="25" level="4" >
-		<description text="Reveal all that is hidden. Especially more loot." />
-		<secondarybuff id="9" amount="5" />
+		<description text="Revele tudo o que está escondido. Especialmente mais tesouros."/>
+		<secondarybuff id="9" amount="5"/>
 		<!-- edr -->
-		<secondarybuff id="18" amount="1" />
+		<secondarybuff id="18" amount="1"/>
 		<!-- sight radius -->
 		<targetKillBuff percentage="5" name="Luckiest Find"/>
-		<spell name="Third Sight" />
+		<spell name="Third Sight"/>
 	</ability>
 
 	<ability name="Eye Lasers" icon="skills/eye_lasers64.png" skill="25" level="5" >
-		<description text="Yes, really: If you can see it you can kill it. (Better yet: The greater your sight radius, the more damage you do.)" />
-		<spell name="Eye Laser Blast" />
+		<description text="Sim, realmente: Se você pode ver, você pode matar. (Melhor ainda: Quanto maior o seu raio de visão, mais dano você causa.)"/>
+		<spell name="Eye Laser Blast"/>
 	</ability>
 
 	<ability name="Rod Charge" icon="skills/wizard/wands0_64.png" skill="30" level="0" >
-		<description text="You've stopped sticking the wand in your ear. This is good, you were starting to run out of ears." />
-		<primarybuff id="1" amount="1" />
+		<description text="Você parou de enfiar a varinha no ouvido. Isso é bom, você estava começando a ficar sem orelhas."/>
+		<primarybuff id="1" amount="1"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
 	</ability>
 
 	<ability name="Baton Polisher" icon="skills/wizard/wands1_64.png" skill="30" level="1" >
-		<description text="Proper wand polishing is essential for every magician. Just don't do it too much or you'll go blind." />
-		<primarybuff id="1" amount="1" />
+		<description text="Polir a varinha corretamente é essencial para todo mago. Só não faça isso demais ou você vai ficar cego."/>
+		<primarybuff id="1" amount="1"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
-		<secondarybuff id="11" amount="2" />
+		<secondarybuff id="11" amount="2"/>
 		<!-- resist -->
 	</ability>
 
 	<ability name="Rhabdomantic Hacker" icon="skills/wizard/wands2_64.png" skill="30" level="2" >
-		<description text="This swishing and flicking is no way for a man to spend his evenings." />
-		<primarybuff id="1" amount="1" />
+		<description text="Esse balançar e sacudir não é maneira de passar suas noites."/>
+		<primarybuff id="1" amount="1"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
-		<secondarybuff id="11" amount="2" />
+		<secondarybuff id="11" amount="2"/>
 		<!-- resist -->
 	</ability>
 
 	<ability name="Adept Wandtwirler" icon="skills/skill_wandlore.png" skill="30" level="3" >
-		<description text="Just remember, it's not the size of your wand, it's who you shoot it at." />
-		<primarybuff id="1" amount="1" />
+		<description text="Lembre-se, não é o tamanho da sua varinha, é como você atira com ela."/>
+		<primarybuff id="1" amount="1"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
 		<damagebuff aethereal="1"/>
-		<secondarybuff id="11" amount="3" />
+		<secondarybuff id="11" amount="3"/>
 		<!-- resist -->
 	</ability>
 
 	<ability name="The Power of the Rod" icon="skills/power_of_the_rod64.png" skill="30" level="4" >
-		<description text="Your wands practically vibrate with magical energies - at least, until they run down." />
-		<primarybuff id="1" amount="1" />
+		<description text="Suas varinhas praticamente vibram com energias mágicas – pelo menos, até ficarem sem carga."/>
+		<primarybuff id="1" amount="1"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
 		<damagebuff aethereal="2"/>
-		<secondarybuff id="11" amount="3" />
+		<secondarybuff id="11" amount="3"/>
 		<!-- resist -->
 	</ability>
 
 	<ability name="Aetherweaver" icon="skills/aetherweaver64.png" skill="30" level="5" >
-		<description text="You can twist together famine with plenty, pride with shame, and any other number of abstract analogies into rods built on the pure strain of contradiction." />
-		<primarybuff id="1" amount="2" />
+		<description text="Você pode entrelaçar fome com fartura, orgulho com vergonha, e qualquer outra série de analogias abstratas em varinhas construídas com a pura essência da contradição."/>
+		<primarybuff id="1" amount="2"/>
 		<!-- sag -->
 		<secondarybuff id="23" amount="1"/>
 		<!-- wand -->
 		<damagebuff aethereal="3"/>
-		<secondarybuff id="11" amount="5" />
+		<secondarybuff id="11" amount="5"/>
 		<!-- resist -->
 	</ability>
 
 	<!--
 	<ability name="Rodmaster" icon="skills/skill_wandlore.png" skill="30" level="4" >
-  		<description text="YOU are the rodmaster. YOU have the power in your hands." />
-  		<primarybuff id="1" amount="1" />
+  		<description text="YOU are the rodmaster. YOU have the power in your hands."/>
+  		<primarybuff id="1" amount="1"/>
   		<secondarybuff id="15" amount="1"/> 
   	</ability>
   	-->
 
 	<ability name="Rogue Archaeologist" icon="skills/skill_archaeology.png" skill="31" level="0">
-		<description text="It's not the years, it's the mileage. Being a Rogue Archaeologist has enhanced your roguish powers. These are helpful for getting out of sticky situations and avoiding traps."/>
-		<primarybuff id="2" amount="1" />
+		<description text="Não são os anos, é a quilometragem. Ser um Arqueólogo Ladino aprimorou seus poderes de ladinagem. Esses poderes são úteis para sair de situações complicadas e evitar armadilhas."/>
+		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
@@ -1870,20 +1870,20 @@
 
 	<ability name="It Belongs In A Museum" icon="skills/rogue/skill_archaeology0_64.png" skill="31" level="1">
 		<spell name="It Belongs In A Museum"/>
-		<description text="Send an artifact to the giant, secret scary government room full of boxes, and gain experience equal to its value."/>
-		<primarybuff id="2" amount="1" />
+		<description text="Envie um artefato para o gigante e secreto quarto assustador do governo cheio de caixas, e ganhe experiência equivalente ao seu valor."/>
+		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 	</ability>
 
 	<ability name="Remember Your Charlemagne" icon="skills/rogue/charlemagne64.png" skill="31" level="2" >
-		<description text="'Let my armies be the rocks and the trees and the birds in the sky... '" />
-		<spell name="Remember Your Charlemagne" />
+		<description text="'Deixe que meus exércitos sejam as rochas e as árvores e os pássaros no céu...'"/>
+		<spell name="Remember Your Charlemagne"/>
 	</ability>
 
 	<ability name="This Translation is All Wrong!" icon="skills/rogue/skill_archaeology2_64.png" skill="31" level="3">
 		<spell name="This Translation Is All Wrong!"/>
-		<description text="You can prove that an artifact was not, in fact, what everyone thought it was all along."/>
-		<primarybuff id="2" amount="1" />
+		<description text="Você pode provar que um artefato não era, de fato, o que todos pensavam que era desde o início."/>
+		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
@@ -1891,45 +1891,45 @@
 
 	<ability name="Ancient Kronian Ritual" icon="skills/rogue/skill_archaeology1_64.png" skill="31" level="4">
 		<spell name="Ancient Kronian Ritual"/>
-		<description text="Recharges an Anvil of Krong. The sad thing is, the Ancient Kronian Ritual mainly consists of sitting around the Anvil moping, drinking beer and complaining about why you can't get any Ancient Kronian Women."/>
-		<primarybuff id="2" amount="1" />
+		<description text="Recarrega uma Bigorna de Krong. A coisa triste é que o Ritual Antigo de Krong consiste basicamente em sentar ao redor da bigorna lamentando, bebendo cerveja e reclamando por que você não consegue nenhuma Mulher Antiga de Krong."/>
+		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
 	</ability>
 
 	<ability name="Honourary Armourer" icon="skills/rogue/smithing0_64.png" skill="32" level="0" >
-		<description text="After many bruised thumbs and burns, you know the very basics of bashing things out of metal." />
-		<secondarybuff id="19" amount="1" />
+		<description text="Após muitos polegares machucados e queimaduras, você conhece o básico de forjar coisas em metal."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
-		<primarybuff id="0" amount="1" />
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 	</ability>
 
 	<ability name="Ingoteer" icon="skills/rogue/smithing1_64.png" skill="32" level="1" >
-		<description text="This is the art of mining cubes then crafting them into useful shapes. You've also picked up something about traps." />
-		<secondarybuff id="19" amount="1" />
+		<description text="Essa é a arte de minerar cubos e depois moldá-los em formas úteis. Você também aprendeu algo sobre armadilhas."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
-		<primarybuff id="0" amount="1" />
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 	</ability>
 
 	<ability name="Metallurgical Practitioner" icon="skills/rogue/smithing2_64.png" skill="32" level="2" >
-		<description text="You're a practical and practiced metallurgist." />
-		<secondarybuff id="19" amount="1" />
+		<description text="Você é um metalurgista prático e experiente."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
-		<primarybuff id="0" amount="1" />
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="Forgekeeper" icon="skills/rogue/smithing3_64.png" skill="32" level="3" >
-		<description text="You like it hot." />
-		<secondarybuff id="19" amount="1" />
+		<description text="Você gosta de calor."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
-		<primarybuff id="0" amount="1" />
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
@@ -1937,88 +1937,88 @@
 	</ability>
 
 	<ability name="Chosen of Krong" icon="skills/skill_smithing.png" skill="32" level="4" >
-		<description text="Heft well your mighty hammer, for your metalcraft is a divine calling." />
-		<secondarybuff id="19" amount="1" />
+		<description text="Erga bem o seu poderoso martelo, pois sua metalurgia é um chamado divino."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
-		<primarybuff id="0" amount="1" />
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 		<resistbuff conflagratory="2"/>
 		<damagebuff crushing="1"/>
 	</ability>
 
 	<ability name="The World-Hammer" icon="skills/forge_lord64.png" skill="32" level="5" >
-		<description text="What hath these hands wrought? Why, crafts which even the Forge-Lord of Ulm covets." />
-		<secondarybuff id="19" amount="1" />
+		<description text="O que essas mãos criaram? Artes que até o Senhor das Forjas de Ulm cobiça."/>
+		<secondarybuff id="19" amount="1"/>
 		<!-- smith -->
-		<primarybuff id="0" amount="2" />
+		<primarybuff id="0" amount="2"/>
 		<!-- BUR -->
 		<resistbuff transmutative="1"/>
 		<damagebuff crushing="1"/>
 	</ability>
 
 	<ability name="Dabbling Trappist" icon="skills/rogue/trappist64.png" skill="33" level="0" >
-		<description text="You dabble in the construction and disarming of traps. It's amazing you've still got most of your fingers." />
-		<primarybuff id="5" amount="1" />
+		<description text="Você se aventura na construção e desarme de armadilhas. É impressionante que você ainda tenha a maioria dos seus dedos."/>
+		<primarybuff id="5" amount="1"/>
 		<!-- sav -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
 	<ability name="Mechanicker" icon="skills/rogue/mechanicker64.png" skill="33" level="1" >
-		<description text="There's hope yet for a career in repairing (notoriously unreliable) Dwarven Panini Presses." />
-		<primarybuff id="5" amount="1" />
+		<description text="Ainda há esperança para uma carreira consertando (notoriamente pouco confiáveis) Prensas de Panini Anãs."/>
+		<primarybuff id="5" amount="1"/>
 		<!-- sav -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
 	<ability name="Cog-jockey" icon="skills/rogue/cog-jockey64.png" skill="33" level="2" >
-		<description text="Now you know the difference between a mainspring and an escape wheel and can set cogs spinning at separate but complementary gear ratios." />
-		<primarybuff id="5" amount="1" />
+		<description text="Agora você sabe a diferença entre uma mola mestra e uma roda de escape e consegue ajustar engrenagens para girarem em ritmos complementares."/>
+		<primarybuff id="5" amount="1"/>
 		<!-- sav -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
 		<secondarybuff id="16" amount="2"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
 	<ability name="Inventor" icon="skills/rogue/inventor64.png" skill="33" level="3" >
-		<description text="Your scientific genius is such that pitchfork-wielding peasants may pose a serious hazard." />
-		<primarybuff id="5" amount="1" />
+		<description text="Seu gênio científico é tal que camponeses com forquilhas podem representar um sério perigo."/>
+		<primarybuff id="5" amount="1"/>
 		<!-- sav -->
 		<secondarybuff id="16" amount="1"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
 	<ability name="Chief Artificer" icon="skills/skill_tinkerer.png" skill="33" level="4" >
-		<description text="You're a master of the mechanical philosophies. You see the world's wheels turning and all of Being rotating around. It's enough to make one nauseous." />
-		<primarybuff id="5" amount="1" />
+		<description text="Você é mestre das filosofias mecânicas. Você vê as engrenagens do mundo girando e todo o Ser rotacionando ao redor. É o suficiente para deixar alguém nauseado."/>
+		<primarybuff id="5" amount="1"/>
 		<!-- sav -->
 		<secondarybuff id="16" amount="2"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
 	<ability name="Music of the Gears" icon="skills/music_of_the_gears64.png" skill="33" level="5" >
-		<description text="Every gear in place, every cam clacking in tune; Do you hear it? " />
-		<primarybuff id="5" amount="2" />
+		<description text="Cada engrenagem em seu lugar, cada came batendo em sintonia; Você ouve?"/>
+		<primarybuff id="5" amount="2"/>
 		<!-- sav -->
-		<primarybuff id="2" amount="2" />
+		<primarybuff id="2" amount="2"/>
 		<!-- nim -->
 		<secondarybuff id="16" amount="3"/>
 		<!-- trap level -->
-		<secondarybuff id="20" amount="1" />
+		<secondarybuff id="20" amount="1"/>
 		<!-- tinkering -->
 	</ability>
 
@@ -2031,51 +2031,51 @@
 	<!-- generic weapon skill; but make it use movement and sneakiness -->
 
 	<ability name="Daggers" icon="skills/daggery64.png" skill="45" startSkill="1">
-		<description text="Daggers are sneaky! "/>
+		<description text="Adagas são sorrateiras!"/>
 	</ability>
 
 	<ability name="Liechtenauer's Switcheroo" icon="skills/switcheroo64.png" skill="45" level="0" >
-		<description text="Pull the old Umkehrung on an adjacent opponent, switching places with them while sneaking in an extra daggery attack." />
-		<spell name="Liechtenauer's Switcheroo" />
-		<primarybuff id="2" amount="1" />
+		<description text="Use o velho Umkehrung em um oponente adjacente, trocando de lugar com ele enquanto realiza um ataque furtivo com adaga."/>
+		<spell name="Liechtenauer's Switcheroo"/>
+		<primarybuff id="2" amount="1"/>
 		<!-- NIM -->
 	</ability>
 
 	<ability name="Two Attacks One Dagger!" icon="skills/daggery64.png" skill="45" level="1" >
-		<targetHitEffectBuff percentage="30" name="Two Attacks One Dagger!" />
-		<damagebuff piercing="1" />
-		<description text="With this skill you have a chance of sneaking in an extra attack with your dagger during combat that does extra sneaky damage depending on how sneaky you are." />
-		<secondarybuff id="8" amount="2" />
+		<targetHitEffectBuff percentage="30" name="Two Attacks One Dagger!"/>
+		<damagebuff piercing="1"/>
+		<description text="Com essa habilidade, você tem chance de realizar um ataque extra furtivo com sua adaga durante o combate que causa dano extra dependendo de quão sorrateiro você é."/>
+		<secondarybuff id="8" amount="2"/>
 		<!-- counter -->
 	</ability>
 
 	<ability name="Silent Deadly Dagger Sneaky Stance" icon="skills/dagger_offensive64.png" skill="45" level="2" >
-		<description text="What is more deadly than the attack never seen? This combat stance enhances your sneakiness and chance to score critical hits on enemies at the cost of raw melee power." />
-		<spell name="Silent Deadly Dagger Sneaky Stance" />
-		<secondarybuff id="12" amount="6" />
+		<description text="O que é mais mortal que o ataque nunca visto? Essa postura de combate aprimora sua furtividade e chance de dar golpes críticos em inimigos, à custa de poder bruto de combate."/>
+		<spell name="Silent Deadly Dagger Sneaky Stance"/>
+		<secondarybuff id="12" amount="6"/>
 		<!-- sneak -->
 	</ability>
 
 	<ability name="Blood Geyser Strike" icon="skills/blood_geyser_strike64.png" skill="45" level="3" >
-		<description text="Providing your enemy has veins, this attack spills the precious fluid contained therein. It doesn't work terribly well on undead robots made of wood. Damage scales to nimbleness." />
-		<spell name="Blood Geyser Strike" />
-		<damagebuff piercing="1" />
-		<secondaryBuff id="9" amount="2" />
+		<description text="Se seu inimigo tem veias, este ataque derrama o precioso líquido que contém. Não funciona muito bem em robôs mortos-vivos feitos de madeira. O dano escala com agilidade."/>
+		<spell name="Blood Geyser Strike"/>
+		<damagebuff piercing="1"/>
+		<secondaryBuff id="9" amount="2"/>
 		<!-- EDR -->
 	</ability>
 
 	<ability name="Very Sharp Wall of Blades Stance" icon="skills/dagger_defensive64.png" skill="45" level="4" >
-		<description text="Who would dare try to breach a wall made of very sharp, very fast blades? This combat stance enhances your ability to block and counter attacks at the cost of raw melee power." />
-		<spell name="Very Sharp Wall of Blades Stance" />
-		<damagebuff piercing="1" />
-		<secondaryBuff id="9" amount="3" />
+		<description text="Quem ousaria tentar atravessar uma parede feita de lâminas muito afiadas e muito rápidas? Essa postura de combate aprimora sua habilidade de bloquear e contra-atacar, à custa de poder bruto de combate."/>
+		<spell name="Very Sharp Wall of Blades Stance"/>
+		<damagebuff piercing="1"/>
+		<secondaryBuff id="9" amount="3"/>
 		<!-- EDR -->
 	</ability>
 
 	<ability name="Devouring Wound Technique" icon="skills/thaumitic_strike64.png" skill="45" level="5" >
-		<description text="Just one wound inflicted by this most horrible technique will devour an enemy from the inside. This is not generally considered an honourable way to fight, no matter what the Monks of Assassination would have you believe. Damage scales by Caddishness." />
-		<spell name="Devouring Wound Technique" />
-		<secondaryBuff id="9" amount="5" />
+		<description text="Um único golpe infligido por essa técnica horrível devorará um inimigo de dentro para fora. Isso não é geralmente considerado uma maneira honrosa de lutar, não importa o que os Monges de Assassinato digam. O dano escala com Caddishness."/>
+		<spell name="Devouring Wound Technique"/>
+		<secondaryBuff id="9" amount="5"/>
 		<!-- EDR -->
 	</ability>
 
@@ -2083,53 +2083,53 @@
 	<!-- generic weapon skill; but make it use self/target-pushing and positioning -->
 
 	<ability name="Polearms" icon="skills/polearming64.png" skill="46" startSkill="1">
-		<description text="When life gives you a Halberd ... what?"/>
+		<description text="Quando a vida lhe dá uma alabarda... o que fazer?"/>
 	</ability>
 
 	<ability name="Talhoffer's Lunge Strike" icon="skills/polearm_longrange64.png" skill="46" level="0">
-		<description text="Why not strike from far away to better keep your foes at bay? You begin now to understand why Talhoffer lived so long." />
-		<spell name="Talhoffer's Lunge Strike" />
-		<primarybuff id="0" amount="1" />
+		<description text="Por que não atacar de longe para manter seus inimigos à distância? Agora você começa a entender por que Talhoffer viveu tanto tempo."/>
+		<spell name="Talhoffer's Lunge Strike"/>
+		<primarybuff id="0" amount="1"/>
 		<!-- BUR -->
 	</ability>
 
 	<ability name="The Sensible Swiss Defensive Stance" icon="skills/polearm_defensive64.png" skill="46" level="1" >
-		<description text="If neutrality doesn't succeed, enact this extremely sensible defensive stance to keep your enemies at bay! Enhances defensive abilities and allows repelling strikes at the cost of offensive damage." />
-		<spell name="The Sensible Swiss Defensive Stance" />
-		<secondaryBuff id="7" amount="2" />
+		<description text="Se a neutralidade não funcionar, adote essa postura defensiva extremamente sensata para manter seus inimigos à distância! Aprimora habilidades defensivas e permite ataques de repulsão à custa de dano ofensivo."/>
+		<spell name="The Sensible Swiss Defensive Stance"/>
+		<secondaryBuff id="7" amount="2"/>
 		<!-- block -->
 	</ability>
 
 	<ability name="Very Long Stick Damage Enhancement Training" icon="skills/polearm_damage64.png" skill="46" level="2" >
-		<description text="It's not the length of your halberd that matters, it's how hard you hit monsters with it!" />
-		<secondarybuff id="2" amount="4" />
+		<description text="Não é o comprimento da sua alabarda que importa, é o quão forte você acerta os monstros com ela!"/>
+		<secondarybuff id="2" amount="4"/>
 		<!-- melee power -->
-		<secondaryBuff id="4" amount="-2" />
+		<secondaryBuff id="4" amount="-2"/>
 		<!-- crit -->
 	</ability>
 
 	<ability name="Wallenstein's Inevitable Victory Stance" icon="skills/polearm_offensive64.png" skill="46" level="3" >
-		<description text="Enhance your basic damage and deliver especially overwhelming attacks through the power of your inevitable victory. This focus on solid offense does somewhat reduce the chance of countering, blocking, and critical hits, but who needs those?" />
-		<spell name="Wallenstein's Inevitable Victory Stance" />
-		<!--<secondarybuff id="2" amount="1" />-->
+		<description text="Aprimore seu dano básico e realize ataques especialmente esmagadores através do poder de sua vitória inevitável. Esse foco em ofensiva sólida reduz um pouco a chance de contra-ataques, bloqueios e acertos críticos, mas quem precisa deles?"/>
+		<spell name="Wallenstein's Inevitable Victory Stance"/>
+		<!--<secondarybuff id="2" amount="1"/>-->
 		<!-- melee power -->
-		<secondaryBuff id="9" amount="2" />
+		<secondaryBuff id="9" amount="2"/>
 		<!-- EDR -->
 	</ability>
 
 	<ability name="Count Tilly's Long-range Pike Bombardment" icon="skills/polearm_linear64.png" skill="46" level="4" >
-		<description text="When Count Tilly tells you to attack the fellow on the next street over, you find a way to make it work. This long-range linear attack may stun enemies." />
-		<spell name="Count Tilly's Long-range Pike Bombardment" />
-		<!--<secondarybuff id="2" amount="1" />-->
+		<description text="Quando o Conde Tilly lhe diz para atacar o sujeito na rua ao lado, você encontra uma maneira de fazer isso funcionar. Este ataque linear de longo alcance pode atordoar os inimigos."/>
+		<spell name="Count Tilly's Long-range Pike Bombardment"/>
+		<!--<secondarybuff id="2" amount="1"/>-->
 		<!-- melee power -->
-		<secondaryBuff id="9" amount="3" />
+		<secondaryBuff id="9" amount="3"/>
 		<!-- EDR -->
 	</ability>
 	
 	<ability name="Pope of the Polearm Mastery Sweep" icon="skills/polearm_sweep64.png" skill="46" level="5" >
-		<spell name="Pope of the Polearm Mastery Sweep" />
-		<description text="Sweep aside your enemies like the dirt they are! Performs a stunning knockback area-attack."/>
-		<secondaryBuff id="9" amount="5" />
+		<spell name="Pope of the Polearm Mastery Sweep"/>
+		<description text="Afaste seus inimigos como a sujeira que eles são! Realiza um ataque em área que derruba e atordoa."/>
+		<secondaryBuff id="9" amount="5"/>
 		<!-- EDR -->
 	</ability>
 </skillDB>
