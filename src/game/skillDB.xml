@@ -395,64 +395,72 @@
 	<!-- Wizard Skills -->
 
 	<ability name="Sanguinista" icon="skills/wizard/bloodmagic1_64.png" skill="23" level="0">
-		<description text="You know how to take magic from the blood of your enemies and gain mana after each kill. This doesn't work on vegetables, constructs, or undead of course."/>
+		<description text="Você sabe como extrair magia do sangue de seus inimigos e ganhar mana a cada morte. Isso, claro, não funciona com vegetais, construtos ou mortos-vivos."/>
 		<targetKillBuff percentage="100" name="Blood Mana" />
 		<resistbuff righteous="-1" />
 	</ability>
+
 	<ability name="Vital Siphon" icon="skills/vital_siphon64.png" skill="23" level="1" >
-		<description text="Use of the dark art of vital siphoning enables your melee attacks to have a chance to drain the vital energies of your enemies and transfer them to yourself." />
+		<description text="Usando a arte sombria de drenar vitalidade, seus ataques corpo a corpo podem sugar as energias vitais de seus inimigos e transferi-las para você."/>
 		<targetHitEffectBuff percentage="30" name="Vital Siphon" />
 		<resistbuff righteous="-1" />
 	</ability>
+
 	<ability name="Spirit Stealer" icon="skills/wizard/bloodmagic2_64.png" skill="23" level="2">
-		<description text="By robbing the spirit of a slain enemy (who indeed has a spirit in the first place), you can enhance your magical power. You have a chance to steal the spirit of an enemy when they die."/>
+		<description text="Ao roubar o espírito de um inimigo derrotado (que precisa ter um espírito, é claro), você pode aumentar seu poder mágico. Há uma chance de capturar o espírito de um inimigo ao morrer."/>
 		<targetKillBuff percentage="50" name="Spirit Steal"/>
 		<resistbuff righteous="-1" />
 	</ability>
+
 	<ability name="Haematic Phylactery" icon="skills/haematic_phylactery64.png" skill="23" level="3" >
-		<description text="Pour your blood and soul into a secret hidden thing that you can tap when the need is greatest - or whenever you fancy a nip of forbidden sanguine juices."/>
+		<description text="Derrame seu sangue e alma em um artefato secreto e oculto que você poderá acessar nos momentos de maior necessidade - ou sempre que tiver vontade de uma dose proibida de suco sanguíneo."/>
 		<resistbuff righteous="-1" />
 		<spell name="Create Haematic Phylactery" />
 	</ability>
+
 	<ability name="Soul Collector" icon="skills/wizard/bloodmagic3_64.png" skill="23" level="4">
-		<description text="You can fuel magical acts by using the harvested souls of your fallen foes, if you manage to collect them. Do remember that robots, undead, and vegetables do not have souls."/>
+		<description text="Você pode alimentar atos mágicos usando as almas colhidas de seus inimigos caídos, desde que consiga coletá-las. Lembre-se de que robôs, mortos-vivos e vegetais não possuem almas."/>
 		<!-- doesn't work on vegetables or construct -->
 		<targetKillBuff percentage="50" name="Soul Steal"/>
 		<resistbuff righteous="-1" />
 	</ability>
 
 	<ability name="Linewalker" icon="skills/wizard/leylines0_64.png" skill="24" level="0">
-		<description text="You have the ability to tap theinvisible strands of power which bind the world and the aether together. Increases mana regeneration and grants a chance to regain mana when casting spells."/>
+		<description text="Você tem a habilidade de tocar as linhas invisíveis de poder que conectam o mundo ao éter. Aumenta a regeneração de mana e concede uma chance de recuperar mana ao lançar feitiços."/>
 		<secondarybuff id="14" amount="1"/>
 		<!-- mana regen -->
 		<triggeroncast percent="25" name="Regen Mana 1"/>
 	</ability>
+
 	<ability name="Thaumaturgic Tap" icon="skills/magic_tap64.png" skill="24" level="1">
 		<spell name="Leyline Siphoning" />
-		<description text="Using your knowledge of leylines, you can occasionally tap the aethereal realm to replenish your vital energies." />
+		<description text="Com seu conhecimento das linhas de energia, você pode ocasionalmente acessar o reino etéreo para restaurar suas energias vitais."/>
 	</ability>
+
 	<ability name="Conduit" icon="skills/wizard/leylines1_64.png" skill="24" level="2">
-		<description text="The magic flows effortlessly through you! Grants even more mana regeneration."/>
+		<description text="A magia flui sem esforço através de você! Concede ainda mais regeneração de mana."/>
 		<secondarybuff id="14" amount="1"/>
 		<!-- mana regen -->
 		<secondarybuff id="1" amount="3"/>
 		<!-- mana -->
 	</ability>
+
 	<ability name="Channeller" icon="skills/wizard/leylines2_64.png" skill="24" level="3">
-		<description text="At one with the leylines, you are a font of magical energy. Guess what? More mana!"/>
+		<description text="Em perfeita sintonia com as linhas de energia, você se torna uma fonte de poder mágico. Adivinha? Mais mana!"/>
 		<secondarybuff id="14" amount="1"/>
 		<!-- mana regen -->
 		<secondarybuff id="1" amount="10"/>
 		<!-- mana -->
 		<triggeroncast percent="5" name="Thaumaturgic Conflux" />
 	</ability>
+
 	<ability name="Invisible Geometries" icon="skills/invisible_geometries64.png" skill="24" level="4" >
 		<spell name="Invisible Geometries" />
-		<description text="A master of leylines can use invisible geometries to move-without-moving -- but only in cardinal directions. Be warned though, for moving through the aethereal realm greatly saps magical strength."/>
+		<description text="Um mestre das linhas de energia pode usar geometrias invisíveis para se mover sem se mover - mas apenas em direções cardeais. Cuidado, pois atravessar o reino etéreo consome bastante força mágica."/>
 	</ability>
 
 	<ability name="Certified Mage" icon="skills/wizard/magictraining0_64.png" skill="22" level="0">
-		<description text="Magic Community College is starting to really pay off - your spellpower and mana pool are increased."/>
+		<description text="As aulas no Colégio Comunitário de Magia finalmente estão valendo a pena - seu poder mágico e reserva de mana aumentaram."/>
 		<primarybuff id="5" amount="1" />
 		<!-- savvy -->
 		<secondarybuff id="3" amount="1"/>
@@ -460,29 +468,33 @@
 		<secondarybuff id="1" amount="5"/>
 		<!-- mana -->
 	</ability>
+
 	<ability name="License To Cast" icon="skills/magic_license64.png" skill="22" level="1" >
-		<description text="You have a license to cast and to take away the right to cast. Any monster hit by this spell will lose their casting ability for a short time."/>
+		<description text="Você tem uma licença para lançar feitiços e tirar o direito de outros lançarem. Qualquer monstro atingido por este feitiço perderá temporariamente a habilidade de conjurar."/>
 		<secondarybuff id="3" amount="1"/>
 		<!-- spellpower -->
 		<primarybuff id="5" amount="1" />
 		<!-- savvy -->
 		<spell name="Thaumoentropic Missile" />
 	</ability>
+
 	<ability name="Wizarding Associate" icon="skills/wizard/magictraining1_64.png"  skill="22" level="2">
-		<description text="As a dues-paying member of the Wizarding Association, you receive a 5% discount on conference fees and a complimentary Wizarding Association membership card which you really ought to get laminated."/>
+		<description text="Como um membro pagante da Associação de Feiticeiros, você recebe 5% de desconto nas taxas de conferências e um cartão de membro da Associação de Feiticeiros, que você realmente deveria plastificar."/>
 		<secondarybuff id="1" amount="10"/>
 		<!-- mana -->
 		<primarybuff id="5" amount="1" />
 		<!-- savvy -->
 	</ability>
+
 	<ability name="Extra-planar Concentration" icon="skills/extraplanar_concentration64.png" skill="22" level="3" >
 		<spell name="Extra-planar Concentration" />
-		<description text="Extremely intense concentration allows you to greatly increase your mana regeneration for a short while. Such concentration may cause you to forget that you're in a dungeon filled with murderous monsters, so please be mindful of your surroundings when entering this state of mind." />
+		<description text="Uma concentração extremamente intensa permite aumentar drasticamente sua regeneração de mana por um curto período. Tal concentração pode fazer você esquecer que está em uma masmorra cheia de monstros assassinos, então fique atento ao seu redor ao entrar nesse estado mental."/>
 		<primarybuff id="5" amount="1" />
 		<!-- savvy -->
 	</ability>
+
 	<ability name="Master of Magic" icon="skills/wizard/magictraining2_64.png"  skill="22" level="4">
-		<description text="When once you were the apprentice, now you are the master."/>
+		<description text="Antes você era o aprendiz, agora é o mestre."/>
 		<primarybuff id="1" amount="5"/>
 		<!-- sagacity -->
 		<primarybuff id="5" amount="5"/>
@@ -493,26 +505,30 @@
 
 	<ability name="Blood Sucker" icon="skills/skill_vampirism.png" skill="13" level="0">
 		<targetHitEffectBuff percentage="100" name="Vampirism Attack" />
-		<description text="Your melee attacks are stronger and drain life from your enemies."/>
+		<description text="Seus ataques corpo a corpo são mais fortes e drenam a vida de seus inimigos."/>
 		<resistbuff necromantic="1" />
 		<!-- go for it, Necronomiconomists -->
 	</ability>
+
 	<ability name="Drinker of the Dead" icon="skills/wizard/vampirism1_64.png" skill="13" level="1">
 		<spell name="Corpse Drain" />
-		<description text="Drain corpses of their blood to gain (un)life. Bottoms up!"/>
+		<description text="Drene o sangue de cadáveres para ganhar (des)vida. Saúde!"/>
 	</ability>
+
 	<ability name="Sparkly" icon="skills/wizard/vampirism2_64.png" skill="13" level="2">
 		<spell name="Sparkly Glamour"/>
-		<description text="You can dazzle your enemies to leave them stunned by your spooky, sparkly vampire glamour. This also saps some of their life-force. Because seriously."/>
+		<description text="Você pode deslumbrar seus inimigos, deixando-os atordoados com seu glamour vampírico assustador e cintilante. Isso também drena um pouco da força vital deles. Porque, sinceramente."/>
 	</ability>
+
 	<ability name="Psychic Vampire" icon="skills/psychic_vampire64.png" skill="13" level="3" >
 		<targetHitEffectBuff percentage="50" name="Psychic Vampire" />
-		<description text="Your spooky vampiric mind powers allow your melee attacks a chance to siphon off mana and wreak confusion in your enemies." />
+		<description text="Seus poderes mentais vampíricos assustadores permitem que seus ataques corpo a corpo tenham a chance de sugar mana e causar confusão nos inimigos."/>
 		<resistbuff necromantic="1" />
 		<!-- go for it, Necronomiconomists -->
 	</ability>
+
 	<ability name="Transylvation" icon="skills/batty64.png" skill="13" level="4" >
-		<description text="You can transform into a batty to make your escape. REEeee! (That's the sound a bat makes.)"/>
+		<description text="Você pode se transformar em um morcego para fugir. REEeee! (Esse é o som que um morcego faz.)"/>
 		<spell name="Batty Form" />
 	</ability>
 
@@ -524,39 +540,43 @@
 
 	<ability name="Zombyfycation" icon="skills/spells/zombyfycation64.png" skill="15" level="0">
 		<spell name="Zombyfycation"/>
-		<description text="Reduce, re-use, recycle: after reducing your enemy to a bloody corpse, bring them back to life as a 'formerly 
-  dead' servant who will defend you until they die again."/>
+		<description text="Reduzir, reutilizar, reciclar: depois de transformar seu inimigo em um cadáver ensanguentado, traga-o de volta à vida como um 'ex-morto' servo que o defenderá até morrer de novo."/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 	</ability>
+
 	<ability name="Knit Tissue" icon="skills/spells/restoration64.png" skill="15" level="1">
 		<spell name="Knit Tissue"/>
-		<description text="This spell pieces together pieces of you that have fallen off, torn apart, mangled, punctured, or otherwise smushed. It's a messy sort of healing."/>
+		<description text="Este feitiço remenda pedaços de você que caíram, foram rasgados, dilacerados, perfurados ou esmagados. É uma cura bem bagunçada."/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 	</ability>
+
 	<ability name="Fleshbore" icon="skills/spells/fleshbore64.png" skill="15" level="2">
 		<spell name="Fleshbore"/>
-		<description text="Fleshy, awful debuff that rends and tears the flesh of an enemy."/>
+		<description text="Um terrível e carnudo debuff que dilacera a carne do inimigo."/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 	</ability>
+
 	<ability name="Meatshield" icon="skills/spells/meatshield64.png" skill="15" level="3">
 		<spell name="Meatshield"/>
-		<description text="The Meatshield enhances your life-force and regenerative powers."/>
+		<description text="O Escudo de Carne melhora sua força vital e poderes regenerativos."/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 		<resistbuff slashing="1" crushing="1" />
 	</ability>
+
 	<ability name="Corpus Burst" icon="skills/spells/corpus_burst64.png" skill="15" level="4">
 		<spell name="Corpus Burst"/>
-		<description text="This spell makes corpses explode! Who doesn't like exploding corpses? Pretty much everyone, actually."/>
+		<description text="Este feitiço faz cadáveres explodirem! Quem não gosta de cadáveres explodindo? Basicamente todo mundo, na verdade."/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 	</ability>
+
 	<ability name="Miasmatic Putrefaction" icon="skills/spells/conjure_miasma64.png" skill="15" level="5">
 		<spell name="Miasmatic Putrefaction"/>
-		<description text="This spell just chokes things to death on the horrible, toxic, putrefying gases. Cheerful, isn't it? (Countered mostly by potpourri.)"/>
+		<description text="Este feitiço sufoca tudo até a morte com gases horríveis, tóxicos e apodrecidos. Alegre, não é? (É contrabalanceado principalmente por pot-pourri.)"/>
 		<secondarybuff id="0" amount="1" />
 		<!-- hp -->
 		<resistbuff toxic="1" putrefying="1" />
