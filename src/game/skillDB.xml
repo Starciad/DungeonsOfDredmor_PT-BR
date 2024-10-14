@@ -838,7 +838,7 @@
 	<!-- WARRIORING -->
 
 	<ability name="Combat Lumberjack" icon="skills/warrior/axemanship0_64.png" skill="1" level="0">
-		<description text="Embrace the Flannel. Become one with the Flannel. This skill forms the foundation of axe-wielding."/>
+		<description text="Abrace o Flanela. Torne-se um com o Flanela. Esta habilidade forma a base para o uso de machados."/>
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<secondarybuff id="4" amount="1"/>
@@ -847,7 +847,7 @@
 	</ability>
 
 	<ability name="Viking Strike" icon="skills/warrior/axemanship1_64.png" skill="1" level="1">
-		<description text="Join the Church of Odin! Learn to hate! With this skill, you have a chance to perform the 'Viking Strike' in melee combat."/>
+		<description text="Junte-se à Igreja de Odin! Aprenda a odiar! Com esta habilidade, você tem a chance de realizar o 'Golpe Viking' em combate corpo a corpo."/>
 		<!-- <spell name="Viking Strike"/> -->
 		<targetHitEffectBuff percentage="20" name="Viking Strike" />
 		<secondarybuff id="4" amount="2"/>
@@ -857,7 +857,7 @@
 	</ability>
 
 	<ability name="Axe Training" icon="skills/skill_axe.png" skill="1" level="2">
-		<description text="Vigorous training with your axe allows you to chop and cleave more fiercely and accurately. Saplings tremble. You occasionally deal a Crippling Wound."/>
+		<description text="O treinamento vigoroso com seu machado permite cortar e retalhar com mais força e precisão. As mudas de árvores tremem. Ocasionalmente, você causa uma Ferida Cripplante."/>
 		<damagebuff slashing="1" />
 		<targetHitEffectBuff percentage="8" name="Crippling Wound" />
 		<secondarybuff id="4" amount="2"/>
@@ -867,7 +867,7 @@
 	</ability>
 
 	<ability name="Norwegian Axenado" icon="skills/warrior/axemanship2_64.png" skill="1" level="3">
-		<description text="Destroy your foes with the axe-wielding powers described in the ancient sagas! With this skill, you can hit all of the enemies in an area around you."/>
+		<description text="Destrua seus inimigos com o poder do machado descrito nas sagas antigas! Com esta habilidade, você pode atingir todos os inimigos em uma área ao seu redor."/>
 		<spell name="Norwegian Axenado"/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
@@ -880,7 +880,7 @@
 	<ability name="Axe Mantra" icon="skills/warrior/axe_mantra64.png" skill="1" level="4" >
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
-		<description text="Spiritual devotion to the art of the axe has unlocked its secrets: You have a chance of executing exceptionally grievous attacks in combat while using axes."/>
+		<description text="A devoção espiritual à arte do machado desbloqueou seus segredos: Você tem a chance de realizar ataques excepcionalmente graves em combate usando machados."/>
 		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
@@ -889,7 +889,7 @@
 	</ability>
 
 	<ability name="Philosopher of the Axe" icon="skills/warrior/axemanship3_64.png" skill="1" level="5">
-		<description text="At the highest level, axe wielding is not just a combat skill. It is a way of life, and a way of being. Enhances your combat abilities when using axes and allows you to employ a terrifying latin-based attack."/>
+		<description text="No nível mais alto, usar machados não é apenas uma habilidade de combate. É um modo de vida e de ser. Melhora suas habilidades de combate ao usar machados e permite realizar um ataque aterrorizante baseado em latim."/>
 		<spell name="Cogito Ergo Splat"/>
 		<secondarybuff id="4" amount="5"/>
 		<!-- Crit -->
@@ -901,14 +901,14 @@
 	</ability>
 
 	<ability name="Student of Fencing" icon="skills/warrior/swordplay0_64.png" skill="0" level="0">
-		<description text="Just remember: the pointy bit of the sword goes into the body of your opponent. This is just the first step on the road to good swordsmanship and as such only provides minor combat bonuses."/>
+		<description text="Lembre-se: a ponta da espada deve entrar no corpo do seu oponente. Este é apenas o primeiro passo no caminho da boa esgrima e, como tal, oferece apenas bônus de combate menores."/>
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
 		<damagebuff slashing="1" />
 	</ability>
 
 	<ability name="Liechtenauer's Overhau" icon="skills/warrior/swordplay1_64.png" skill="0" level="1">
-		<description text="What exactly IS an Overhau? So glad you asked: it's a particularly teutonic (and particularly painful) attack which you have a chance to execute with each melee attack upon learning this skill. Damage scales to your Burliness."/>
+		<description text="O que exatamente é um Overhau? Que bom que você perguntou: é um ataque particularmente germânico (e particularmente doloroso) que você tem a chance de realizar com cada ataque corpo a corpo ao aprender essa habilidade. O dano aumenta conforme sua Força Bruta."/>
 		<!-- <spell name="Liechtenauer's Overhau"/> -->
 		<targetHitEffectBuff percentage="20" name="Liechtenauer's Overhau" />
 		<secondarybuff id="8" amount="2"/>
@@ -919,7 +919,7 @@
 	</ability>
 
 	<ability name="Sword Practice" icon="skills/skill_sword.png" skill="0" level="2">
-		<description text="With long hours of practice skewering flies, your deft use of the sword has grown defter still. You occasionally deal a Crippling Wound."/>
+		<description text="Com longas horas de prática espetando moscas, seu uso da espada se tornou ainda mais hábil. Ocasionalmente, você causa uma Ferida Cripplante."/>
 		<damagebuff piercing="1" />
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
@@ -929,7 +929,7 @@
 	</ability>
 
 	<ability name="Thibault's Trompement" icon="skills/warrior/swordplay2_64.png" skill="0" level="3">
-		<description text="Why go around when you can attack right through your foe? This skill can be used to attack all the tiles in a line through an opponent. Damage scales to your Nimbleness."/>
+		<description text="Por que dar a volta se você pode atacar direto através do seu inimigo? Esta habilidade pode ser usada para atacar todos os inimigos em uma linha reta através de um oponente. O dano aumenta conforme sua Agilidade."/>
 		<spell name="Thibault's Trompement"/>
 		<damagebuff piercing="2"/>
 		<secondarybuff id="9" amount="1" />
@@ -941,14 +941,14 @@
 	<ability name="Sword Lore" icon="skills/warrior/sword_lore64.png" skill="0" level="4" >
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<description text="Studious research into the use of swords has unlocked terrible secrets: You have a chance of executing exceptionally grievous attacks in combat while using swords."/>
+		<description text="Pesquisas minuciosas sobre o uso de espadas revelaram segredos terríveis: Você tem a chance de realizar ataques excepcionalmente graves em combate usando espadas."/>
 		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 	</ability>
 
 	<ability name="Sword Poet" icon="skills/warrior/swordplay3_64.png" skill="0" level="5">
-		<description text="The pen is said to be mightier than the sword, but a true warrior uses his sword AS a pen. With this skill, you master the use of the sword and counter-attack."/>
+		<description text="Dizem que a caneta é mais poderosa que a espada, mas um verdadeiro guerreiro usa sua espada COMO uma caneta. Com esta habilidade, você domina o uso da espada e contra-ataca."/>
 		<secondarybuff id="8" amount="4"/>
 		<!-- Counter -->
 		<secondarybuff id="9" amount="13"/>
@@ -963,7 +963,7 @@
 	</ability>
 
 	<ability name="Assistant Hammerer" icon="skills/warrior/macery0_64.png" skill="2" level="0">
-		<description text="If you had a hammer, you'd hammer in the morning. This basic macery training enhances crushing damage dealt in combat."/>
+		<description text="Se você tivesse um martelo, martelaria pela manhã. Este treinamento básico de combate com marretas melhora o dano esmagador causado em combate."/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
 		<damagebuff crushing="2"/>
@@ -971,7 +971,7 @@
 
 	<ability name="Dwarven Handshake" icon="skills/warrior/macery1_64.png" skill="2" level="1">
 		<targetHitEffectBuff percentage="20" name="Dwarven Handshake" />
-		<description text="This is the skill of teaching your enemy when to back off. This skill gives you a chance to hit with an especially damaging knockback attack in melee combat when using mace-class weapons."/>
+		<description text="Esta é a habilidade de ensinar ao inimigo quando recuar. Esta habilidade lhe dá a chance de acertar um ataque especialmente danoso de derrubada em combate corpo a corpo ao usar armas de classe marreta."/>
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
 		<secondarybuff id="9" amount="1" />
@@ -980,7 +980,7 @@
 	</ability>
 
 	<ability name="Mace Rehearsal" icon="skills/skill_mace.png" skill="2" level="2">
-		<description text="It's important to keep your mace in tune so you can batter beat-perfect on the big day. Grants the chance to deal a Crippling Wound."/>
+		<description text="É importante manter sua marreta afinada para que você possa acertar o ritmo perfeito no grande dia. Concede a chance de causar uma Ferida Cripplante."/>
 		<damagebuff crushing="1" />
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
@@ -991,7 +991,7 @@
 
 	<ability name="Ragnar's Meteor" icon="skills/warrior/macery2_64.png" skill="2" level="3">
 		<spell name="Ragnar's Meteor"/>
-		<description text="Drops a veritable meteor of crushing violence everywhere in front of you! This is a special area-effect attack you can perform."/>
+		<description text="Derruba um verdadeiro meteoro de violência esmagadora por toda parte à sua frente! Este é um ataque especial de área que você pode realizar."/>
 		<secondarybuff id="4" amount="1"/>
 		<!-- Crit -->
 		<damagebuff crushing="1" />
@@ -1002,7 +1002,7 @@
 	<ability name="Mace Knowledge" icon="skills/warrior/mace_knowledge64.png" skill="2" level="4" >
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
-		<description text="Measured pondering upon the meaning of maces has unlocked the dark secrets held within such weapons: You now have a chance of executing exceptionally grievous attacks in combat while using maces."/>
+		<description text="Meditações ponderadas sobre o significado das marretas desbloquearam os segredos sombrios contidos em tais armas: Agora você tem a chance de realizar ataques excepcionalmente graves em combate usando marretas."/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 		<targetHitEffectBuff percentage="6" name="Bleeding Out" />
