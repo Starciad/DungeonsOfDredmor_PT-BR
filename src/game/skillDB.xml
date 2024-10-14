@@ -1010,7 +1010,7 @@
 	</ability>
 
 	<ability name="Hammer Champion" icon="skills/warrior/macery3_64.png" skill="2" level="5">
-		<description text="Oh, it's hammer time. Your mace-based melee attacks are enhanced and you have a chance to deliver a Pedantic Beating which stuns your enemy and deals damage based on your burliness."/>
+		<description text="É hora do martelo. Seus ataques corpo a corpo com maces são aprimorados e você tem a chance de desferir uma Pancada Pedante que atordoa o inimigo e causa dano baseado na sua força bruta."/>
 		<targetHitEffectBuff percentage="15" name="Pedantic Beating" />
 		<secondarybuff id="9" amount="14"/>
 		<!-- EDR -->
@@ -1020,7 +1020,7 @@
 	</ability>
 
 	<ability name="Trainee Stick Wrangler" icon="skills/warrior/staff-fighting0_64.png" skill="3" level="0">
-		<description text="Just don't let go of the staff and you'll be fine. Basic training with the staff lets you block incoming attacks better."/>
+		<description text="Apenas não solte o bastão e tudo ficará bem. Treinamento básico com bastão permite bloquear melhor ataques recebidos."/>
 		<secondarybuff id="7" amount="2"/>
 		<!-- Block -->
 		<secondarybuff id="8" amount="1"/>
@@ -1029,7 +1029,7 @@
 	</ability>
 
 	<ability name="Spirit Conduit" icon="skills/warrior/staff-fighting1_64.png" skill="3" level="1">
-		<description text="This ability channels an especially powerful attack that takes place partly in the aetherial realm. Gives a chance to hit with this special power, and the additional training enhances your damage while using staves."/>
+		<description text="Essa habilidade canaliza um ataque especialmente poderoso que ocorre parcialmente no plano etéreo. Dá uma chance de acertar com esse poder especial, e o treinamento adicional aumenta o dano ao usar bastões."/>
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
 		<secondarybuff id="5" amount="2"/>
@@ -1041,7 +1041,7 @@
 	</ability>
 
 	<ability name="Staff Discipline" icon="skills/skill_staff.png" skill="3" level="2">
-		<description text="You believe in staff-control: You use both hands! Grants a chance to perform a spectacularly unpleasant bone-crushing attack."/>
+		<description text="Você acredita no controle do bastão: usa as duas mãos! Concede uma chance de realizar um ataque esmagadoramente desagradável que quebra ossos."/>
 		<damagebuff crushing="1" />
 		<targetHitEffectBuff percentage="8" name="Crushed Bones" />
 		<secondarybuff id="7" amount="1"/>
@@ -1051,7 +1051,7 @@
 	</ability>
 
 	<ability name="Ki Cascade Strike" icon="skills/warrior/staff-fighting2_64.png" skill="3" level="3">
-		<description text="Extending your reach by mysterious, secret methods developed by a cheesemonger-turned-gladiator, this maneuver strikes at an entire swath of enemies. Allows you to perform an area-attack."/>
+		<description text="Estendendo seu alcance por métodos misteriosos e secretos desenvolvidos por um queijeiro que virou gladiador, essa manobra atinge uma fileira inteira de inimigos. Permite realizar um ataque em área."/>
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
 		<secondarybuff id="4" amount="1"/>
@@ -1065,7 +1065,7 @@
 	<ability name="Staff Secrets" icon="skills/warrior/staff_secrets64.png" skill="3" level="4" >
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<description text="Deep questioning into the fathomless depths of the staff have lead to startling epiphanies about their use: You now have a chance of executing exceptionally grievous attacks in combat while using staves." />
+		<description text="Investigações profundas nas profundezas insondáveis do bastão levaram a epifanias surpreendentes sobre seu uso: agora você tem a chance de executar ataques excepcionalmente graves em combate ao usar bastões."/>
 		<targetHitEffectBuff percentage="6" name="Bleeding Out" />
 		<targetHitEffectBuff percentage="10" name="Crippling Wound" />
 		<secondarybuff id="2" amount="1"/>
@@ -1073,7 +1073,7 @@
 	</ability>
 
 	<ability name="Staff Sage" icon="skills/warrior/staff-fighting3_64.png" skill="3" level="5">
-		<description text="Common wisdom has it that the use of staves in wizardly combat has some kind of phallic symbolism. If so, it is a combat you have mastered - and with it, you have mastered yourself. Grants many combat and magical bonuses."/>
+		<description text="O senso comum diz que o uso de bastões em combate mágico tem algum tipo de simbolismo fálico. Se for esse o caso, é um combate que você dominou – e, com isso, dominou a si mesmo. Concede vários bônus de combate e magia."/>
 		<secondarybuff id="9" amount="12"/>
 		<!-- EDR -->
 		<secondarybuff id="7" amount="5"/>
@@ -1088,7 +1088,7 @@
 	</ability>
 
 	<ability name="Small Cricket Apprentice" icon="skills/warrior/unarmed_art0_64.png" skill="6" level="0">
-		<description text="Where did you receive your training? Chechnya? Afghanistan? This skill makes you tougher, faster, stronger, better. And your unarmed attacks pierce armour."/>
+		<description text="Onde você recebeu seu treinamento? Chechênia? Afeganistão? Essa habilidade te torna mais resistente, rápido, forte, melhor. E seus ataques desarmados perfuram armaduras."/>
 		<secondarybuff id="7" amount="2"/>
 		<!-- Block -->
 		<secondarybuff id="8" amount="3"/>
@@ -1103,7 +1103,7 @@
 	</ability>
 
 	<ability name="Throwing Buffalo Technique" icon="skills/warrior/unarmed_art1_64.png" skill="6" level="1">
-		<description text="Intense training allows you to shove large herd-animals with surprising power. This skill has worldly applications, to boot. Grants a chance to perform a special knock-back attack in melee combat."/>
+		<description text="Treinamento intenso permite empurrar grandes animais de rebanho com poder surpreendente. Essa habilidade tem aplicações práticas também. Concede uma chance de realizar um ataque especial de empurrão no combate corpo a corpo."/>
 		<spell name="Throwing Buffalo Technique"/>
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
@@ -1117,7 +1117,7 @@
 	</ability>
 
 	<ability name="Footwork" icon="skills/warrior/footwork64.png" skill="6" level="2">
-		<description text="Have your foot in the right place at the right time will make all the difference. Grants a chance to perform a spectacularly unpleasant bone-crushing attack."/>
+		<description text="Colocar o pé no lugar certo no momento certo fará toda a diferença. Concede uma chance de realizar um ataque espetacularmente desagradável que quebra ossos."/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- Block -->
 		<secondarybuff id="9" amount="1" />
@@ -1130,7 +1130,7 @@
 
 	<ability name="Gray Heron Takes Flight" icon="skills/warrior/unarmed_art2_64.png" skill="6" level="3">
 		<spell name="Gray Heron Takes Flight"/>
-		<description text="A gale of flesh shall blow your opponents away. This skill allows you to peform a special area-attack."/>
+		<description text="Uma rajada de carne varrerá seus oponentes. Essa habilidade permite realizar um ataque especial em área."/>
 		<secondarybuff id="9" amount="3"/>
 		<!-- EDR -->
 		<secondarybuff id="7" amount="2"/>
@@ -1147,7 +1147,7 @@
 	<ability name="Stone Sole" icon="skills/skill_unarmed.png" skill="6" level="4" >
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<description text="Now that you've walked a mile on other people's faces, your feet are as unyielding as your will: You now have a chance of executing exceptionally grievous attacks in combat while using your feet." />
+		<description text="Agora que você andou uma milha sobre os rostos de outras pessoas, seus pés são tão inflexíveis quanto sua vontade: agora você tem a chance de executar ataques excepcionalmente graves em combate ao usar os pés."/>
 		<secondarybuff id="3" amount="1"/>
 		<!-- magic power -->
 		<targetHitEffectBuff percentage="10" name="Stone Sole Pummeling" />
@@ -1155,7 +1155,7 @@
 	</ability>
 
 	<ability name="Master of Dragon Foot Technique" icon="skills/warrior/unarmed_art3_64.png" skill="6" level="5">
-		<description text="At this level, the student has become the master. Your attacks are imbued with celestial energy."/>
+		<description text="Nesse nível, o aluno se tornou o mestre. Seus ataques estão imbuídos de energia celestial."/>
 		<secondarybuff id="7" amount="4"/>
 		<!-- Block -->
 		<secondarybuff id="8" amount="6"/>
@@ -1171,7 +1171,7 @@
 	</ability>
 
 	<ability name="Bolt Thrower" icon="skills/warrior/crossbow0_64.png" skill="4" level="0">
-		<description text="'Ability exceeds effort.' Basic crossbow training slightly increases your chance to hit, and hit well. Ammo recovery rate is increased."/>
+		<description text="'A habilidade supera o esforço.' O treinamento básico com besta aumenta ligeiramente sua chance de acertar, e acertar bem. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
 		<secondarybuff id="4" amount="1"/>
@@ -1182,14 +1182,14 @@
 	</ability>
 
 	<ability name="Crossbow Blast" icon="skills/fight_in_the_shade64.png" skill="4" level="1">
-		<description text="This technique, robed in rumour and behatted by hearsay, allows a crossbow bolt to hit with many times the force expected, knocking an enemy back and causing great damage. It's tricky, so you can only pull it off sometimes." />
+		<description text="Essa técnica, envolta em rumores e enaltecida por boatos, permite que um virote atinja com muitas vezes a força esperada, derrubando um inimigo e causando grande dano. É complicado, então você só consegue realizar às vezes."/>
 		<damagebuff piercing="1"/>
 		<recoverybuff amount="10" />
 		<crossbowShotBuff name="Crossbow Blast" percentage="20" />
 	</ability>
 
 	<ability name="Bullseye" icon="skills/warrior/crossbow1_64.png" skill="4" level="2">
-		<description text="You only occasionally miss, and damage dealt with crossbows is increased slightly. Ammo recovery rate is increased."/>
+		<description text="Você só erra ocasionalmente, e o dano causado com bestas é ligeiramente aumentado. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="9" amount="8"/>
 		<!-- EDR -->
 		<secondarybuff id="4" amount="1"/>
@@ -1199,7 +1199,7 @@
 	</ability>
 
 	<ability name="Maverick" icon="skills/maverick64.png" skill="4" level="3">
-		<description text="'When you shoot to kill, aim for the heart.'; You have a chance to bore a bolt deep into the flesh of your target." />
+		<description text="'Quando atirar para matar, mire no coração.' Você tem a chance de perfurar profundamente a carne do alvo com o virote."/>
 		<damagebuff piercing="1"/>
 		<recoverybuff amount="5" />
 		<crossbowShotBuff name="Fleshbore" percentage="22" />
@@ -1217,7 +1217,7 @@
 	-->
 
 	<ability name="Prince of the Crossbow" icon="skills/skill_crossbow.png" skill="4" level="4">
-		<description text="It's like being second-cousin to the King of the Bow. Not bad. This skill enhances your damage dealt when wielding the crossbow. Ammo recovery rate is increased."/>
+		<description text="É como ser primo de segundo grau do Rei do Arco. Não é ruim. Essa habilidade aumenta o dano causado ao empunhar a besta. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="4" amount="4"/>
 		<!-- Crit -->
 		<secondarybuff id="9" amount="6" />
@@ -1228,7 +1228,7 @@
 	</ability>
 
 	<ability name="Underhander" icon="skills/skill_thrown.png" skill="5" level="0">
-		<description text="You've mastered the gentle lob, but don't try out for the basketball team yet. Slightly enhances combat abilities when using thrown weapons. Ammo recovery rate is increased."/>
+		<description text="Você dominou o arremesso suave, mas ainda não está pronto para entrar em um time de basquete. Melhora ligeiramente suas habilidades de combate ao usar armas arremessáveis. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="9" amount="2"/>
 		<secondarybuff id="4" amount="1"/>
 		<recoverybuff amount="10" />
@@ -1236,7 +1236,7 @@
 	</ability>
 
 	<ability name="Monster Toss" icon="skills/monster_toss64.png" skill="5" level="1" >
-		<description text="Don't like that monster? Just toss it away!" />
+		<description text="Não gosta daquele monstro? Apenas jogue-o para longe!"/>
 		<recoverybuff amount="5" />
 		<spell name="Monster Toss" />
 		<secondarybuff id="2" amount="" />
@@ -1244,7 +1244,7 @@
 	</ability>
 
 	<ability name="Peltast" icon="skills/warrior/thrown1_64.png" skill="5" level="2">
-		<description text="You're skilled in the hit-and-run tactics of a peltast. Well, not much of the running, but you try to dodge. Ammo recovery rate is increased."/>
+		<description text="Você é habilidoso nas táticas de ataque e fuga de um peltasta. Bem, sem muita fuga, mas você tenta desviar. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="9" amount="2"/>
 		<secondarybuff id="6" amount="2"/>
 		<damagebuff crushing="1"/>
@@ -1261,7 +1261,7 @@
 	-->
 
 	<ability name="Australian Technique" icon="skills/australian64.png" skill="5" level="3" >
-		<description text="The Australian Technique is tricky, but when you pull it off it will cause your weapon to burrow deep into your target's flesh (or flesh-analogue), causing terrible damage by the sheer thrown power of that Southern Land." />
+		<description text="A Técnica Australiana é complicada, mas quando você a executa, sua arma penetra profundamente no alvo, causando danos terríveis pela pura força do arremesso dessa Terra Austral."/>
 		<recoverybuff amount="5" />
 		<thrownBuff name="Fleshbore" percentage="20"/>
 	</ability>
@@ -1275,7 +1275,7 @@
 	-->
 	
 	<ability name="Regent of Throwing Stuff At People" icon="skills/warrior/thrown2_64.png" skill="5" level="4">
-		<description text="Though throwing stuff at people is not generally held to be among the nobler of the martial arts, you've managed to bring it a kind of regality. Sort of. Mostly you just throw stuff real hard. Ammo recovery rate is increased."/>
+		<description text="Embora atirar coisas em pessoas geralmente não seja considerado uma das artes marciais mais nobres, você conseguiu trazer um tipo de realeza para isso. De certa forma. Na maior parte, você apenas arremessa com muita força. A taxa de recuperação de munição é aumentada."/>
 		<secondarybuff id="4" amount="4"/>
 		<!-- Crit -->
 		<secondarybuff id="9" amount="2" />
@@ -1286,7 +1286,7 @@
 	</ability>
 
 	<ability name="Thick Skin" icon="skills/warrior/armourer0_64.png" skill="11" level="0">
-		<description text="You like getting hit, it builds character! Increases your life-force and chance to block attacks."/>
+		<description text="Você gosta de ser atingido, isso fortalece o caráter! Aumenta sua vitalidade e chance de bloquear ataques."/>
 		<secondarybuff id="7" amount="6"/>
 		<!-- block -->
 		<secondarybuff id="0" amount="5"/>
@@ -1294,7 +1294,7 @@
 	</ability>
 
 	<ability name="Suit Up" icon="skills/warrior/armourer1_64.png" skill="11" level="1">
-		<description text="To be armoured you must project the image of being armoured. This skill allows you to tighten the straps on your armour so that you use it more effectively, but this bonus is lost if you get hit too much."/>
+		<description text="Para estar armado, você deve projetar a imagem de estar armado. Essa habilidade permite ajustar melhor as alças da armadura para usá-la de forma mais eficaz, mas esse bônus é perdido se você for atingido demais."/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
 		<resistbuff piercing="1"/>
@@ -1302,7 +1302,7 @@
 	</ability>
 
 	<ability name="Walk It Off" icon="skills/stat_con64.png" skill="11" level="2">
-		<description text="It's only a flesh wound, just walk it off. Has a chance to increase health regeneration and stubborness after getting hit." />
+		<description text="É apenas um ferimento superficial, apenas continue andando. Tem a chance de aumentar a regeneração de saúde e a teimosia depois de ser atingido."/>
 		<secondarybuff id="0" amount="5"/>
 		<!-- hp -->
 		<secondarybuff id="7" amount="1"/>
@@ -1311,14 +1311,14 @@
 	</ability>
 
 	<ability name="It Only Makes You Stronger" icon="skills/stat_str64.png" skill="11" level="3">
-		<description text="Practice being beaten, crushed and stabbed has made you highly skilled in these activities. When you get hit there is a chance that your health, burliness, and piercing resistance will increase temporarily." />
+		<description text="Praticar ser espancado, esmagado e esfaqueado fez com que você se tornasse altamente habilidoso nessas atividades. Quando você é atingido, há uma chance de que sua saúde, força bruta e resistência a perfurações aumentem temporariamente."/>
 		<secondarybuff id="10" amount="1"/>
 		<!-- armor_absorption -->
 		<playerHitEffectBuff percentage="15" name="It Only Makes You Stronger" />
 	</ability>
 
 	<ability name="Master of Arms" icon="skills/skill_armour.png" skill="11" level="4">
-		<description text="You sleep in a cuirass, swim in a hauberk, and dance on sabotons. Enhances your defenses and gives a chance to trigger 'Suit Up' when you are hit."/>
+		<description text="Você dorme com uma couraça, nada com uma cota de malha e dança com sabatons. Aumenta suas defesas e dá a chance de ativar 'Equipar-se' quando você for atingido."/>
 		<secondarybuff id="7" amount="7"/>
 		<!-- block -->
 		<secondarybuff id="10" amount="2"/>
@@ -1328,34 +1328,34 @@
 	</ability>
 
 	<ability name="Squire of the Shield" icon="skills/skill_shieldbearer.png" skill="8" level="0">
-		<description text="Practice carrying so many other people's shields has made you rather good at handling your own."/>
+		<description text="Praticar carregar os escudos de outras pessoas fez com que você se tornasse muito bom em manejar o seu próprio."/>
 		<secondarybuff id="7" amount="8"/>
 		<!-- block -->
 	</ability>
 
 	<ability name="Duck And Cover!" icon="skills/warrior/shieldbearer1_64.png" skill="8" level="1">
-		<description text="Fight smarter, not better! Can increase your defense for a while after you are hit."/>
+		<description text="Lute com inteligência, não com força! Pode aumentar sua defesa por um tempo depois de ser atingido."/>
 		<playerHitEffectBuff percentage="20" name="Duck And Cover!" />
 		<secondarybuff id="7" amount="2"/>
 		<!-- block -->
 	</ability>
 
 	<ability name="Defensive Bash" icon="skills/warrior/shieldbearer2_64.png" skill="8" level="2">
-		<description text="Sometimes the best defense is to hit the other guy really hard on the head with your shield. Deals a large, crushing impact to an enemy, perhaps stunning them. Damage scales to your Stubborness." />
+		<description text="Às vezes, a melhor defesa é atingir o outro cara muito forte na cabeça com seu escudo. Causa um grande impacto esmagador em um inimigo, podendo atordoá-lo. O dano escala com sua Teimosia."/>
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
 		<spell name="Defensive Bash" />
 	</ability>
 
 	<ability name="Tortoise Maneuver" icon="skills/warrior/shieldbearer3_64.png" skill="8" level="3">
-		<description text="The Tortoise Maneuver is not particularly feared by anyone because it mostly involves just holding your shield over your head and cowering, but it might help you survive a little longer. Using this skill enhances your defense until you get hit enough that you lose focus."/>
+		<description text="A Manobra da Tartaruga não é particularmente temida por ninguém porque envolve basicamente segurar o escudo sobre a cabeça e se acovardar, mas pode ajudar você a sobreviver por mais tempo. Usar essa habilidade aumenta sua defesa até que você seja atingido o suficiente para perder o foco."/>
 		<spell name="Tortoise Maneuver" />
 		<secondarybuff id="7" amount="1"/>
 		<!-- block -->
 	</ability>
 
 	<ability name="Shield Savant" icon="skills/warrior/shieldbearer4_64.png" skill="8" level="4">
-		<description text="It's like the shield is a part of you. If a part of you didn't get hurt when it got hit by things, and it was really tough, and you held it between you and bad guys. So it's really more like you're really good with shields. Grants a chance to execute the Defensive Bash in combat."/>
+		<description text="É como se o escudo fosse parte de você. Se uma parte de você não se machucasse quando fosse atingida por coisas, e fosse muito dura, e você a segurasse entre você e os inimigos. Então, na verdade, você é muito bom com escudos. Concede uma chance de executar o Impacto Defensivo em combate."/>
 		<secondarybuff id="7" amount="8"/>
 		<!-- block -->
 		<primarybuff id="4" amount="1"/>
@@ -1369,18 +1369,18 @@
 	<!-- Dual Wield : Dextrous Warrior -->
 
 	<ability name="Swift Hands" icon="skills/skill_dualwield.png" skill="7" level="0">
-		<description text="Faster, kill, kill! Basic training allows you to effectively use two weapons at once."/>
+		<description text="Mais rápido, mate, mate! O treinamento básico permite que você use duas armas ao mesmo tempo de forma eficaz."/>
 	</ability>
 
 	<ability name="Offensive Maneuvering" icon="skills/warrior/dualwield1_64.png" skill="7" level="1">
-		<description text="Attack now with all the weapons *at the same time*! Your offensive abilities are increased for a short while. You automatically employ this skill when the chance presents itself."/>
+		<description text="Ataque agora com todas as armas *ao mesmo tempo*! Suas habilidades ofensivas são aumentadas por um curto período. Você usa essa habilidade automaticamente quando surge a oportunidade."/>
 		<targetHitEffectBuff percentage="12" name="Offensive Maneuvering" />
 		<secondarybuff id="8" amount="3"/>
 		<!-- Counter -->
 	</ability>
 
 	<ability name="Ambidextrous Defense" icon="skills/warrior/dualwield2_64.png" skill="7" level="2">
-		<description text="You can use twice the blocking power! Increases your ability to defend yourself."/>
+		<description text="Você pode usar o dobro do poder de bloqueio! Aumenta sua capacidade de se defender."/>
 		<secondarybuff id="8" amount="2"/>
 		<!-- Counter -->
 		<secondarybuff id="7" amount="4"/>
@@ -1388,7 +1388,7 @@
 	</ability>
 
 	<ability name="Combat Momentum" icon="skills/momentum64.png" skill="7" level="3" >
-		<description text="Keep up the momentum of combat for enhanced combat ability. Rip and tear!" />
+		<description text="Mantenha o impulso do combate para melhorar sua habilidade de combate. Rasgue e destrua!"/>
 		<targetHitEffectBuff percentage="100" name="Combat Momentum" />
 	</ability>
 
@@ -1399,7 +1399,7 @@
 	-->
 	
 	<ability name="Not Drizzt" icon="skills/warrior/dualwield3_64.png" skill="7" level="4">
-		<description text="The best part about being misunderstood is that you're also so totally awesome. Greatly increases your ability to counter attacks."/>
+		<description text="A melhor parte de ser incompreendido é que você também é totalmente incrível. Aumenta muito sua capacidade de contra-ataque."/>
 		<secondarybuff id="8" amount="10"/>
 		<!-- Counter -->
 		<secondarybuff id="2" amount="1"/>
@@ -1412,7 +1412,7 @@
 		<!-- edr -->
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
-		<description text="With some basic training, you don't miss as much in combat as linear mathematics would suggest."/>
+		<description text="Com algum treinamento básico, você erra menos em combate do que a matemática linear sugeriria."/>
 	</ability>
 
 	<ability name="True Aim" icon="skills/warrior/deadshot1_64.png" skill="12" level="1">
@@ -1421,7 +1421,7 @@
 		<secondarybuff id="4" amount="1"/>
 		<!-- crit -->
 		<targetHitEffectBuff percentage="14" name="Bleeding Out" />
-		<description text="You miss even less in combat of all kinds, and hit even better. You have a chance to score a bleeding-out wound on your enemies."/>
+		<description text="Você erra ainda menos em qualquer tipo de combate, e acerta ainda melhor. Você tem a chance de causar um ferimento que faz o inimigo sangrar."/>
 	</ability>
 
 	<ability name="Masterful Marksman" icon="skills/skill_deadshot.png" skill="12" level="2">
@@ -1430,21 +1430,21 @@
 		<secondarybuff id="4" amount="2"/>
 		<!-- crit -->
 		<targetHitEffectBuff percentage="16" name="Crippling Wound" />
-		<description text="In addition to not missing and hitting critical weak-points, you have a chance to score crippling wounds on your enemies."/>
+		<description text="Além de não errar e acertar pontos críticos, você tem a chance de causar ferimentos debilitantes nos inimigos."/>
 	</ability>
 
 	<ability name="Poor Impulse Control" icon="skills/warrior/berserker0_64.png" skill="9" level="0">
-		<description text="When you attack, there is a chance that you'll become really angry! This increases your attack abilties."/>
+		<description text="Quando você ataca, há uma chance de que você fique muito zangado! Isso aumenta suas habilidades de ataque."/>
 		<targetHitEffectBuff percentage="25" name="Berserker Rage" />
 	</ability>
 
 	<ability name="Viking Temperament" icon="skills/warrior/berserker1_64.png" skill="9" level="1">
-		<description text="When you defend, there is a chance that you'll become really angry! This also increases your attack abilities."/>
+		<description text="Quando você se defende, há uma chance de que você fique muito zangado! Isso também aumenta suas habilidades de ataque."/>
 		<playerHitEffectBuff percentage="25" name="Berserker Vengeance" />
 	</ability>
 
 	<ability name="Ancestral Body Paint" icon="skills/body_paint64.png" skill="9" level="2">
-		<description text="The markings of your ancestors will protect you in battle."/>
+		<description text="As marcas de seus ancestrais o protegerão na batalha."/>
 		<secondarybuff id="11" amount="10" />
 		<!-- magic resist -->
 		<secondarybuff id="22" amount="5" />
@@ -1457,11 +1457,11 @@
 		<!-- melee power -->
 		<targetHitEffectBuff percentage="13" name="More Berserker Rage" />
 		<playerHitEffectBuff percentage="12" name="More Berserker Rage" />
-		<description text="In melee combat you are prone to fits of extreme Berserker Rage! Even more! All this anger also causes you to hit harder."/>
+		<description text="No combate corpo a corpo, você está sujeito a acessos de extrema Fúria Berserker! Ainda mais! Toda essa raiva também faz com que você ataque com mais força."/>
 	</ability>
 
 	<ability name="Killing Blow" icon="skills/killing_blow64.png" skill="9" level="4">
-		<description text="Your next attack is going to make a real splash."/>
+		<description text="Seu próximo ataque vai causar um grande estrago."/>
 		<spell name="Killing Blow" />
 	</ability>
 
@@ -1475,21 +1475,21 @@
 	</ability>
 
 	<ability name="Aikido For Adventurers" icon="skills/aikido64.png" skill="10" level="1" >
-		<description text="You've read an article in the back of Adventurer Monthly about this, now let's see if it works... (Theoretically turns a dodge into a counterattack. Sometimes.)"/>
+		<description text="Você leu um artigo no final da 'Aventura Mensal' sobre isso, agora vamos ver se funciona... (Teoricamente transforma uma esquiva em um contra-ataque. Às vezes.)"/>
 		<triggerondodge percent="30" name="Adventurer Aikido" />
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 	</ability>
 
 	<ability name="Knightly Leap" icon="skills/rogue/leap64.png" skill="10" level="2">
-		<description text="With this ability, you can leap out of trouble - or into it."/>
+		<description text="Com essa habilidade, você pode saltar para fora de uma situação problemática – ou diretamente para dentro dela."/>
 		<secondarybuff id="6" amount="3"/>
 		<!-- dodge -->
 		<spell name="Knightly Leap" />
 	</ability>
 
 	<ability name="Transdimensional Dodge" icon="skills/transdimensional_dodge64.png" skill="10" level="3" >
-		<description text="Sometimes you can dodge almost out of reality (and then back into it). Whether this ends up being a good thing is to be seen on a per-case basis. You may activate this ability at will." />
+		<description text="Às vezes você pode desviar quase para fora da realidade (e depois voltar para ela). Se isso é bom ou ruim, só saberemos em casos específicos. Você pode ativar essa habilidade quando quiser."/>
 		<secondarybuff id="6" amount="3"/>
 		<!-- dodge -->
 		<primarybuff id="2" amount="1"/>
@@ -1498,7 +1498,7 @@
 	</ability>
 
 	<ability name="Supremely Sly Side-stepper" icon="skills/rogue/sidestepper64.png" skill="10" level="4">
-		<description text="Most Dodge! It's amazing you even get hit at all."/>
+		<description text="Esquiva Máxima! É impressionante que você seja atingido alguma vez."/>
 		<primarybuff id="2" amount="2"/>
 		<!-- nim -->
 		<secondarybuff id="6" amount="8"/>
@@ -1508,7 +1508,7 @@
 	<!-- ROGUERY -->
 
 	<ability name="Vending Machine Looter" icon="skills/rogue/vending_machine_looter64.png" skill="26" level="0">
-		<description text="Get one free item from every vending machine. If no one was watching, it wasn't a crime!" />
+		<description text="Pegue um item gratuito de cada máquina de vendas. Se ninguém estiver olhando, não é um crime!"/>
 		<primarybuff id="2" amount="1"/>
 		<secondarybuff id="16" amount="1"/>
 		<flags vmtheft="1"/>
@@ -1516,7 +1516,7 @@
 
 	<ability name="Lucky Pick" icon="skills/rogue/skill_burglary0_64.png" skill="26" level="1">
 		<flags opendoors="1" />
-		<description text="Locked doors pose no impediment to your Lucky Pick."/>
+		<description text="Portas trancadas não são obstáculo para o seu 'Palpite Afortunado'."/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="17" amount="1"/>
@@ -1525,7 +1525,7 @@
 
 	<ability name="Lockup" icon="skills/rogue/skill_burglary2_64.png" skill="26" level="2">
 		<spell name="Lockup"/>
-		<description text="Locks an enemy to their current position. Somewhere along the line you also learned something about traps." />
+		<description text="Trava um inimigo em sua posição atual. Em algum momento você também aprendeu algo sobre armadilhas."/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="16" amount="1"/>
@@ -1534,7 +1534,7 @@
 
 	<ability name="Ninja Vanish" icon="skills/rogue/skill_burglary1_64.png" skill="26" level="3">
 		<spell name="Ninja Vanish"/>
-		<description text="Allows you to disappear into the shadows and make a getaway."/>
+		<description text="Permite que você desapareça nas sombras e escape."/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="17" amount="1"/>
@@ -1543,7 +1543,7 @@
 
 	<ability name="Five-Finger Discount" icon="skills/rogue/skill_burglary3_64.png" skill="26" level="4">
 		<flags storetheft="1"/>
-		<description text="Steal an item the first time you enter a shop. Who doesn't love freebies?"/>
+		<description text="Roube um item na primeira vez que entrar em uma loja. Quem não ama brindes?"/>
 		<primarybuff id="2" amount="1"/>
 		<!-- nim -->
 		<secondarybuff id="16" amount="1"/>
@@ -1556,7 +1556,7 @@
 		<!-- nim -->
 		<secondarybuff id="17" amount="1"/>
 		<!-- trap sight -->
-		<description text="It's all right, you move in mysterious ways. Perfect for the inconspicuous exit from the scene of a crime."/>
+		<description text="Tudo bem, você se move de maneira misteriosa. Perfeito para uma saída discreta de uma cena de crime."/>
 	</ability>
 
 	<!-- Alchemy sub-abilities -->
