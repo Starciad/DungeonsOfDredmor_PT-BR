@@ -586,89 +586,89 @@
 
 	<ability name="Animate Blade Being" icon="skills/spells/blade_being64.png" skill="14" level="0">
 		<spell name="Animate Blade Being"/>
-		<description text="Brings some malevolent silverware to life, at which point it twirls around and stabs anyone who runs into it. It's not smart enough to move on its own."/>
+		<description text="Dá vida a alguns talheres malévolos que começam a girar e esfaquear qualquer um que esbarrar neles. Não são inteligentes o suficiente para se moverem sozinhos."/>
 	</ability>
 
 	<ability name="Animate Mustache" icon="skills/spells/mustache64.png" skill="14" level="1">
 		<spell name="Animate Mustache"/>
-		<description text="Animates a small mustache golem to fight alongside you. (But where does the mustache come from?)"/>
+		<description text="Cria um pequeno golem de bigode para lutar ao seu lado. (Mas de onde vem o bigode?)"/>
 	</ability>
 
 	<ability name="Unliving Wall" icon="skills/spells/summon_wall64.png" skill="14" level="2">
 		<spell name="Unliving Wall"/>
-		<description text="First concocted by the Mad Architect Montresor, this spell grows a wall from the floor (pounding anyone in the way with crushing masonry). Delightfully unnatural."/>
+		<description text="Primeiro criado pelo Arquiteto Louco Montresor, este feitiço faz uma parede emergir do chão (esmagando qualquer um no caminho com pesadas pedras). Deliciosamente antinatural."/>
 	</ability>
 
 	<ability name="Invive Thaumite Swarm" icon="skills/spells/thaumite_swarm64.png" skill="14" level="3">
 		<spell name="Thaumite Infection"/>
-		<description text="A cloud of thaumaturgons comes alive and consumes any being it touches with thoughtless voracity until sated, at which point it exits the body to await a new host."/>
+		<description text="Uma nuvem de taumaturgons ganha vida e consome qualquer ser que toque com voracidade irracional, até ficar saciada. Depois, abandona o corpo e aguarda um novo hospedeiro."/>
 	</ability>
 
 	<ability name="The Mortal Machine" icon="skills/spells/animate_robot64.png" skill="14" level="4">
 		<spell name="Grant Machine Mortality"/>
-		<description text="Summons a friendly robot companion to lacerate your enemies."/>
+		<description text="Invoca um robô companheiro amigável para dilacerar seus inimigos."/>
 	</ability>
 
 	<!-- Digging ray.-->
 	<ability name="Digging Ray" icon="skills/spells/montresors_wall64.png" skill="14" level="5">
 		<spell name="Digging Ray"/>
-		<description text="What was formed can be un-formed. Busts through walls and is basically game-breaking."/>
+		<description text="O que foi formado pode ser desfeito. Quebra paredes e basicamente quebra as regras do jogo."/>
 	</ability>
 
 	<!-- Mathemagical Formulae -->
 	<ability name="Froda's Jump Discontinuity" icon="skills/spells/blink64.png" skill="16" level="0">
 		<spell name="Froda's Jump Discontinuity"/>
-		<description text="This prototype teleportation spell was developed by Froda as part of a wizarding thesis project, 'A Study of Extra-planar Momentum in the 200 GeV Thaumaturgen Collision Range'. Its effects are considered unstable. Randomly teleports you."/>
+		<description text="Este protótipo de feitiço de teletransporte foi desenvolvido por Froda como parte de uma tese de magia, 'Um Estudo sobre o Momento Extraplanar na Faixa de Colisão de 200 GeV de Taumaturgon'. Seus efeitos são considerados instáveis. Teletransporta você aleatoriamente."/>
 	</ability>
 
 	<ability name="Beklam's Diminuating Calculus" icon="skills/spells/weakness64.png" skill="16" level="1">
 		<spell name="Beklam's Diminuating Calculus"/>
-		<description text="Can you subtract life itself? The Great Beklam discovered a way, to his undoing. This is a curse which greatly weakens an enemy, leaving them enfeebled."/>
+		<description text="É possível subtrair a própria vida? O Grande Beklam descobriu uma forma, o que acabou sendo sua ruína. Essa maldição enfraquece muito um inimigo, deixando-o debilitado."/>
 	</ability>
 
 	<ability name="Curse of the Golden Ratio" icon="skills/spells/curse_of_midas64.png" skill="16" level="2">
 		<spell name="Curse of the Golden Ratio"/>
-		<description text="The curse of the Golden ratio was first used by the great Mathemagician Xeuclid to convert the flesh of his enemies into useful, useful gold. You just have to keep poking to be sure it takes. Operates as describes - a rather profitable curse."/>
+		<description text="A maldição da Proporção Áurea foi usada pela primeira vez pelo grande Mathemágico Xeuclides para transformar a carne de seus inimigos em ouro valioso. Basta continuar cutucando para garantir que a maldição faça efeito. É uma maldição bastante lucrativa."/>
 	</ability>
 
 	<ability name="Zenzizenzizenzic" icon="skills/spells/zenziz64.png" skill="16" level="3">
 		<spell name="Zenzizenzizenzic"/>
-		<description text="The enhancement of one's own magical power is simply a function of correctly applying magical power. This is a stackable effect, naturally."/>
+		<description text="O aumento do próprio poder mágico é simplesmente uma função da correta aplicação do poder mágico. Este efeito é cumulativo, naturalmente."/>
 	</ability>
 
 	<ability name="Xeuclid's Translation" icon="skills/spells/zephyric_transport64.png" skill="16" level="4">
 		<spell name="Xeuclid's Translation"/>
-		<description text="A more refined (read: accurate) but more costly version of the Jump Discontinuity. We are assured that flesh-eating teleportation worms do not really exist."/>
+		<description text="Uma versão mais refinada (leia-se: precisa) e mais cara do Salto Discontinuo. Garantimos que vermes devoradores de carne do teletransporte não existem de verdade."/>
 	</ability>
 
 	<ability name="The Recursive Curse" icon="skills/spells/recursive_curse64.png" skill="16" level="5">
 		<spell name="The Recursive Curse"/>
-		<description text="This is the Curse that keeps on Cursing - it will make an enemy sorry that they ever lived."/>
+		<description text="Esta é a Maldição que Continua a Amaldiçoar - fará seu inimigo se arrepender de ter nascido."/>
 	</ability>
 
 	<!-- Psionics -->
 
 	<ability name="Narcosomatic Induction" icon="skills/spells/sleep64.png" skill="17" level="0">
 		<spell name="Narcosomatic Induction"/>
-		<description text="Sleep, now. Puts an enemy into a mildly painful, suffocating sleep."/>
+		<description text="Durma, agora! Coloca um inimigo em um sono levemente doloroso e sufocante."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
 	<ability name="Psychokinetic Shove" icon="skills/spells/psychokinetic_shove64.png" skill="17" level="1">
 		<spell name="Psychokinetic Shove"/>
-		<description text="Shove, now. Uses violent force to push a mass of enemies (and other things) away from you."/>
+		<description text="Empurre, agora! Usa força violenta para empurrar uma massa de inimigos (e outras coisas) para longe de você."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
 	<ability name="Crystal Healing" icon="skills/spells/crystal_healing64.png" skill="17" level="2">
 		<spell name="Crystal Healing"/>
-		<description text="Heals yourself with the power of crystals. Ooooh! Step on the shinies to enjoy their healing effects."/>
+		<description text="Cura você com o poder dos cristais. Ooooh! Pise nos brilhantes cristais para aproveitar seus efeitos curativos."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
 	<ability name="Nerve Staple" icon="skills/spells/nerve_staple64.png" skill="17" level="3">
 		<spell name="Nerve Staple"/>
-		<description text="Deals crippling existential damage to one being. Indiscreet use of this spell may provoke economic sanctions."/>
+		<description text="Causa dano existencial devastador a um ser. Uso indiscreto desse feitiço pode provocar sanções econômicas."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
@@ -681,13 +681,13 @@
 
 	<ability name="Pyrokinesis" icon="skills/spells/pyrokinesis64.png" skill="17" level="4">
 		<spell name="Pyrokinesis"/>
-		<description text="You're a firestarter, a terrific firestarter. You can set them alight with your mind."/>
+		<description text="Você é um incendiário nato, um incrível incendiário. Pode incendiar seus inimigos com a mente."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
 	<ability name="Unconditional Love" icon="skills/spells/unconditional_love64.png" skill="17" level="5">
 		<spell name="Unconditional Love"/>
-		<description text="Magically charms a monster into giving up their evil ways to become your buddy ... for a short time. Then they just stab you in the back again."/>
+		<description text="Encanta magicamente um monstro para abandonar seus caminhos malignos e se tornar seu amigo... por um tempo. Depois, ele apunhala você pelas costas."/>
 		<secondarybuff id="11" amount="1"/>
 	</ability>
 
@@ -695,34 +695,34 @@
 
 	<ability name="Deathly Hex" icon="skills/spells/deathly_hex64.png" skill="18" level="0">
 		<spell name="Deathly Hex"/>
-		<description text="Blast your enemies to necromantic ablution with the Bolt of Evil and sap their life-force, if you're powerful enough. Be careful though - use of this spell may curses the caster with Nerve-Searing, Pain-Wracking Death-Thingies."/>
+		<description text="Exploda seus inimigos com a Bênção do Mal e drene sua força vital, se você for poderoso o suficiente. Mas cuidado - usar esse feitiço pode amaldiçoar o conjurador com uma dolorosa morte."/>
 	</ability>
 
 	<ability name="Nightmare Curse" icon="skills/spells/nightmare_curse64.png" skill="18" level="1">
 		<spell name="Nightmare Curse"/>
-		<description text="The dreaded Shobastian Nightmare Curse causes your enemies to fall into a blissful slumber. Meanwhile, their brains are beset by Eldritch Things who cunningly replace their internal thinkmeats with the Bees of Evil. Caution: exposure to Bees of Evil may prove to have toxic side effects to the caster."/>
+		<description text="A temida Maldição do Pesadelo Shobastian faz com que seus inimigos entrem em um sono abençoado. Enquanto isso, seus cérebros são atacados por Seres Eldritch que substituem suas mentes por Abelhas do Mal. Cuidado: exposição às Abelhas do Mal pode causar efeitos colaterais tóxicos ao conjurador."/>
 	</ability>
 
 	<ability name="Mark of Chthon" icon="skills/spells/mark_of_chthon64.png" skill="18" level="2">
 		<spell name="Mark of Chthon"/>
-		<description text="With this spell, you can wear Chthon's Mark (which makes men mightier than mortals) for a short time. Beware the cost, of course."/>
+		<description text="Com este feitiço, você pode vestir a Marca de Chthon (que torna os homens mais poderosos que os mortais) por um curto período. Cuidado com o preço, claro."/>
 	</ability>
 
 	<ability name="Pact of Fleeting Life" icon="skills/spells/fleeting_life64.png" skill="18" level="3">
 		<spell name="Pact of Fleeting Life"/>
-		<description text="In exchange for the power to steal the life-force of your enemies, you promise to give some of your life to some elder being. This bartering is not for the faint of heart."/>
+		<description text="Em troca do poder de roubar a força vital dos seus inimigos, você promete dar parte da sua vida a algum ser ancestral. Essa barganha não é para os fracos."/>
 		<resistbuff necromantic="1"/>
 	</ability>
 
 	<ability name="Eldritch Inhabitation" icon="skills/spells/eldritch_pillar64.png" skill="18" level="4">
 		<spell name="Eldritch Inhabitation"/>
-		<description text="This spell posseses the target with a being not fit for this reality; it will tear its way back to where it came however it can, with predictably destructive results."/>
+		<description text="Este feitiço possui o alvo com um ser que não pertence a esta realidade; ele tentará voltar ao seu lugar de origem de qualquer maneira, causando destruição previsível."/>
 		<resistbuff necromantic="1"/>
 	</ability>
 
 	<ability name="Tenebrous Rift" icon="skills/spells/tenebrous_rift64.png" skill="18" level="5">
 		<spell name="Tenebrous Rift"/>
-		<description text="Opens a horrible rift of evil which consumes all in its reach."/>
+		<description text="Abre uma terrível fenda do mal que consome tudo ao seu alcance."/>
 		<resistbuff necromantic="1"/>
 	</ability>
 
@@ -730,70 +730,70 @@
 
 	<ability name="Power of Magic Steel" icon="skills/spells/magic_steel64.png" skill="19" level="0">
 		<spell name="Magic Steel"/>
-		<description text="Thunder and storm with the triumph of your magic steel! This spell grants your attacks the power of lightning (and you defense against the same)."/>
+		<description text="Trovão e tempestade com o triunfo do seu aço mágico! Este feitiço concede a seus ataques o poder do raio (e também defesa contra o mesmo)."/>
 	</ability>
 
 	<ability name="Skatha's Roots" icon="skills/spells/skathas_roots64.png" skill="19" level="1">
 		<spell name="Skatha's Roots"/>
-		<description text="These summoned roots stop your foes dead ...in their tracks. Also with the crushing of the throat and all that."/>
+		<description text="Estas raízes invocadas paralisam seus inimigos... no lugar. Além de esganar e todas aquelas coisas."/>
 	</ability>
 
 	<ability name="Arctic Vortex" icon="skills/spells/arctic_vortex64.png" skill="19" level="2">
 		<spell name="Arctic Vortex"/>
-		<description text="Cast this on your enemy to summon the cold Winds Of The North to bedevil your foes and chill their flesh from the bone."/>
+		<description text="Lance isso no seu inimigo para invocar os Ventos Gelados do Norte, atormentando seus inimigos e congelando sua carne até o osso."/>
 	</ability>
 
 	<!-- TODO: Odin's Barter -->
 	<ability name="Unholy Warcry" icon="skills/spells/unholy_warcry64.png" skill="19" level="3">
 		<spell name="Unholy Warcry"/>
-		<description text="Your unholy warcry drives fear and weakness into the hearts of your enemies, reducing their ability to fight and, more importantly, to fight back."/>
+		<description text="Seu grito de guerra profano infunde medo e fraqueza nos corações de seus inimigos, reduzindo sua capacidade de lutar e, mais importante, de lutar de volta."/>
 	</ability>
 
 	<ability name="Hand of Belimawr" icon="skills/spells/firehand64.png" skill="19" level="4">
 		<spell name="Hand of Belimawr"/>
-		<description text="The Hand of Belimawr is a fiery one indeed; it grants you fiery defense and fiery attacks and sucks up mana like you wouldn't believe."/>
+		<description text="A Mão de Belimawr é realmente ardente; concede-lhe defesa e ataques flamejantes e consome mana como você não acreditaria."/>
 	</ability>
 
 	<ability name="Thor's Fulminaric Bolt" icon="skills/spells/fulminaric_bolt64.png" skill="19" level="5">
 		<spell name="Thor's Fulminaric Bolt"/>
-		<description text="Calls down the fury of Thor in the form of a bolt of lightning. Stand back!"/>
+		<description text="Invoca a fúria de Thor na forma de um raio. Afaste-se!"/>
 	</ability>
 
 	<!-- Asrologer -->
 
 	<ability name="Radiant Aura" icon="skills/spells/radiant_aura64.png" skill="20" level="0">
 		<spell name="Radiant Aura"/>
-		<description text="Surrounds you with a halo of light which illuminates the darkness (and your inner strength). Those who dare attack you are occasionally met with a blinding flash which stuns. It can only absorb a few hits before the aura is dissipated."/>
+		<description text="Cerca você com um halo de luz que ilumina a escuridão (e sua força interior). Aqueles que ousam atacá-lo são ocasionalmente cegados por um clarão que os atordoa. Pode absorver apenas alguns golpes antes que a aura se dissipe."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 
 	<ability name="Solar Inscription" icon="skills/spells/divine_inscription64.png" skill="20" level="1">
 		<spell name="Solar Inscription"/>
-		<description text="This magic rune uses the burning power of the sun to stop your foes dead ... in their tracks, at least."/>
+		<description text="Esta runa mágica usa o poder ardente do sol para parar seus inimigos... no lugar, pelo menos."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 
 	<ability name="Blinding Flash" icon="skills/spells/blinding_light64.png" skill="20" level="2">
 		<spell name="Blinding Flash"/>
-		<description text="Blinds those in a ring around you with a burning flash of light which causes pain and paralysis."/>
+		<description text="Cega aqueles ao seu redor com um clarão ardente de luz que causa dor e paralisia."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 
 	<ability name="Syzygy" icon="skills/spells/syzygy64.png" skill="20" level="3">
 		<spell name="Syzygy"/>
-		<description text="Aligns the planets to grant you extra-ordinary agility, power, and constitution! Requires mana to upkeep the effect."/>
+		<description text="Alinha os planetas para conceder-lhe agilidade, poder e constituição extraordinários! Requer mana para manter o efeito."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 	
 	<ability name="Celestial Aegis" icon="skills/spells/celestial_aegis64.png" skill="20" level="4">
 		<spell name="Celestial Aegis"/>
-		<description text="With this shield of astrological power, the forces of the cosmos protect you. Usually. The effect will dissapate if you are hit, and requires mana to keep active."/>
+		<description text="Com este escudo de poder astrológico, as forças do cosmos o protegem. Normalmente. O efeito se dissipa se você for atingido e requer mana para permanecer ativo."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 
 	<ability name="The Stars Aligned" icon="skills/spells/stars_aligned64.png" skill="20" level="5">
 		<spell name="The Stars Aligned"/>
-		<description text="With the stars aligned just so, terrible celestial energies are unleashed upon all around you."/>
+		<description text="Com os astros alinhados, terríveis energias celestiais são liberadas sobre todos ao seu redor."/>
 		<resistbuff aethereal="1"/>
 	</ability>
 
@@ -801,37 +801,37 @@
 
 	<ability name="Dragon's Breath" icon="skills/spells/dragons_breath64.png" skill="21" level="0">
 		<spell name="Dragon's Breath"/>
-		<description text="You can belch forth a jet of flame, not unlike that incident with the wager involving an entire barrel of Dwarven Rum. It sets anyone in the way, including the floor, on fire."/>
+		<description text="Você pode lançar um jato de chamas, parecido com aquele incidente envolvendo uma aposta com um barril inteiro de Rum Anão. Incendeia qualquer um no caminho, incluindo o chão."/>
 	</ability>
 
 	<!-- TODO: Blazetrailing -->
 	<ability name="Rune of Exploding" icon="skills/spells/rune_of_exploding64.png" skill="21" level="1">
 		<spell name="Rune of Exploding"/>
-		<description text="Inscribes a magical exploding rune into the floor. Watch your step!"/>
+		<description text="Inscreve uma runa mágica explosiva no chão. Cuidado por onde anda!"/>
 		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="Summon Wyrmling" icon="skills/spells/summon_wyrmling64.png" skill="21" level="2">
 		<spell name="Summon Wyrmling"/>
-		<description text="This fiery ritual summons a dragony friend who will happily set people alight and trigger traps for you. Like most Promethean spells, the summoning process has the side effect of shooting fire all over the place."/>
+		<description text="Este ritual flamejante invoca um amigo dragônico que alegremente incendeia pessoas e desarma armadilhas para você. Como na maioria dos feitiços prometéicos, o processo de invocação tem o efeito colateral de disparar fogo por todo lado."/>
 		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="Obvious Fireball" icon="skills/spells/fireball64.png" skill="21" level="3">
 		<spell name="Obvious Fireball"/>
-		<description text="It's a fireball. It goes BOOM. Then with the burning. What more do you want?"/>
+		<description text="É uma bola de fogo. Ela faz BOOM. E depois vem a queimação. O que mais você quer?"/>
 		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="Gog's Tactical Pyre" icon="skills/spells/tactical_pyre64.png" skill="21" level="4">
 		<spell name="Gog's Tactical Pyre"/>
-		<description text="Summons a wall of fire from The Elemental Plane of Walls of Fire. Burns out over several turns as the otherworldly fuel-line reaches the Peak Mana crisis. Greater magical ability makes the spell easier to cast and the fire burn hotter."/>
+		<description text="Invoca uma parede de fogo do Plano Elemental de Paredes de Fogo. Queima por vários turnos enquanto a linha de combustível de outro mundo se esgota. Quanto maior sua habilidade mágica, mais fácil de conjurar e mais quente o fogo arde."/>
 		<resistbuff conflagratory="1"/>
 	</ability>
 
 	<ability name="Infernal Torus" icon="skills/spells/infernal_torus64.png" skill="21" level="5">
 		<spell name="Infernal Torus"/>
-		<description text="By busting some sweet dance moves, you set the dance floor on fire, effectively setting all enemies around you on fire. Also more fire beyond that, it's really quite a mess. Greater magical power makes the fire all the hotter."/>
+		<description text="Ao fazer movimentos de dança incríveis, você coloca a pista de dança em chamas, incendiando efetivamente todos os inimigos ao seu redor. E mais fogo além disso, é realmente uma bagunça. Quanto mais poder mágico, mais quente o fogo."/>
 		<resistbuff conflagratory="1"/>
 	</ability>
 
@@ -880,7 +880,7 @@
 	<ability name="Axe Mantra" icon="skills/warrior/axe_mantra64.png" skill="1" level="4" >
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
-		<description text="Spiritual devotion to the art of the axe has unlocked its secrets: You have a chance of executing exceptionally grievous attacks in combat while using axes." />
+		<description text="Spiritual devotion to the art of the axe has unlocked its secrets: You have a chance of executing exceptionally grievous attacks in combat while using axes."/>
 		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
 		<secondarybuff id="4" amount="2"/>
 		<!-- Crit -->
@@ -941,7 +941,7 @@
 	<ability name="Sword Lore" icon="skills/warrior/sword_lore64.png" skill="0" level="4" >
 		<secondarybuff id="9" amount="1"/>
 		<!-- EDR -->
-		<description text="Studious research into the use of swords has unlocked terrible secrets: You have a chance of executing exceptionally grievous attacks in combat while using swords." />
+		<description text="Studious research into the use of swords has unlocked terrible secrets: You have a chance of executing exceptionally grievous attacks in combat while using swords."/>
 		<targetHitEffectBuff percentage="16" name="Bleeding Out" />
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
@@ -1002,7 +1002,7 @@
 	<ability name="Mace Knowledge" icon="skills/warrior/mace_knowledge64.png" skill="2" level="4" >
 		<secondarybuff id="9" amount="2"/>
 		<!-- EDR -->
-		<description text="Measured pondering upon the meaning of maces has unlocked the dark secrets held within such weapons: You now have a chance of executing exceptionally grievous attacks in combat while using maces." />
+		<description text="Measured pondering upon the meaning of maces has unlocked the dark secrets held within such weapons: You now have a chance of executing exceptionally grievous attacks in combat while using maces."/>
 		<secondarybuff id="2" amount="1"/>
 		<!-- melee power -->
 		<targetHitEffectBuff percentage="6" name="Bleeding Out" />
